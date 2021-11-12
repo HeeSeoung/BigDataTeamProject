@@ -10,7 +10,7 @@ headers = {'Content-Type': 'application/json'}
 data = '{"login_code": "187268", "phone": "+821086094104"}'
 response = requests.post('https://web-production.lime.bike/api/rider/v1/login', headers=headers, data=data)
 
-# 스쿠터 데이터 받아오기
+# 입력받은 쿠키와 토큰값을 설정하고 전동킥보드 정보를 요청합니다.
 rsp_token = response.json().get('token')
 rsp_cookie = response.cookies.get('_limebike-web_session')
 
