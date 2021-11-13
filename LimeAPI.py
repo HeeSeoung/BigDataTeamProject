@@ -3,7 +3,6 @@ import pandas as pd
 from datetime import datetime
 import schedule
 import time
-import sys
 
 
 def dataCollect(token, cookie):
@@ -34,22 +33,23 @@ def dataCollect(token, cookie):
     df.insert(0, 'id', df_bike['id'])
     df.insert(3, 'collect_time', now)
     df_collected = pd.concat([df_collected, df])
-    print(now)
+    print("요청 시간 : ", now)
 
 
 def breakCollect():
-    global df_collected
-    df_collected.to_csv("./LimeData.csv", index=False)
+    global df_collected, running
+    df_collected.to_csv("./data/LimeData.csv", index=False)
+    running = False
     print("설정한 시간이 완료되어 프로그램을 종료합니다.")
-    sys.exit()
+    return schedule.CancelJob
 
 
-# 1. OTP코드를 메시지로 받습니다.
-rsp = requests.get('https://web-production.lime.bike/api/rider/v1/login?phone=%2B821086094104')
+# 1. OTP코드를 메시지로 받습니다. 전화번호를 URL마지막에 넣어주세요 +8210(핸드폰 번호)
+rsp = requests.get('https://web-production.lime.bike/api/rider/v1/login?phone=%2B821012345678')
 
 # 2. 핸드폰으로 입력받은 OTP코드를 login_code에 입력합니다.
 header = {'Content-Type': 'application/json'}
-data = '{"login_code": "441056", "phone": "+821086094104"}'
+data = '{"login_code": "680783", "phone": "+821012345678"}'
 response = requests.post('https://web-production.lime.bike/api/rider/v1/login', headers=header, data=data)
 
 # 3. 입력받은 쿠키와 토큰값을 설정하고 전동킥보드 정보를 요청합니다.
@@ -57,11 +57,12 @@ rsp_token = response.json().get('token')
 rsp_cookie = response.cookies.get('_limebike-web_session')
 
 df_collected = pd.DataFrame()
-schedule.every(1).minutes.do(dataCollect, rsp_token, rsp_cookie)
-schedule.every().day.at("13:30").do(breakCollect)
-df_collected.to_csv('')
-while True:
+running = True
+schedule.every(10).minutes.do(dataCollect, rsp_token, rsp_cookie)
+
+# 종료 시간을 입력합니다.
+schedule.every().day.at("00:45").do(breakCollect)
+
+while running:
     schedule.run_pending()
     time.sleep(1)
-
-
