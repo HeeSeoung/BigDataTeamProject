@@ -3,6 +3,7 @@ import pandas as pd
 from datetime import datetime
 import schedule
 import time
+import sys
 
 
 def dataCollect(token, cookie):
@@ -33,6 +34,15 @@ def dataCollect(token, cookie):
     df.insert(0, 'id', df_bike['id'])
     df.insert(3, 'collect_time', now)
     df_collected = pd.concat([df_collected, df])
+    print(now)
+
+
+def breakCollect():
+    global df_collected
+    df_collected.to_csv("./LimeData.csv", index=False)
+    print("설정한 시간이 완료되어 프로그램을 종료합니다.")
+    sys.exit()
+
 
 # 1. OTP코드를 메시지로 받습니다.
 rsp = requests.get('https://web-production.lime.bike/api/rider/v1/login?phone=%2B821086094104')
@@ -47,8 +57,9 @@ rsp_token = response.json().get('token')
 rsp_cookie = response.cookies.get('_limebike-web_session')
 
 df_collected = pd.DataFrame()
-schedule.every(10).minutes.do(dataCollect, rsp_token, rsp_cookie)
-
+schedule.every(1).minutes.do(dataCollect, rsp_token, rsp_cookie)
+schedule.every().day.at("13:30").do(breakCollect)
+df_collected.to_csv('')
 while True:
     schedule.run_pending()
     time.sleep(1)
