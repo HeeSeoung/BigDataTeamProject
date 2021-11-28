@@ -6,7 +6,7 @@ from PIL import Image
 import numpy as np
 
 
-def AddNouns(dataset) -> pd.DataFrame:
+def AddNouns(dataset) -> list:
     '''
     명사 추출 데이터를 데이터 프레입에 추가합니다.
     input : 'title', 'content' 포함된 dataframe
@@ -21,7 +21,7 @@ def AddNouns(dataset) -> pd.DataFrame:
         nouns.append(li)
 
     dataset['nouns'] = nouns
-    return dataset, all
+    return all
 
 
 dataset = pd.read_csv("../jinwoo/data/경향_도쿄.csv")
