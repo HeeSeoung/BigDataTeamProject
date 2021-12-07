@@ -41,8 +41,9 @@ def textPreprocessing(dataset) -> pd.DataFrame:
     contentList = []
     nounsList = []
     dateList = []
+    pressList = []
 
-    for title, content, nouns, date in zip(dataset['title'], dataset['content'], dataset['nouns'], dataset['date']):
+    for title, content, nouns, date,press in zip(dataset['title'], dataset['content'], dataset['nouns'], dataset['date'], dataset['press']):
       is_visited = [False for i in range(len(eventList))]
       for noun in nouns:
         for k in range(len(eventList)):
@@ -53,13 +54,15 @@ def textPreprocessing(dataset) -> pd.DataFrame:
             contentList.append(content)
             nounsList.append(nouns)
             dateList.append(date)
+            pressList.append(press)
 
     data_revised = pd.DataFrame({
         'title': titleList,
         'content': contentList,
         'label': label,
         'nouns': nounsList,
-        'date': dateList
+        'date': dateList,
+        'press': pressList
     })
 
     return data_revised
