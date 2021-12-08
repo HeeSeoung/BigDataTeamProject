@@ -1,0 +1,4010 @@
+,Nation,Olympic,Gold,Silver,Bronze,event_count
+0,Spain,tokyo-2020,3,8,6,36
+1,San Marino,tokyo-2020,0,1,2,3
+2,United States of America,tokyo-2020,39,41,33,43
+3,Slovakia,tokyo-2020,1,2,1,12
+4,Japan,tokyo-2020,27,13,17,46
+5,Australia,tokyo-2020,17,7,21,40
+6,People's Republic of China,tokyo-2020,38,32,18,41
+7,Great Britain,tokyo-2020,22,21,22,35
+8,ROC,tokyo-2020,20,28,22,38
+9,Italy,tokyo-2020,10,10,20,38
+10,Mexico,tokyo-2020,0,0,4,29
+11,Egypt,tokyo-2020,1,1,4,23
+12,Belarus,tokyo-2020,1,3,3,19
+13,Islamic Republic of Iran,tokyo-2020,3,2,2,15
+14,Switzerland,tokyo-2020,3,4,6,25
+15,Norway,tokyo-2020,4,2,2,16
+16,Serbia,tokyo-2020,3,1,5,15
+17,Germany,tokyo-2020,10,11,16,36
+18,Indonesia,tokyo-2020,1,1,3,5
+19,Czech Republic,tokyo-2020,4,4,3,24
+20,Mongolia,tokyo-2020,0,1,3,9
+21,Puerto Rico,tokyo-2020,1,0,0,14
+22,Poland,tokyo-2020,4,5,5,27
+23,Republic of Korea,tokyo-2020,6,4,10,31
+24,Uzbekistan,tokyo-2020,3,0,2,13
+25,Malaysia,tokyo-2020,0,1,1,7
+26,Slovenia,tokyo-2020,3,1,1,15
+27,Hungary,tokyo-2020,6,7,7,24
+28,Cuba,tokyo-2020,7,3,5,13
+29,France,tokyo-2020,10,12,11,40
+30,India,tokyo-2020,1,2,4,16
+31,Denmark,tokyo-2020,3,4,4,19
+32,Croatia,tokyo-2020,3,3,2,16
+33,Ukraine,tokyo-2020,1,6,12,26
+34,Oman,tokyo-2020,0,0,0,2
+35,Argentina,tokyo-2020,0,1,2,28
+36,Turkey,tokyo-2020,2,2,9,17
+37,Kazakhstan,tokyo-2020,0,0,8,23
+38,Venezuela,tokyo-2020,1,3,0,15
+39,Lithuania,tokyo-2020,0,1,0,12
+40,Estonia,tokyo-2020,1,0,1,14
+41,Colombia,tokyo-2020,0,4,1,18
+42,Azerbaijan,tokyo-2020,0,3,4,10
+43,Peru,tokyo-2020,0,0,0,15
+44,Pakistan,tokyo-2020,0,0,0,5
+45,Thailand,tokyo-2020,1,0,1,14
+46,Israel,tokyo-2020,2,0,2,19
+47,Philippines,tokyo-2020,1,2,1,10
+48,Austria,tokyo-2020,1,1,5,23
+49,Chinese Taipei,tokyo-2020,2,4,6,16
+50,Bangladesh,tokyo-2020,0,0,0,2
+51,Afghanistan,tokyo-2020,0,0,0,2
+52,Kosovo,tokyo-2020,2,0,0,4
+53,Romania,tokyo-2020,1,3,0,17
+54,Singapore,tokyo-2020,0,0,0,9
+55,Belgium,tokyo-2020,3,1,3,25
+56,Bhutan,tokyo-2020,0,0,0,3
+57,Algeria,tokyo-2020,0,0,0,13
+58,Sri Lanka,tokyo-2020,0,0,0,4
+59,Kyrgyzstan,tokyo-2020,0,2,1,6
+60,Bosnia and Herzegovina,tokyo-2020,0,0,0,4
+61,Nepal,tokyo-2020,0,0,0,2
+62,Refugee Olympic Team,tokyo-2020,0,0,0,11
+63,Ireland,tokyo-2020,2,0,2,20
+64,Portugal,tokyo-2020,1,1,2,19
+65,Qatar,tokyo-2020,2,0,1,6
+66,Kuwait,tokyo-2020,0,0,1,3
+67,Cyprus,tokyo-2020,0,0,0,3
+68,Morocco,tokyo-2020,1,0,0,16
+69,Bahrain,tokyo-2020,0,1,0,4
+70,Senegal,tokyo-2020,0,0,0,6
+71,New Zealand,tokyo-2020,7,6,7,25
+72,Chile,tokyo-2020,0,0,0,20
+73,Guatemala,tokyo-2020,0,0,0,10
+74,Lebanon,tokyo-2020,0,0,0,3
+75,Finland,tokyo-2020,0,0,2,11
+76,Bulgaria,tokyo-2020,3,1,2,12
+77,Iraq,tokyo-2020,0,0,0,2
+78,Ecuador,tokyo-2020,2,1,0,16
+79,Greece,tokyo-2020,2,1,1,20
+80,Albania,tokyo-2020,0,0,0,4
+81,Latvia,tokyo-2020,1,0,1,14
+82,Jordan,tokyo-2020,0,1,1,6
+83,Yemen,tokyo-2020,0,0,0,2
+84,Tunisia,tokyo-2020,1,1,0,16
+85,Georgia,tokyo-2020,2,5,1,8
+86,Montenegro,tokyo-2020,0,0,0,6
+87,Armenia,tokyo-2020,0,2,2,6
+88,Malta,tokyo-2020,0,0,0,3
+89,Canada,tokyo-2020,7,6,11,40
+90,Republic of Moldova,tokyo-2020,0,0,1,7
+91,Brazil,tokyo-2020,6,6,8,32
+92,North Macedonia,tokyo-2020,0,1,0,5
+93,Aruba,tokyo-2020,0,0,0,1
+94,Myanmar,tokyo-2020,0,0,0,2
+95,Vietnam,tokyo-2020,0,0,0,8
+96,Nicaragua,tokyo-2020,0,0,0,4
+97,Iceland,tokyo-2020,0,0,0,1
+98,Saudi Arabia,tokyo-2020,0,1,0,7
+99,Sweden,tokyo-2020,3,6,0,22
+100,United Arab Emirates,tokyo-2020,0,0,0,2
+101,Jamaica,tokyo-2020,4,1,4,4
+102,Dominican Republic,tokyo-2020,0,3,2,10
+103,Netherlands,tokyo-2020,10,12,14,31
+104,South Africa,tokyo-2020,1,2,0,22
+105,Nigeria,tokyo-2020,0,1,1,8
+106,Sao Tome and Principe,tokyo-2020,0,0,0,1
+107,Samoa,tokyo-2020,0,0,0,4
+108,Cook Islands,tokyo-2020,0,0,0,2
+109,Mozambique,tokyo-2020,0,0,0,4
+110,Belize,tokyo-2020,0,0,0,1
+111,Ethiopia,tokyo-2020,1,1,2,3
+112,Eritrea,tokyo-2020,0,0,0,2
+113,Trinidad and Tobago,tokyo-2020,0,0,0,7
+114,Luxembourg,tokyo-2020,0,0,0,6
+115,Costa Rica,tokyo-2020,0,0,0,6
+116,Paraguay,tokyo-2020,0,0,0,5
+117,Namibia,tokyo-2020,0,1,0,6
+118,"Hong Kong, China",tokyo-2020,1,2,3,14
+119,Rwanda,tokyo-2020,0,0,0,2
+120,Burkina Faso,tokyo-2020,0,0,1,4
+121,Panama,tokyo-2020,0,0,0,4
+122,Zambia,tokyo-2020,0,0,0,3
+123,Côte d'Ivoire,tokyo-2020,0,0,1,5
+124,Honduras,tokyo-2020,0,0,0,4
+125,Mauritius,tokyo-2020,0,0,0,4
+126,Eswatini,tokyo-2020,0,0,0,1
+127,Uganda,tokyo-2020,2,1,1,3
+128,Cameroon,tokyo-2020,0,0,0,5
+129,Haiti,tokyo-2020,0,0,0,3
+130,Democratic Republic of the Congo,tokyo-2020,0,0,0,3
+131,Tajikistan,tokyo-2020,0,0,0,2
+132,Ghana,tokyo-2020,0,0,1,4
+133,Kenya,tokyo-2020,4,4,2,6
+134,Guyana,tokyo-2020,0,0,0,2
+135,Burundi,tokyo-2020,0,0,0,2
+136,Botswana,tokyo-2020,0,0,1,2
+137,Cape Verde,tokyo-2020,0,0,0,2
+138,Somalia,tokyo-2020,0,0,0,1
+139,El Salvador,tokyo-2020,0,0,0,2
+140,Antigua and Barbuda,tokyo-2020,0,0,0,2
+141,Papua New Guinea,tokyo-2020,0,0,0,3
+142,Liechtenstein,tokyo-2020,0,0,0,2
+143,Angola,tokyo-2020,0,0,0,3
+144,Fiji,tokyo-2020,1,0,1,4
+145,Bermuda,tokyo-2020,1,0,0,2
+146,Syrian Arab Republic,tokyo-2020,0,0,1,4
+147,Vanuatu,tokyo-2020,0,0,0,3
+148,Togo,tokyo-2020,0,0,0,2
+149,Monaco,tokyo-2020,0,0,0,3
+150,Andorra,tokyo-2020,0,0,0,1
+151,Mali,tokyo-2020,0,0,0,1
+152,Gabon,tokyo-2020,0,0,0,2
+153,Niger,tokyo-2020,0,0,0,2
+154,Tonga,tokyo-2020,0,0,0,2
+155,Suriname,tokyo-2020,0,0,0,2
+156,Maldives,tokyo-2020,0,0,0,1
+157,Guinea-Bissau,tokyo-2020,0,0,0,2
+158,Guam,tokyo-2020,0,0,0,2
+159,Guinea,tokyo-2020,0,0,0,2
+160,Bolivia,tokyo-2020,0,0,0,2
+161,Zimbabwe,tokyo-2020,0,0,0,2
+162,Chad,tokyo-2020,0,0,0,2
+163,Kiribati,tokyo-2020,0,0,0,2
+164,Comoros,tokyo-2020,0,0,0,1
+165,Uruguay,tokyo-2020,0,0,0,3
+166,Sierra Leone,tokyo-2020,0,0,0,1
+167,Palestine,tokyo-2020,0,0,0,2
+168,Sudan,tokyo-2020,0,0,0,2
+169,Djibouti,tokyo-2020,0,0,0,1
+170,Gambia,tokyo-2020,0,0,0,1
+171,Malawi,tokyo-2020,0,0,0,2
+172,Libya,tokyo-2020,0,0,0,2
+173,Benin,tokyo-2020,0,0,0,3
+174,Seychelles,tokyo-2020,0,0,0,2
+175,Lao People's Democratic Republic,tokyo-2020,0,0,0,1
+176,Madagascar,tokyo-2020,0,0,0,2
+177,Turkmenistan,tokyo-2020,0,1,0,2
+178,"Virgin Islands, US",tokyo-2020,0,0,0,1
+179,Solomon Islands,tokyo-2020,0,0,0,2
+180,Nauru,tokyo-2020,0,0,0,1
+181,American Samoa,tokyo-2020,0,0,0,2
+182,"Virgin Islands, British",tokyo-2020,0,0,0,1
+183,Lesotho,tokyo-2020,0,0,0,1
+184,United Republic of Tanzania,tokyo-2020,0,0,0,1
+185,Liberia,tokyo-2020,0,0,0,1
+186,Bahamas,tokyo-2020,2,0,0,1
+187,Dominica,tokyo-2020,0,0,0,1
+188,Grenada,tokyo-2020,0,0,1,1
+189,Saint Lucia,tokyo-2020,0,0,0,1
+190,Great Britain,pyeongchang-2018,1,0,4,11
+191,Germany,pyeongchang-2018,14,10,7,14
+192,Austria,pyeongchang-2018,5,3,6,11
+193,Latvia,pyeongchang-2018,0,0,1,9
+194,Netherlands,pyeongchang-2018,8,6,6,4
+195,Canada,pyeongchang-2018,11,8,10,14
+196,Switzerland,pyeongchang-2018,5,6,4,14
+197,United States of America,pyeongchang-2018,9,8,6,15
+198,Belgium,pyeongchang-2018,0,1,0,9
+199,Republic of Korea,pyeongchang-2018,5,8,4,15
+200,Australia,pyeongchang-2018,0,2,1,10
+201,Romania,pyeongchang-2018,0,0,0,8
+202,Japan,pyeongchang-2018,4,5,4,13
+203,Nigeria,pyeongchang-2018,0,0,0,2
+204,Olympic Athletes from Russia,pyeongchang-2018,2,6,9,15
+205,Ukraine,pyeongchang-2018,1,0,0,8
+206,People's Republic of China,pyeongchang-2018,1,6,2,12
+207,New Zealand,pyeongchang-2018,0,0,2,5
+208,Norway,pyeongchang-2018,14,14,11,11
+209,Spain,pyeongchang-2018,0,0,2,5
+210,Italy,pyeongchang-2018,3,2,5,14
+211,Israel,pyeongchang-2018,0,0,0,4
+212,Jamaica,pyeongchang-2018,0,0,0,2
+213,Ghana,pyeongchang-2018,0,0,0,1
+214,France,pyeongchang-2018,5,4,6,11
+215,Sweden,pyeongchang-2018,7,6,1,8
+216,Poland,pyeongchang-2018,1,0,1,11
+217,Estonia,pyeongchang-2018,0,0,0,6
+218,Belarus,pyeongchang-2018,2,1,0,6
+219,Czech Republic,pyeongchang-2018,2,2,3,13
+220,Finland,pyeongchang-2018,1,1,4,11
+221,Colombia,pyeongchang-2018,0,0,0,3
+222,Kazakhstan,pyeongchang-2018,0,0,1,9
+223,Chinese Taipei,pyeongchang-2018,0,0,0,2
+224,Hungary,pyeongchang-2018,1,0,0,6
+225,Denmark,pyeongchang-2018,0,0,0,5
+226,Slovenia,pyeongchang-2018,0,1,1,9
+227,Bulgaria,pyeongchang-2018,0,0,0,6
+228,Lithuania,pyeongchang-2018,0,0,0,3
+229,Slovakia,pyeongchang-2018,1,2,0,7
+230,Argentina,pyeongchang-2018,0,0,0,4
+231,Andorra,pyeongchang-2018,0,0,0,3
+232,Brazil,pyeongchang-2018,0,0,0,5
+233,Ireland,pyeongchang-2018,0,0,0,4
+234,Chile,pyeongchang-2018,0,0,0,3
+235,Mexico,pyeongchang-2018,0,0,0,3
+236,Turkey,pyeongchang-2018,0,0,0,4
+237,Democratic People's Republic of Korea,pyeongchang-2018,0,0,0,4
+238,Uzbekistan,pyeongchang-2018,0,0,0,2
+239,Georgia,pyeongchang-2018,0,0,0,3
+240,Singapore,pyeongchang-2018,0,0,0,1
+241,Serbia,pyeongchang-2018,0,0,0,2
+242,Bosnia and Herzegovina,pyeongchang-2018,0,0,0,2
+243,Monaco,pyeongchang-2018,0,0,0,2
+244,Croatia,pyeongchang-2018,0,0,0,4
+245,Kosovo,pyeongchang-2018,0,0,0,1
+246,Liechtenstein,pyeongchang-2018,0,0,1,2
+247,Bolivia,pyeongchang-2018,0,0,0,2
+248,Republic of Moldova,pyeongchang-2018,0,0,0,2
+249,Greece,pyeongchang-2018,0,0,0,2
+250,Albania,pyeongchang-2018,0,0,0,1
+251,Morocco,pyeongchang-2018,0,0,0,2
+252,Islamic Republic of Iran,pyeongchang-2018,0,0,0,2
+253,Eritrea,pyeongchang-2018,0,0,0,1
+254,Luxembourg,pyeongchang-2018,0,0,0,1
+255,Kyrgyzstan,pyeongchang-2018,0,0,0,2
+256,Montenegro,pyeongchang-2018,0,0,0,2
+257,San Marino,pyeongchang-2018,0,0,0,1
+258,Portugal,pyeongchang-2018,0,0,0,2
+259,Malaysia,pyeongchang-2018,0,0,0,1
+260,Philippines,pyeongchang-2018,0,0,0,1
+261,Lebanon,pyeongchang-2018,0,0,0,2
+262,Pakistan,pyeongchang-2018,0,0,0,2
+263,Puerto Rico,pyeongchang-2018,0,0,0,1
+264,Iceland,pyeongchang-2018,0,0,0,2
+265,The Former Yugoslav Republic of Macedonia,pyeongchang-2018,0,0,0,2
+266,Thailand,pyeongchang-2018,0,0,0,2
+267,Cyprus,pyeongchang-2018,0,0,0,1
+268,South Africa,pyeongchang-2018,0,0,0,1
+269,Armenia,pyeongchang-2018,0,0,0,2
+270,Azerbaijan,pyeongchang-2018,0,0,0,1
+271,Democratic Republic of Timor-Leste,pyeongchang-2018,0,0,0,1
+272,Madagascar,pyeongchang-2018,0,0,0,1
+273,Malta,pyeongchang-2018,0,0,0,1
+274,"Hong Kong, China",pyeongchang-2018,0,0,0,1
+275,Kenya,pyeongchang-2018,0,0,0,1
+276,India,pyeongchang-2018,0,0,0,2
+277,Korea Team,pyeongchang-2018,0,0,0,1
+278,Mongolia,pyeongchang-2018,0,0,0,1
+279,Bermuda,pyeongchang-2018,0,0,0,1
+280,Ecuador,pyeongchang-2018,0,0,0,1
+281,Tonga,pyeongchang-2018,0,0,0,1
+282,Togo,pyeongchang-2018,0,0,0,1
+283,Colombia,rio-2016,3,2,3,24
+284,United States of America,rio-2016,46,37,38,39
+285,Venezuela,rio-2016,0,2,1,22
+286,Russian Federation,rio-2016,19,17,20,35
+287,Belgium,rio-2016,2,2,2,24
+288,Netherlands,rio-2016,8,7,4,29
+289,France,rio-2016,10,18,14,38
+290,Australia,rio-2016,8,11,10,36
+291,Argentina,rio-2016,3,1,0,28
+292,Thailand,rio-2016,2,2,2,16
+293,Denmark,rio-2016,2,6,7,19
+294,Germany,rio-2016,17,10,15,35
+295,Brazil,rio-2016,7,6,6,40
+296,Canada,rio-2016,4,3,15,38
+297,New Zealand,rio-2016,4,9,5,25
+298,Switzerland,rio-2016,3,2,2,23
+299,Latvia,rio-2016,0,0,0,13
+300,South Africa,rio-2016,2,6,2,17
+301,Norway,rio-2016,0,0,4,14
+302,Great Britain,rio-2016,27,23,17,33
+303,Indonesia,rio-2016,1,2,0,6
+304,Japan,rio-2016,12,8,21,38
+305,Ecuador,rio-2016,0,0,0,14
+306,Sweden,rio-2016,2,6,3,25
+307,Spain,rio-2016,7,4,6,33
+308,Austria,rio-2016,0,0,1,23
+309,Republic of Korea,rio-2016,9,3,9,26
+310,Ireland,rio-2016,0,2,0,16
+311,Paraguay,rio-2016,0,0,0,7
+312,Finland,rio-2016,0,0,1,16
+313,Italy,rio-2016,8,12,8,32
+314,People's Republic of China,rio-2016,26,18,26,35
+315,Chinese Taipei,rio-2016,1,0,2,18
+316,Mexico,rio-2016,0,3,2,28
+317,Chile,rio-2016,0,0,0,16
+318,Malaysia,rio-2016,0,4,1,10
+319,Portugal,rio-2016,0,0,1,18
+320,India,rio-2016,0,1,1,15
+321,Philippines,rio-2016,0,1,0,8
+322,Bangladesh,rio-2016,0,0,0,4
+323,Israel,rio-2016,0,0,2,16
+324,"Hong Kong, China",rio-2016,0,0,0,11
+325,Czech Republic,rio-2016,1,2,7,23
+326,Morocco,rio-2016,0,0,1,13
+327,Serbia,rio-2016,2,4,2,15
+328,Croatia,rio-2016,5,3,2,18
+329,Lithuania,rio-2016,0,1,3,15
+330,Nigeria,rio-2016,0,0,1,10
+331,Turkey,rio-2016,1,3,4,20
+332,Belarus,rio-2016,1,4,4,22
+333,Senegal,rio-2016,0,0,0,7
+334,Fiji,rio-2016,1,0,0,9
+335,Kenya,rio-2016,6,6,1,7
+336,Bulgaria,rio-2016,0,1,2,15
+337,Ukraine,rio-2016,2,5,4,27
+338,Uzbekistan,rio-2016,4,2,7,14
+339,Greece,rio-2016,3,1,2,19
+340,Azerbaijan,rio-2016,1,7,10,17
+341,Kazakhstan,rio-2016,3,5,10,21
+342,Georgia,rio-2016,2,1,4,12
+343,Romania,rio-2016,1,1,2,15
+344,Cape Verde,rio-2016,0,0,0,3
+345,Hungary,rio-2016,8,3,4,19
+346,Tunisia,rio-2016,0,0,3,18
+347,Estonia,rio-2016,0,0,1,13
+348,Ivory Coast,rio-2016,1,0,1,6
+349,Vietnam,rio-2016,1,1,0,9
+350,Egypt,rio-2016,0,0,3,22
+351,Algeria,rio-2016,0,2,0,12
+352,Poland,rio-2016,2,3,6,27
+353,Panama,rio-2016,0,0,0,6
+354,Lebanon,rio-2016,0,0,0,7
+355,Saudi Arabia,rio-2016,0,0,0,5
+356,Islamic Republic of Iran,rio-2016,3,1,4,15
+357,Benin,rio-2016,0,0,0,3
+358,Cuba,rio-2016,5,2,4,20
+359,Independent Olympic Athletes,rio-2016,1,0,1,3
+360,Zimbabwe,rio-2016,0,0,0,7
+361,Honduras,rio-2016,0,0,0,6
+362,Iraq,rio-2016,0,0,0,5
+363,Guatemala,rio-2016,0,0,0,9
+364,Qatar,rio-2016,0,1,0,10
+365,Uruguay,rio-2016,0,0,0,8
+366,Peru,rio-2016,0,0,0,10
+367,Democratic People's Republic of Korea,rio-2016,2,3,2,9
+368,Mongolia,rio-2016,0,1,1,9
+369,Singapore,rio-2016,1,0,0,7
+370,Malta,rio-2016,0,0,0,3
+371,Pakistan,rio-2016,0,0,0,3
+372,Slovakia,rio-2016,2,2,0,14
+373,Myanmar,rio-2016,0,0,0,4
+374,Bolivia,rio-2016,0,0,0,5
+375,Oman,rio-2016,0,0,0,1
+376,United Arab Emirates,rio-2016,0,0,1,6
+377,El Salvador,rio-2016,0,0,0,6
+378,Namibia,rio-2016,0,0,0,5
+379,San Marino,rio-2016,0,0,0,1
+380,Slovenia,rio-2016,1,2,1,14
+381,Bosnia and Herzegovina,rio-2016,0,0,0,5
+382,The Former Yugoslav Republic of Macedonia,rio-2016,0,0,0,3
+383,Puerto Rico,rio-2016,1,0,0,15
+384,Bhutan,rio-2016,0,0,0,2
+385,Kosovo,rio-2016,1,0,0,4
+386,Andorra,rio-2016,0,0,0,3
+387,Cyprus,rio-2016,0,0,0,6
+388,Barbados,rio-2016,0,0,0,5
+389,Nicaragua,rio-2016,0,0,0,3
+390,Armenia,rio-2016,1,3,0,7
+391,Sri Lanka,rio-2016,0,0,0,6
+392,Dominican Republic,rio-2016,0,0,1,10
+393,Angola,rio-2016,0,0,0,6
+394,Bahrain,rio-2016,1,1,0,4
+395,Trinidad and Tobago,rio-2016,0,0,1,7
+396,Tajikistan,rio-2016,1,0,0,4
+397,Republic of Moldova,rio-2016,0,0,0,9
+398,Ethiopia,rio-2016,1,2,5,3
+399,Syrian Arab Republic,rio-2016,0,0,0,5
+400,Bahamas,rio-2016,1,0,1,3
+401,Jamaica,rio-2016,6,3,2,2
+402,Kyrgyzstan,rio-2016,0,0,0,6
+403,Palestine,rio-2016,0,0,0,4
+404,Uganda,rio-2016,0,0,0,3
+405,Eritrea,rio-2016,0,0,0,2
+406,Malawi,rio-2016,0,0,0,3
+407,United Republic of Tanzania,rio-2016,0,0,0,3
+408,Rwanda,rio-2016,0,0,0,4
+409,Cambodia,rio-2016,0,0,0,4
+410,Montenegro,rio-2016,0,0,0,7
+411,Grenada,rio-2016,0,1,0,2
+412,Equatorial Guinea,rio-2016,0,0,0,1
+413,Djibouti,rio-2016,0,0,0,3
+414,Burundi,rio-2016,0,1,0,3
+415,Cameroon,rio-2016,0,0,0,6
+416,Antigua and Barbuda,rio-2016,0,0,0,2
+417,Congo,rio-2016,0,0,0,5
+418,Libya,rio-2016,0,0,0,6
+419,South Sudan,rio-2016,0,0,0,1
+420,Refugee Olympic Athletes,rio-2016,0,0,0,3
+421,Zambia,rio-2016,0,0,0,4
+422,Lesotho,rio-2016,0,0,0,3
+423,Mauritius,rio-2016,0,0,0,7
+424,Democratic Republic of the Congo,rio-2016,0,0,0,3
+425,Jordan,rio-2016,1,0,0,6
+426,Botswana,rio-2016,0,0,0,3
+427,Guyana,rio-2016,0,0,0,2
+428,Saint Lucia,rio-2016,0,0,0,3
+429,Costa Rica,rio-2016,0,0,0,6
+430,Samoa,rio-2016,0,0,0,4
+431,Madagascar,rio-2016,0,0,0,3
+432,Kiribati,rio-2016,0,0,0,1
+433,Nauru,rio-2016,0,0,0,2
+434,Albania,rio-2016,0,0,0,2
+435,Ghana,rio-2016,0,0,0,4
+436,Papua New Guinea,rio-2016,0,0,0,5
+437,Seychelles,rio-2016,0,0,0,5
+438,Haiti,rio-2016,0,0,0,6
+439,Turkmenistan,rio-2016,0,0,0,4
+440,American Samoa,rio-2016,0,0,0,2
+441,Cook Islands,rio-2016,0,0,0,4
+442,Marshall Islands,rio-2016,0,0,0,2
+443,Solomon Islands,rio-2016,0,0,0,1
+444,Palau,rio-2016,0,0,0,3
+445,Mozambique,rio-2016,0,0,0,3
+446,Sao Tome and Principe,rio-2016,0,0,0,1
+447,Vanuatu,rio-2016,0,0,0,4
+448,Bermuda,rio-2016,0,0,0,4
+449,Togo,rio-2016,0,0,0,2
+450,Democratic Republic of Timor-Leste,rio-2016,0,0,0,1
+451,Guam,rio-2016,0,0,0,2
+452,Nepal,rio-2016,0,0,0,4
+453,Tonga,rio-2016,0,0,0,3
+454,US Virgin Islands,rio-2016,0,0,0,3
+455,Federated States of Micronesia,rio-2016,0,0,0,2
+456,Central African Republic,rio-2016,0,0,0,3
+457,Guinea-Bissau,rio-2016,0,0,0,2
+458,Aruba,rio-2016,0,0,0,4
+459,Cayman Islands,rio-2016,0,0,0,2
+460,Luxembourg,rio-2016,0,0,0,4
+461,Lao People's Democratic Republic,rio-2016,0,0,0,3
+462,Suriname,rio-2016,0,0,0,3
+463,Brunei,rio-2016,0,0,0,1
+464,Gabon,rio-2016,0,0,0,3
+465,Sudan,rio-2016,0,0,0,2
+466,Belize,rio-2016,0,0,0,1
+467,Iceland,rio-2016,0,0,0,2
+468,Burkina Faso,rio-2016,0,0,0,2
+469,Mali,rio-2016,0,0,0,3
+470,Afghanistan,rio-2016,0,0,0,1
+471,Monaco,rio-2016,0,0,0,1
+472,Guinea,rio-2016,0,0,0,2
+473,Yemen,rio-2016,0,0,0,2
+474,Niger,rio-2016,0,1,0,3
+475,Gambia,rio-2016,0,0,0,2
+476,Saint Vincent and the Grenadines,rio-2016,0,0,0,1
+477,Liechtenstein,rio-2016,0,0,0,2
+478,Maldives,rio-2016,0,0,0,1
+479,Sierra Leone,rio-2016,0,0,0,1
+480,Comoros,rio-2016,0,0,0,1
+481,British Virgin Islands,rio-2016,0,0,0,1
+482,Switzerland,sochi-2014,7,2,2,12
+483,United States of America,sochi-2014,9,9,10,15
+484,Latvia,sochi-2014,1,1,3,9
+485,Canada,sochi-2014,10,10,5,14
+486,Germany,sochi-2014,8,6,5,15
+487,Italy,sochi-2014,0,2,6,13
+488,Romania,sochi-2014,0,0,0,8
+489,Republic of Korea,sochi-2014,3,3,2,13
+490,Netherlands,sochi-2014,8,7,9,4
+491,France,sochi-2014,4,4,7,12
+492,Monaco,sochi-2014,0,0,0,2
+493,Austria,sochi-2014,4,8,5,13
+494,Great Britain,sochi-2014,1,1,3,10
+495,Czech Republic,sochi-2014,2,4,2,13
+496,Australia,sochi-2014,0,2,1,11
+497,Poland,sochi-2014,4,1,1,11
+498,Japan,sochi-2014,1,4,3,15
+499,Jamaica,sochi-2014,0,0,0,1
+500,Serbia,sochi-2014,0,0,0,5
+501,Russian Federation,sochi-2014,11,9,9,15
+502,Belgium,sochi-2014,0,0,0,5
+503,Brazil,sochi-2014,0,0,0,6
+504,Slovakia,sochi-2014,1,0,0,9
+505,Norway,sochi-2014,11,5,10,12
+506,Sweden,sochi-2014,2,7,6,9
+507,Slovenia,sochi-2014,2,2,4,8
+508,Kazakhstan,sochi-2014,0,0,1,10
+509,Ukraine,sochi-2014,1,0,1,9
+510,Lithuania,sochi-2014,0,0,0,5
+511,Belarus,sochi-2014,5,0,1,5
+512,Estonia,sochi-2014,0,0,0,6
+513,Bulgaria,sochi-2014,0,0,0,6
+514,People's Republic of China,sochi-2014,3,4,2,9
+515,Finland,sochi-2014,1,3,1,9
+516,Spain,sochi-2014,0,0,0,7
+517,Andorra,sochi-2014,0,0,0,3
+518,Hungary,sochi-2014,0,0,0,5
+519,Bosnia and Herzegovina,sochi-2014,0,0,0,3
+520,Republic of Moldova,sochi-2014,0,0,0,4
+521,Argentina,sochi-2014,0,0,0,2
+522,Iceland,sochi-2014,0,0,0,2
+523,Liechtenstein,sochi-2014,0,0,0,2
+524,Croatia,sochi-2014,0,1,0,3
+525,Chile,sochi-2014,0,0,0,3
+526,Denmark,sochi-2014,0,0,0,3
+527,Greece,sochi-2014,0,0,0,4
+528,Georgia,sochi-2014,0,0,0,2
+529,Togo,sochi-2014,0,0,0,2
+530,US Virgin Islands,sochi-2014,0,0,0,1
+531,Peru,sochi-2014,0,0,0,2
+532,Portugal,sochi-2014,0,0,0,1
+533,Albania,sochi-2014,0,0,0,1
+534,Morocco,sochi-2014,0,0,0,1
+535,Turkey,sochi-2014,0,0,0,2
+536,Uzbekistan,sochi-2014,0,0,0,2
+537,Malta,sochi-2014,0,0,0,1
+538,Thailand,sochi-2014,0,0,0,1
+539,Ireland,sochi-2014,0,0,0,4
+540,San Marino,sochi-2014,0,0,0,1
+541,New Zealand,sochi-2014,0,0,0,5
+542,Armenia,sochi-2014,0,0,0,2
+543,Islamic Republic of Iran,sochi-2014,0,0,0,2
+544,Azerbaijan,sochi-2014,0,0,0,2
+545,Zimbabwe,sochi-2014,0,0,0,1
+546,Kyrgyzstan,sochi-2014,0,0,0,1
+547,Montenegro,sochi-2014,0,0,0,1
+548,Cyprus,sochi-2014,0,0,0,1
+549,Lebanon,sochi-2014,0,0,0,1
+550,Pakistan,sochi-2014,0,0,0,1
+551,India,sochi-2014,0,0,0,2
+552,The Former Yugoslav Republic of Macedonia,sochi-2014,0,0,0,2
+553,Cayman Islands,sochi-2014,0,0,0,1
+554,Venezuela,sochi-2014,0,0,0,1
+555,Israel,sochi-2014,0,0,0,3
+556,Democratic Republic of Timor-Leste,sochi-2014,0,0,0,1
+557,Mexico,sochi-2014,0,0,0,1
+558,Tajikistan,sochi-2014,0,0,0,1
+559,"Hong Kong, China",sochi-2014,0,0,0,1
+560,Chinese Taipei,sochi-2014,0,0,0,3
+561,Luxembourg,sochi-2014,0,0,0,1
+562,Mongolia,sochi-2014,0,0,0,1
+563,Bermuda,sochi-2014,0,0,0,1
+564,Nepal,sochi-2014,0,0,0,1
+565,Dominica,sochi-2014,0,0,0,1
+566,Philippines,sochi-2014,0,0,0,1
+567,Tonga,sochi-2014,0,0,0,1
+568,Independent Olympic Athletes,sochi-2014,0,0,0,1
+569,British Virgin Islands,sochi-2014,0,0,0,1
+570,Paraguay,sochi-2014,0,0,0,1
+571,United States of America,london-2012,46,28,30,38
+572,Australia,london-2012,8,15,12,35
+573,Japan,london-2012,7,14,17,35
+574,Russian Federation,london-2012,20,19,28,35
+575,Great Britain,london-2012,29,17,19,38
+576,People's Republic of China,london-2012,38,31,22,33
+577,Canada,london-2012,2,5,11,35
+578,Czech Republic,london-2012,4,3,4,24
+579,France,london-2012,11,11,13,35
+580,Italy,london-2012,8,9,11,33
+581,Zimbabwe,london-2012,0,0,0,4
+582,Denmark,london-2012,2,4,3,18
+583,Ukraine,london-2012,5,4,10,28
+584,Spain,london-2012,4,10,4,31
+585,Netherlands,london-2012,6,6,8,23
+586,Germany,london-2012,11,20,13,33
+587,Mexico,london-2012,1,3,4,24
+588,Brazil,london-2012,3,5,9,33
+589,Poland,london-2012,3,1,7,29
+590,Singapore,london-2012,0,0,2,7
+591,Colombia,london-2012,1,3,4,21
+592,Belgium,london-2012,0,1,2,23
+593,New Zealand,london-2012,6,2,5,21
+594,Bulgaria,london-2012,0,2,1,18
+595,Iceland,london-2012,0,0,0,6
+596,Ireland,london-2012,1,1,4,17
+597,Slovenia,london-2012,1,1,2,16
+598,Sweden,london-2012,1,4,3,23
+599,Croatia,london-2012,3,1,2,18
+600,Hungary,london-2012,8,4,6,23
+601,Kazakhstan,london-2012,3,1,7,20
+602,"Hong Kong, China",london-2012,0,0,1,15
+603,Turkey,london-2012,1,1,1,15
+604,Honduras,london-2012,0,0,0,7
+605,Andorra,london-2012,0,0,0,4
+606,Uruguay,london-2012,0,0,0,7
+607,Armenia,london-2012,0,1,1,8
+608,Monaco,london-2012,0,0,0,6
+609,South Africa,london-2012,4,1,1,21
+610,Serbia,london-2012,1,1,2,15
+611,Austria,london-2012,0,0,0,21
+612,Kenya,london-2012,2,4,6,4
+613,Papua New Guinea,london-2012,0,0,0,4
+614,Republic of Korea,london-2012,13,9,8,26
+615,Venezuela,london-2012,1,0,0,18
+616,Portugal,london-2012,0,1,0,16
+617,Switzerland,london-2012,2,2,0,22
+618,Belarus,london-2012,2,5,3,24
+619,Paraguay,london-2012,0,0,0,6
+620,Azerbaijan,london-2012,2,2,6,14
+621,Lithuania,london-2012,2,0,3,16
+622,Greece,london-2012,0,0,2,23
+623,Libya,london-2012,0,0,0,3
+624,Iraq,london-2012,0,0,0,6
+625,Bahrain,london-2012,1,0,0,3
+626,Israel,london-2012,0,0,0,10
+627,Uzbekistan,london-2012,0,0,2,13
+628,Slovakia,london-2012,0,1,3,12
+629,Chinese Taipei,london-2012,1,0,1,15
+630,Finland,london-2012,0,2,1,13
+631,Cuba,london-2012,5,3,7,15
+632,Jamaica,london-2012,4,5,3,4
+633,Morocco,london-2012,0,0,1,12
+634,Saint Lucia,london-2012,0,0,0,3
+635,Republic of Moldova,london-2012,0,0,0,9
+636,Bosnia and Herzegovina,london-2012,0,0,0,4
+637,Guam,london-2012,0,0,0,5
+638,Fiji,london-2012,0,0,0,5
+639,Mongolia,london-2012,0,2,3,7
+640,Guinea,london-2012,0,0,0,2
+641,Luxembourg,london-2012,0,0,0,7
+642,Georgia,london-2012,1,2,3,11
+643,Thailand,london-2012,0,2,2,14
+644,Kyrgyzstan,london-2012,0,0,0,8
+645,Madagascar,london-2012,0,0,0,5
+646,Estonia,london-2012,0,1,1,11
+647,Panama,london-2012,0,0,0,5
+648,Romania,london-2012,2,5,2,15
+649,Senegal,london-2012,0,0,0,8
+650,Syrian Arab Republic,london-2012,0,0,0,7
+651,Tonga,london-2012,0,0,0,2
+652,United Arab Emirates,london-2012,0,0,0,5
+653,Suriname,london-2012,0,0,0,2
+654,Lebanon,london-2012,0,0,0,6
+655,Norway,london-2012,2,1,1,16
+656,Trinidad and Tobago,london-2012,1,1,2,6
+657,Indonesia,london-2012,0,2,1,8
+658,Barbados,london-2012,0,0,0,3
+659,Argentina,london-2012,1,1,2,28
+660,Sri Lanka,london-2012,0,0,0,4
+661,Zambia,london-2012,0,0,0,3
+662,Bermuda,london-2012,0,0,0,5
+663,Cayman Islands,london-2012,0,0,0,2
+664,Egypt,london-2012,0,3,1,21
+665,Swaziland,london-2012,0,0,0,1
+666,Jordan,london-2012,0,0,0,5
+667,Mozambique,london-2012,0,0,0,3
+668,Bangladesh,london-2012,0,0,0,3
+669,Federated States of Micronesia,london-2012,0,0,0,3
+670,Cook Islands,london-2012,0,0,0,5
+671,Burkina Faso,london-2012,0,0,0,2
+672,Congo,london-2012,0,0,0,2
+673,Ivory Coast,london-2012,0,0,0,6
+674,Saint Vincent and the Grenadines,london-2012,0,0,0,1
+675,Marshall Islands,london-2012,0,0,0,1
+676,Nepal,london-2012,0,0,0,2
+677,Cambodia,london-2012,0,0,0,3
+678,Djibouti,london-2012,0,0,0,4
+679,Sudan,london-2012,0,0,0,2
+680,American Samoa,london-2012,0,0,0,3
+681,Rwanda,london-2012,0,0,0,4
+682,Uganda,london-2012,1,0,0,4
+683,Cameroon,london-2012,0,0,1,9
+684,Central African Republic,london-2012,0,0,0,3
+685,Lao People's Democratic Republic,london-2012,0,0,0,1
+686,Ethiopia,london-2012,3,2,2,2
+687,Benin,london-2012,0,0,0,4
+688,Ecuador,london-2012,0,0,0,13
+689,Angola,london-2012,0,0,0,6
+690,The Former Yugoslav Republic of Macedonia,london-2012,0,0,0,1
+691,El Salvador,london-2012,0,0,0,7
+692,Qatar,london-2012,0,0,2,4
+693,Tunisia,london-2012,2,0,1,17
+694,Cyprus,london-2012,0,1,0,7
+695,Mauritius,london-2012,0,0,0,6
+696,Seychelles,london-2012,0,0,0,3
+697,Nicaragua,london-2012,0,0,0,3
+698,Albania,london-2012,0,0,0,4
+699,Dominican Republic,london-2012,1,1,0,10
+700,Costa Rica,london-2012,0,0,0,7
+701,Peru,london-2012,0,0,0,9
+702,Philippines,london-2012,0,0,0,7
+703,Puerto Rico,london-2012,0,1,1,8
+704,Brunei,london-2012,0,0,0,1
+705,Chile,london-2012,0,0,0,18
+706,Liechtenstein,london-2012,0,0,0,3
+707,Malaysia,london-2012,0,1,1,10
+708,Aruba,london-2012,0,0,0,3
+709,Bahamas,london-2012,1,0,0,2
+710,Latvia,london-2012,1,0,1,12
+711,Malta,london-2012,0,0,0,2
+712,Malawi,london-2012,0,0,0,2
+713,Kuwait,london-2012,0,0,1,4
+714,Palau,london-2012,0,0,0,3
+715,Palestine,london-2012,0,0,0,2
+716,Antigua and Barbuda,london-2012,0,0,0,1
+717,Tajikistan,london-2012,0,0,1,7
+718,Mali,london-2012,0,0,0,4
+719,Maldives,london-2012,0,0,0,2
+720,Burundi,london-2012,0,0,0,3
+721,Niger,london-2012,0,0,0,4
+722,Togo,london-2012,0,0,0,5
+723,Lesotho,london-2012,0,0,0,2
+724,Turkmenistan,london-2012,0,0,0,4
+725,India,london-2012,0,2,4,13
+726,Algeria,london-2012,1,0,0,12
+727,US Virgin Islands,london-2012,0,0,0,2
+728,Guatemala,london-2012,0,1,0,11
+729,Bolivia,london-2012,0,0,0,3
+730,Islamic Republic of Iran,london-2012,6,6,1,14
+731,Grenada,london-2012,1,0,0,3
+732,Guyana,london-2012,0,0,0,2
+733,Pakistan,london-2012,0,0,0,3
+734,United Republic of Tanzania,london-2012,0,0,0,3
+735,San Marino,london-2012,0,0,0,3
+736,Comoros,london-2012,0,0,0,1
+737,Vietnam,london-2012,0,0,0,11
+738,Democratic People's Republic of Korea,london-2012,4,0,2,11
+739,Saudi Arabia,london-2012,0,0,1,5
+740,Nigeria,london-2012,0,0,0,8
+741,Namibia,london-2012,0,0,0,6
+742,Gabon,london-2012,0,1,0,4
+743,Montenegro,london-2012,0,1,0,7
+744,Independent Olympic Athletes,london-2012,0,0,0,3
+745,Botswana,london-2012,0,1,0,2
+746,Eritrea,london-2012,0,0,0,2
+747,Haiti,london-2012,0,0,0,2
+748,Saint Kitts and Nevis,london-2012,0,0,0,1
+749,Oman,london-2012,0,0,0,2
+750,Myanmar,london-2012,0,0,0,5
+751,Democratic Republic of Timor-Leste,london-2012,0,0,0,1
+752,Ghana,london-2012,0,0,0,4
+753,Liberia,london-2012,0,0,0,2
+754,Democratic Republic of the Congo,london-2012,0,0,0,3
+755,Samoa,london-2012,0,0,0,5
+756,Bhutan,london-2012,0,0,0,2
+757,Guinea-Bissau,london-2012,0,0,0,1
+758,Afghanistan,london-2012,0,0,1,3
+759,Vanuatu,london-2012,0,0,0,2
+760,Nauru,london-2012,0,0,0,2
+761,Tuvalu,london-2012,0,0,0,1
+762,Kiribati,london-2012,0,0,0,1
+763,Solomon Islands,london-2012,0,0,0,2
+764,Chad,london-2012,0,0,0,1
+765,Belize,london-2012,0,0,0,1
+766,Cape Verde,london-2012,0,0,0,1
+767,Yemen,london-2012,0,0,0,2
+768,Canada,vancouver-2010,14,7,5,15
+769,United States of America,vancouver-2010,9,15,13,15
+770,Russian Federation,vancouver-2010,3,5,7,15
+771,Italy,vancouver-2010,1,1,3,13
+772,France,vancouver-2010,2,3,6,13
+773,Great Britain,vancouver-2010,1,0,0,11
+774,Israel,vancouver-2010,0,0,0,2
+775,Hungary,vancouver-2010,0,0,0,5
+776,Ukraine,vancouver-2010,0,0,0,9
+777,Japan,vancouver-2010,0,3,2,14
+778,Germany,vancouver-2010,10,13,7,15
+779,People's Republic of China,vancouver-2010,5,2,4,10
+780,Czech Republic,vancouver-2010,2,0,4,13
+781,Georgia,vancouver-2010,0,0,0,3
+782,Estonia,vancouver-2010,0,1,0,4
+783,Switzerland,vancouver-2010,6,0,3,14
+784,Kazakhstan,vancouver-2010,0,1,0,8
+785,Spain,vancouver-2010,0,0,0,7
+786,Sweden,vancouver-2010,5,2,4,9
+787,Belgium,vancouver-2010,0,0,0,4
+788,Austria,vancouver-2010,4,6,6,13
+789,Poland,vancouver-2010,1,3,2,11
+790,Republic of Korea,vancouver-2010,6,6,2,12
+791,Finland,vancouver-2010,0,1,4,10
+792,Australia,vancouver-2010,2,1,0,11
+793,Uzbekistan,vancouver-2010,0,0,0,2
+794,Turkey,vancouver-2010,0,0,0,3
+795,Belarus,vancouver-2010,1,1,1,6
+796,Norway,vancouver-2010,9,8,6,11
+797,Slovenia,vancouver-2010,0,2,1,9
+798,Jamaica,vancouver-2010,0,0,0,1
+799,Denmark,vancouver-2010,0,0,0,7
+800,New Zealand,vancouver-2010,0,0,0,8
+801,Romania,vancouver-2010,0,0,0,8
+802,Netherlands,vancouver-2010,4,1,3,4
+803,Democratic People's Republic of Korea,vancouver-2010,0,0,0,1
+804,Latvia,vancouver-2010,0,2,0,9
+805,Monaco,vancouver-2010,0,0,0,2
+806,Slovakia,vancouver-2010,1,1,1,7
+807,Liechtenstein,vancouver-2010,0,0,0,2
+808,Serbia,vancouver-2010,0,0,0,4
+809,Croatia,vancouver-2010,0,2,1,4
+810,Ireland,vancouver-2010,0,0,0,4
+811,Andorra,vancouver-2010,0,0,0,3
+812,Bulgaria,vancouver-2010,0,0,0,6
+813,Argentina,vancouver-2010,0,0,0,3
+814,Chile,vancouver-2010,0,0,0,1
+815,Tajikistan,vancouver-2010,0,0,0,1
+816,Iceland,vancouver-2010,0,0,0,1
+817,Lebanon,vancouver-2010,0,0,0,1
+818,Bosnia and Herzegovina,vancouver-2010,0,0,0,3
+819,Greece,vancouver-2010,0,0,0,3
+820,Cyprus,vancouver-2010,0,0,0,1
+821,Azerbaijan,vancouver-2010,0,0,0,1
+822,Islamic Republic of Iran,vancouver-2010,0,0,0,2
+823,Peru,vancouver-2010,0,0,0,2
+824,Brazil,vancouver-2010,0,0,0,3
+825,Armenia,vancouver-2010,0,0,0,2
+826,Colombia,vancouver-2010,0,0,0,1
+827,Republic of Moldova,vancouver-2010,0,0,0,4
+828,The Former Yugoslav Republic of Macedonia,vancouver-2010,0,0,0,2
+829,Lithuania,vancouver-2010,0,0,0,3
+830,Montenegro,vancouver-2010,0,0,0,1
+831,Albania,vancouver-2010,0,0,0,1
+832,Cayman Islands,vancouver-2010,0,0,0,1
+833,Senegal,vancouver-2010,0,0,0,1
+834,Morocco,vancouver-2010,0,0,0,1
+835,Kyrgyzstan,vancouver-2010,0,0,0,2
+836,Mexico,vancouver-2010,0,0,0,1
+837,Pakistan,vancouver-2010,0,0,0,1
+838,San Marino,vancouver-2010,0,0,0,1
+839,India,vancouver-2010,0,0,0,3
+840,South Africa,vancouver-2010,0,0,0,2
+841,Ghana,vancouver-2010,0,0,0,1
+842,Chinese Taipei,vancouver-2010,0,0,0,1
+843,"Hong Kong, China",vancouver-2010,0,0,0,1
+844,Algeria,vancouver-2010,0,0,0,1
+845,Mongolia,vancouver-2010,0,0,0,1
+846,Bermuda,vancouver-2010,0,0,0,1
+847,Nepal,vancouver-2010,0,0,0,1
+848,Ethiopia,vancouver-2010,0,0,0,1
+849,Portugal,vancouver-2010,0,0,0,1
+850,France,beijing-2008,6,15,20,30
+851,United States of America,beijing-2008,36,39,37,37
+852,New Zealand,beijing-2008,3,2,4,22
+853,Argentina,beijing-2008,2,0,4,21
+854,Australia,beijing-2008,14,15,17,36
+855,Latvia,beijing-2008,1,1,1,12
+856,Colombia,beijing-2008,0,2,1,17
+857,Netherlands,beijing-2008,7,5,4,26
+858,Italy,beijing-2008,8,9,10,33
+859,Republic of Korea,beijing-2008,13,11,8,26
+860,Hungary,beijing-2008,3,5,2,20
+861,Russian Federation,beijing-2008,24,13,23,35
+862,Japan,beijing-2008,9,8,8,35
+863,Germany,beijing-2008,16,11,14,36
+864,People's Republic of China,beijing-2008,48,22,30,40
+865,Romania,beijing-2008,4,1,4,16
+866,Israel,beijing-2008,0,0,1,11
+867,Poland,beijing-2008,4,5,2,26
+868,Venezuela,beijing-2008,0,0,1,21
+869,Cuba,beijing-2008,3,10,17,19
+870,Egypt,beijing-2008,0,0,2,18
+871,Canada,beijing-2008,3,9,8,34
+872,Tunisia,beijing-2008,1,0,0,10
+873,Ukraine,beijing-2008,7,4,11,26
+874,Algeria,beijing-2008,0,1,1,12
+875,Great Britain,beijing-2008,19,13,19,27
+876,Portugal,beijing-2008,1,1,0,15
+877,Peru,beijing-2008,0,0,0,10
+878,Belarus,beijing-2008,3,4,7,26
+879,South Africa,beijing-2008,0,1,0,22
+880,"Hong Kong, China",beijing-2008,0,0,0,11
+881,Spain,beijing-2008,5,11,3,33
+882,Mexico,beijing-2008,2,0,2,23
+883,Senegal,beijing-2008,0,0,0,6
+884,Ireland,beijing-2008,0,1,2,14
+885,Thailand,beijing-2008,2,2,2,12
+886,Brazil,beijing-2008,3,4,10,31
+887,Burkina Faso,beijing-2008,0,0,0,3
+888,Austria,beijing-2008,0,1,2,18
+889,Morocco,beijing-2008,0,1,1,7
+890,Qatar,beijing-2008,0,0,0,6
+891,Sweden,beijing-2008,0,4,1,23
+892,Switzerland,beijing-2008,2,1,3,24
+893,Panama,beijing-2008,1,0,0,3
+894,Estonia,beijing-2008,1,1,0,13
+895,Chile,beijing-2008,0,1,0,17
+896,Norway,beijing-2008,3,5,1,16
+897,Kyrgyzstan,beijing-2008,0,1,2,9
+898,Denmark,beijing-2008,2,2,3,16
+899,Belgium,beijing-2008,2,0,0,18
+900,Czech Republic,beijing-2008,3,3,1,24
+901,Kazakhstan,beijing-2008,2,3,4,19
+902,Luxembourg,beijing-2008,0,0,0,6
+903,Zimbabwe,beijing-2008,1,3,0,5
+904,Syrian Arab Republic,beijing-2008,0,0,0,5
+905,Slovakia,beijing-2008,3,3,0,15
+906,Greece,beijing-2008,0,2,1,22
+907,Bermuda,beijing-2008,0,0,0,3
+908,India,beijing-2008,1,0,2,12
+909,Chinese Taipei,beijing-2008,1,1,2,15
+910,Malaysia,beijing-2008,0,1,0,10
+911,Turkey,beijing-2008,1,1,3,11
+912,Finland,beijing-2008,1,1,2,14
+913,Myanmar,beijing-2008,0,0,0,3
+914,Philippines,beijing-2008,0,0,0,7
+915,Bulgaria,beijing-2008,1,1,3,16
+916,Bhutan,beijing-2008,0,0,0,1
+917,Islamic Republic of Iran,beijing-2008,1,0,1,13
+918,Samoa,beijing-2008,0,1,0,3
+919,Democratic People's Republic of Korea,beijing-2008,2,2,2,12
+920,Georgia,beijing-2008,3,2,2,9
+921,Indonesia,beijing-2008,1,1,4,6
+922,Cyprus,beijing-2008,0,0,0,6
+923,Tajikistan,beijing-2008,0,1,1,8
+924,Mauritius,beijing-2008,0,0,1,7
+925,Pakistan,beijing-2008,0,0,0,3
+926,Lithuania,beijing-2008,0,3,2,15
+927,Slovenia,beijing-2008,1,2,2,14
+928,Namibia,beijing-2008,0,0,0,4
+929,Croatia,beijing-2008,0,2,3,16
+930,Uzbekistan,beijing-2008,0,1,3,14
+931,Serbia,beijing-2008,0,1,2,11
+932,Republic of Moldova,beijing-2008,0,0,1,9
+933,Costa Rica,beijing-2008,0,0,0,4
+934,El Salvador,beijing-2008,0,0,0,10
+935,Libya,beijing-2008,0,0,0,5
+936,Bolivia,beijing-2008,0,0,0,5
+937,Montenegro,beijing-2008,0,0,0,6
+938,Kenya,beijing-2008,6,4,6,5
+939,Vietnam,beijing-2008,0,1,0,7
+940,Papua New Guinea,beijing-2008,0,0,0,4
+941,Afghanistan,beijing-2008,0,0,1,1
+942,Nigeria,beijing-2008,0,2,3,10
+943,Dominican Republic,beijing-2008,1,1,0,8
+944,Belize,beijing-2008,0,0,0,1
+945,Benin,beijing-2008,0,0,0,2
+946,Puerto Rico,beijing-2008,0,0,0,7
+947,United Arab Emirates,beijing-2008,0,0,0,6
+948,Guinea,beijing-2008,0,0,0,2
+949,Azerbaijan,beijing-2008,1,1,4,9
+950,Nepal,beijing-2008,0,0,0,6
+951,Ivory Coast,beijing-2008,0,0,0,3
+952,Gabon,beijing-2008,0,0,0,2
+953,Honduras,beijing-2008,0,0,0,4
+954,Marshall Islands,beijing-2008,0,0,0,2
+955,Mali,beijing-2008,0,0,0,3
+956,Niger,beijing-2008,0,0,0,2
+957,Ecuador,beijing-2008,0,1,0,8
+958,Jordan,beijing-2008,0,0,0,4
+959,Uruguay,beijing-2008,0,0,0,5
+960,Monaco,beijing-2008,0,0,0,4
+961,Cameroon,beijing-2008,1,0,0,9
+962,Iraq,beijing-2008,0,0,0,1
+963,Zambia,beijing-2008,0,0,0,3
+964,Guatemala,beijing-2008,0,0,0,9
+965,Sri Lanka,beijing-2008,0,0,0,5
+966,Ethiopia,beijing-2008,4,2,1,2
+967,Armenia,beijing-2008,0,1,4,6
+968,Madagascar,beijing-2008,0,0,0,3
+969,Mongolia,beijing-2008,2,2,0,7
+970,Ghana,beijing-2008,0,0,0,2
+971,Sierra Leone,beijing-2008,0,0,0,1
+972,Uganda,beijing-2008,0,0,0,4
+973,Botswana,beijing-2008,0,0,0,3
+974,Bahamas,beijing-2008,0,1,1,4
+975,US Virgin Islands,beijing-2008,0,0,0,4
+976,Grenada,beijing-2008,0,0,0,1
+977,Central African Republic,beijing-2008,0,0,0,1
+978,Turkmenistan,beijing-2008,0,0,0,5
+979,Lesotho,beijing-2008,0,0,0,2
+980,Haiti,beijing-2008,0,0,0,2
+981,Democratic Republic of the Congo,beijing-2008,0,0,0,3
+982,Gambia,beijing-2008,0,0,0,1
+983,Palau,beijing-2008,0,0,0,2
+984,Guam,beijing-2008,0,0,0,3
+985,The Former Yugoslav Republic of Macedonia,beijing-2008,0,0,0,4
+986,Albania,beijing-2008,0,0,0,5
+987,Guinea-Bissau,beijing-2008,0,0,0,1
+988,Iceland,beijing-2008,0,1,0,4
+989,Angola,beijing-2008,0,0,0,5
+990,Jamaica,beijing-2008,5,4,1,4
+991,Bahrain,beijing-2008,0,0,0,3
+992,Eritrea,beijing-2008,0,0,0,1
+993,Cape Verde,beijing-2008,0,0,0,1
+994,United Republic of Tanzania,beijing-2008,0,0,0,2
+995,Andorra,beijing-2008,0,0,0,4
+996,Burundi,beijing-2008,0,0,0,2
+997,Cambodia,beijing-2008,0,0,0,2
+998,Liechtenstein,beijing-2008,0,0,0,2
+999,Democratic Republic of Timor-Leste,beijing-2008,0,0,0,1
+1000,Liberia,beijing-2008,0,0,0,1
+1001,Sudan,beijing-2008,0,1,0,2
+1002,Rwanda,beijing-2008,0,0,0,2
+1003,Saudi Arabia,beijing-2008,0,0,0,4
+1004,Saint Kitts and Nevis,beijing-2008,0,0,0,1
+1005,Trinidad and Tobago,beijing-2008,1,1,0,4
+1006,Netherlands Antilles,beijing-2008,0,0,0,3
+1007,Cayman Islands,beijing-2008,0,0,0,2
+1008,Bosnia and Herzegovina,beijing-2008,0,0,0,4
+1009,Mozambique,beijing-2008,0,0,0,3
+1010,Yemen,beijing-2008,0,0,0,2
+1011,Togo,beijing-2008,0,0,1,3
+1012,Equatorial Guinea,beijing-2008,0,0,0,1
+1013,Aruba,beijing-2008,0,0,0,2
+1014,Fiji,beijing-2008,0,0,0,4
+1015,Kuwait,beijing-2008,0,0,0,4
+1016,Lebanon,beijing-2008,0,0,0,3
+1017,American Samoa,beijing-2008,0,0,0,2
+1018,Malta,beijing-2008,0,0,0,3
+1019,Kiribati,beijing-2008,0,0,0,1
+1020,Seychelles,beijing-2008,0,0,0,4
+1021,Nicaragua,beijing-2008,0,0,0,3
+1022,Nauru,beijing-2008,0,0,0,1
+1023,Cook Islands,beijing-2008,0,0,0,2
+1024,Tonga,beijing-2008,0,0,0,1
+1025,Tuvalu,beijing-2008,0,0,0,1
+1026,Federated States of Micronesia,beijing-2008,0,0,0,2
+1027,Solomon Islands,beijing-2008,0,0,0,1
+1028,Singapore,beijing-2008,0,1,0,5
+1029,Barbados,beijing-2008,0,0,0,2
+1030,Paraguay,beijing-2008,0,0,0,4
+1031,Bangladesh,beijing-2008,0,0,0,2
+1032,San Marino,beijing-2008,0,0,0,2
+1033,Oman,beijing-2008,0,0,0,2
+1034,Congo,beijing-2008,0,0,0,2
+1035,Vanuatu,beijing-2008,0,0,0,1
+1036,Swaziland,beijing-2008,0,0,0,1
+1037,Guyana,beijing-2008,0,0,0,1
+1038,Palestine,beijing-2008,0,0,0,1
+1039,Malawi,beijing-2008,0,0,0,1
+1040,Maldives,beijing-2008,0,0,0,1
+1041,Lao People's Democratic Republic,beijing-2008,0,0,0,1
+1042,Comoros,beijing-2008,0,0,0,1
+1043,Antigua and Barbuda,beijing-2008,0,0,0,1
+1044,Suriname,beijing-2008,0,0,0,1
+1045,Saint Lucia,beijing-2008,0,0,0,1
+1046,Germany,turin-2006,11,12,6,15
+1047,Poland,turin-2006,0,1,1,11
+1048,Norway,turin-2006,2,8,9,10
+1049,Finland,turin-2006,0,6,3,11
+1050,Russian Federation,turin-2006,8,6,8,15
+1051,Austria,turin-2006,9,7,7,12
+1052,France,turin-2006,3,2,4,10
+1053,United States of America,turin-2006,9,9,7,15
+1054,Sweden,turin-2006,7,2,5,9
+1055,Czech Republic,turin-2006,1,2,1,13
+1056,Italy,turin-2006,5,0,6,15
+1057,Slovakia,turin-2006,0,1,0,8
+1058,Latvia,turin-2006,0,0,1,8
+1059,Japan,turin-2006,1,0,0,14
+1060,Belarus,turin-2006,0,1,0,7
+1061,People's Republic of China,turin-2006,2,4,5,9
+1062,Bulgaria,turin-2006,0,1,0,7
+1063,Ukraine,turin-2006,0,0,2,8
+1064,Slovenia,turin-2006,0,0,0,8
+1065,Republic of Moldova,turin-2006,0,0,0,3
+1066,Romania,turin-2006,0,0,0,8
+1067,Canada,turin-2006,7,10,7,15
+1068,Kazakhstan,turin-2006,0,0,0,7
+1069,Lithuania,turin-2006,0,0,0,4
+1070,Estonia,turin-2006,3,0,0,6
+1071,Bosnia and Herzegovina,turin-2006,0,0,0,3
+1072,Great Britain,turin-2006,0,1,0,9
+1073,Croatia,turin-2006,1,2,0,6
+1074,Hungary,turin-2006,0,0,0,6
+1075,Chile,turin-2006,0,0,0,2
+1076,Switzerland,turin-2006,5,4,5,13
+1077,Republic of Korea,turin-2006,6,3,2,9
+1078,Australia,turin-2006,1,0,1,9
+1079,Spain,turin-2006,0,0,0,5
+1080,Greece,turin-2006,0,0,0,3
+1081,Serbia and Montenegro,turin-2006,0,0,0,3
+1082,Argentina,turin-2006,0,0,0,5
+1083,Turkey,turin-2006,0,0,0,3
+1084,Brazil,turin-2006,0,0,0,4
+1085,Mongolia,turin-2006,0,0,0,1
+1086,Liechtenstein,turin-2006,0,0,0,2
+1087,Andorra,turin-2006,0,0,0,2
+1088,South Africa,turin-2006,0,0,0,3
+1089,Algeria,turin-2006,0,0,0,2
+1090,Armenia,turin-2006,0,0,0,3
+1091,India,turin-2006,0,0,0,3
+1092,Ethiopia,turin-2006,0,0,0,1
+1093,The Former Yugoslav Republic of Macedonia,turin-2006,0,0,0,2
+1094,Ireland,turin-2006,0,0,0,3
+1095,Islamic Republic of Iran,turin-2006,0,0,0,2
+1096,Kenya,turin-2006,0,0,0,1
+1097,Portugal,turin-2006,0,0,0,1
+1098,Nepal,turin-2006,0,0,0,1
+1099,Costa Rica,turin-2006,0,0,0,1
+1100,Thailand,turin-2006,0,0,0,1
+1101,Iceland,turin-2006,0,0,0,1
+1102,Monaco,turin-2006,0,0,0,2
+1103,Lebanon,turin-2006,0,0,0,2
+1104,New Zealand,turin-2006,0,0,0,5
+1105,Georgia,turin-2006,0,0,0,2
+1106,Israel,turin-2006,0,0,0,2
+1107,Cyprus,turin-2006,0,0,0,1
+1108,Uzbekistan,turin-2006,0,0,0,2
+1109,Senegal,turin-2006,0,0,0,1
+1110,Madagascar,turin-2006,0,0,0,1
+1111,Albania,turin-2006,0,0,0,1
+1112,Kyrgyzstan,turin-2006,0,0,0,1
+1113,Tajikistan,turin-2006,0,0,0,1
+1114,San Marino,turin-2006,0,0,0,1
+1115,Chinese Taipei,turin-2006,0,0,0,1
+1116,Venezuela,turin-2006,0,0,0,1
+1117,Netherlands,turin-2006,3,2,4,4
+1118,Belgium,turin-2006,0,0,0,3
+1119,Luxembourg,turin-2006,0,0,0,1
+1120,Democratic People's Republic of Korea,turin-2006,0,0,0,2
+1121,Azerbaijan,turin-2006,0,0,0,1
+1122,Bermuda,turin-2006,0,0,0,1
+1123,"Hong Kong, China",turin-2006,0,0,0,1
+1124,Denmark,turin-2006,0,0,0,1
+1125,Denmark,athens-2004,2,1,5,16
+1126,Australia,athens-2004,17,16,17,36
+1127,Italy,athens-2004,10,11,11,33
+1128,Netherlands,athens-2004,4,9,9,24
+1129,Canada,athens-2004,3,6,3,33
+1130,Ireland,athens-2004,0,0,0,12
+1131,Serbia and Montenegro,athens-2004,0,2,0,12
+1132,Russian Federation,athens-2004,28,26,36,32
+1133,United States of America,athens-2004,36,39,26,33
+1134,Austria,athens-2004,2,4,1,21
+1135,Germany,athens-2004,13,16,20,33
+1136,Spain,athens-2004,3,11,6,30
+1137,Great Britain,athens-2004,9,9,12,28
+1138,Croatia,athens-2004,1,2,2,14
+1139,South Africa,athens-2004,1,3,2,16
+1140,New Zealand,athens-2004,3,2,0,21
+1141,Slovenia,athens-2004,0,1,3,10
+1142,Argentina,athens-2004,2,0,4,22
+1143,Belarus,athens-2004,2,5,6,23
+1144,Bulgaria,athens-2004,2,1,9,20
+1145,Czech Republic,athens-2004,1,3,5,20
+1146,Sweden,athens-2004,4,2,1,21
+1147,Chile,athens-2004,2,0,1,11
+1148,Mexico,athens-2004,0,3,1,19
+1149,People's Republic of China,athens-2004,32,17,14,34
+1150,Brazil,athens-2004,5,2,3,27
+1151,Switzerland,athens-2004,1,1,3,21
+1152,Indonesia,athens-2004,1,1,2,11
+1153,Chinese Taipei,athens-2004,2,2,1,13
+1154,Tunisia,athens-2004,0,0,0,14
+1155,Republic of Korea,athens-2004,9,12,9,26
+1156,Paraguay,athens-2004,0,1,0,3
+1157,Thailand,athens-2004,3,1,4,13
+1158,Uzbekistan,athens-2004,2,1,2,10
+1159,Egypt,athens-2004,1,1,3,15
+1160,Poland,athens-2004,3,2,5,24
+1161,Romania,athens-2004,8,5,6,16
+1162,France,athens-2004,11,9,13,32
+1163,Estonia,athens-2004,0,1,2,11
+1164,Norway,athens-2004,5,0,1,13
+1165,Cuba,athens-2004,9,7,11,18
+1166,Hungary,athens-2004,8,6,3,20
+1167,Greece,athens-2004,6,6,4,35
+1168,Japan,athens-2004,16,9,12,32
+1169,Slovakia,athens-2004,2,2,2,15
+1170,Belgium,athens-2004,1,0,2,17
+1171,Uruguay,athens-2004,0,0,0,4
+1172,"Hong Kong, China",athens-2004,0,1,0,10
+1173,Peru,athens-2004,0,0,0,9
+1174,Algeria,athens-2004,0,0,0,10
+1175,Kenya,athens-2004,1,4,2,4
+1176,India,athens-2004,0,1,0,13
+1177,Ukraine,athens-2004,8,5,9,25
+1178,Vietnam,athens-2004,0,0,0,6
+1179,Nigeria,athens-2004,0,0,2,9
+1180,Lithuania,athens-2004,1,2,0,12
+1181,Puerto Rico,athens-2004,0,0,0,14
+1182,Angola,athens-2004,0,0,0,4
+1183,Turkey,athens-2004,3,3,4,10
+1184,Dominican Republic,athens-2004,1,0,0,8
+1185,Jamaica,athens-2004,2,1,2,4
+1186,Panama,athens-2004,0,0,0,2
+1187,Qatar,athens-2004,0,0,0,4
+1188,Morocco,athens-2004,2,1,0,8
+1189,Equatorial Guinea,athens-2004,0,0,0,1
+1190,Kazakhstan,athens-2004,1,4,3,17
+1191,Portugal,athens-2004,0,2,1,16
+1192,Ethiopia,athens-2004,2,3,2,2
+1193,Israel,athens-2004,1,0,1,13
+1194,Finland,athens-2004,0,2,0,11
+1195,Botswana,athens-2004,0,0,0,2
+1196,Sri Lanka,athens-2004,0,0,0,3
+1197,Burundi,athens-2004,0,0,0,2
+1198,Democratic People's Republic of Korea,athens-2004,0,4,1,9
+1199,Libya,athens-2004,0,0,0,4
+1200,United Republic of Tanzania,athens-2004,0,0,0,1
+1201,Colombia,athens-2004,0,0,2,15
+1202,Central African Republic,athens-2004,0,0,0,2
+1203,Zimbabwe,athens-2004,1,1,1,4
+1204,Andorra,athens-2004,0,0,0,3
+1205,Ecuador,athens-2004,0,0,0,6
+1206,Rwanda,athens-2004,0,0,0,2
+1207,Guatemala,athens-2004,0,0,0,8
+1208,Philippines,athens-2004,0,0,0,6
+1209,Lesotho,athens-2004,0,0,0,2
+1210,Mongolia,athens-2004,0,0,1,7
+1211,Cape Verde,athens-2004,0,0,0,2
+1212,Kyrgyzstan,athens-2004,0,0,0,8
+1213,Saint Lucia,athens-2004,0,0,0,2
+1214,Bahrain,athens-2004,0,0,0,4
+1215,Venezuela,athens-2004,0,0,2,16
+1216,Democratic Republic of Timor-Leste,athens-2004,0,0,0,1
+1217,Bahamas,athens-2004,1,0,1,3
+1218,Sudan,athens-2004,0,0,0,1
+1219,Cameroon,athens-2004,1,0,0,4
+1220,Senegal,athens-2004,0,0,0,5
+1221,Latvia,athens-2004,0,4,0,10
+1222,Republic of Moldova,athens-2004,0,0,0,8
+1223,Trinidad and Tobago,athens-2004,0,0,1,4
+1224,Grenada,athens-2004,0,0,0,2
+1225,Malaysia,athens-2004,0,0,0,11
+1226,Bolivia,athens-2004,0,0,0,3
+1227,Mauritius,athens-2004,0,0,0,5
+1228,Sao Tome and Principe,athens-2004,0,0,0,1
+1229,Madagascar,athens-2004,0,0,0,4
+1230,Tajikistan,athens-2004,0,0,0,5
+1231,Azerbaijan,athens-2004,1,0,4,9
+1232,Ghana,athens-2004,0,0,0,2
+1233,Eritrea,athens-2004,0,0,1,1
+1234,Uganda,athens-2004,0,0,0,4
+1235,Iceland,athens-2004,0,0,0,5
+1236,Mozambique,athens-2004,0,0,0,2
+1237,Saint Kitts and Nevis,athens-2004,0,0,0,1
+1238,Barbados,athens-2004,0,0,0,4
+1239,Chad,athens-2004,0,0,0,1
+1240,Namibia,athens-2004,0,0,0,5
+1241,Saudi Arabia,athens-2004,0,0,0,6
+1242,Luxembourg,athens-2004,0,0,0,5
+1243,Islamic Republic of Iran,athens-2004,2,2,2,10
+1244,El Salvador,athens-2004,0,0,0,6
+1245,Bermuda,athens-2004,0,0,0,5
+1246,Netherlands Antilles,athens-2004,0,0,0,1
+1247,Singapore,athens-2004,0,0,0,5
+1248,Jordan,athens-2004,0,0,0,4
+1249,Honduras,athens-2004,0,0,0,2
+1250,Bosnia and Herzegovina,athens-2004,0,0,0,6
+1251,Democratic Republic of the Congo,athens-2004,0,0,0,1
+1252,Georgia,athens-2004,2,2,0,8
+1253,Albania,athens-2004,0,0,0,3
+1254,Palau,athens-2004,0,0,0,2
+1255,Guinea-Bissau,athens-2004,0,0,0,1
+1256,Armenia,athens-2004,0,0,0,6
+1257,The Former Yugoslav Republic of Macedonia,athens-2004,0,0,0,4
+1258,Guam,athens-2004,0,0,0,2
+1259,Afghanistan,athens-2004,0,0,0,2
+1260,Yemen,athens-2004,0,0,0,2
+1261,Nepal,athens-2004,0,0,0,3
+1262,Iraq,athens-2004,0,0,0,5
+1263,Ivory Coast,athens-2004,0,0,0,2
+1264,Costa Rica,athens-2004,0,0,0,5
+1265,Haiti,athens-2004,0,0,0,2
+1266,Seychelles,athens-2004,0,0,0,4
+1267,Papua New Guinea,athens-2004,0,0,0,2
+1268,Suriname,athens-2004,0,0,0,1
+1269,Aruba,athens-2004,0,0,0,2
+1270,Nicaragua,athens-2004,0,0,0,2
+1271,Palestine,athens-2004,0,0,0,1
+1272,Syrian Arab Republic,athens-2004,0,0,1,3
+1273,Fiji,athens-2004,0,0,0,4
+1274,US Virgin Islands,athens-2004,0,0,0,3
+1275,Cyprus,athens-2004,0,0,0,5
+1276,Lebanon,athens-2004,0,0,0,2
+1277,Benin,athens-2004,0,0,0,1
+1278,Congo,athens-2004,0,0,0,2
+1279,Bangladesh,athens-2004,0,0,0,2
+1280,Federated States of Micronesia,athens-2004,0,0,0,2
+1281,Niger,athens-2004,0,0,0,1
+1282,Cambodia,athens-2004,0,0,0,1
+1283,Turkmenistan,athens-2004,0,0,0,4
+1284,Maldives,athens-2004,0,0,0,1
+1285,Saint Vincent and the Grenadines,athens-2004,0,0,0,1
+1286,Guinea,athens-2004,0,0,0,1
+1287,Lao People's Democratic Republic,athens-2004,0,0,0,2
+1288,Mali,athens-2004,0,0,0,2
+1289,Burkina Faso,athens-2004,0,0,0,1
+1290,Antigua and Barbuda,athens-2004,0,0,0,1
+1291,Malawi,athens-2004,0,0,0,1
+1292,Cayman Islands,athens-2004,0,0,0,1
+1293,San Marino,athens-2004,0,0,0,2
+1294,Malta,athens-2004,0,0,0,3
+1295,Swaziland,athens-2004,0,0,0,1
+1296,Zambia,athens-2004,0,0,0,2
+1297,United Arab Emirates,athens-2004,1,0,0,2
+1298,Guyana,athens-2004,0,0,0,2
+1299,Monaco,athens-2004,0,0,0,2
+1300,Pakistan,athens-2004,0,0,0,4
+1301,Nauru,athens-2004,0,0,0,1
+1302,Myanmar,athens-2004,0,0,0,2
+1303,Kiribati,athens-2004,0,0,0,1
+1304,Comoros,athens-2004,0,0,0,1
+1305,Samoa,athens-2004,0,0,0,1
+1306,Cook Islands,athens-2004,0,0,0,1
+1307,American Samoa,athens-2004,0,0,0,1
+1308,Bhutan,athens-2004,0,0,0,1
+1309,Tonga,athens-2004,0,0,0,2
+1310,Liechtenstein,athens-2004,0,0,0,1
+1311,Kuwait,athens-2004,0,0,0,1
+1312,Oman,athens-2004,0,0,0,1
+1313,Togo,athens-2004,0,0,0,1
+1314,Gabon,athens-2004,0,0,0,1
+1315,Switzerland,salt-lake-city-2002,3,2,6,13
+1316,Poland,salt-lake-city-2002,0,1,1,9
+1317,Finland,salt-lake-city-2002,4,2,1,11
+1318,Germany,salt-lake-city-2002,12,16,8,14
+1319,Austria,salt-lake-city-2002,3,4,10,12
+1320,Japan,salt-lake-city-2002,0,1,1,14
+1321,Slovenia,salt-lake-city-2002,0,0,1,8
+1322,Russian Federation,salt-lake-city-2002,5,4,4,15
+1323,Italy,salt-lake-city-2002,4,4,5,12
+1324,France,salt-lake-city-2002,4,5,2,15
+1325,Norway,salt-lake-city-2002,13,5,7,11
+1326,Kazakhstan,salt-lake-city-2002,0,0,0,7
+1327,Republic of Korea,salt-lake-city-2002,2,2,0,9
+1328,United States of America,salt-lake-city-2002,10,13,11,15
+1329,Czech Republic,salt-lake-city-2002,1,2,0,13
+1330,Kyrgyzstan,salt-lake-city-2002,0,0,0,2
+1331,Estonia,salt-lake-city-2002,1,1,1,4
+1332,Belarus,salt-lake-city-2002,0,0,1,9
+1333,Australia,salt-lake-city-2002,2,0,0,5
+1334,Canada,salt-lake-city-2002,7,3,7,13
+1335,People's Republic of China,salt-lake-city-2002,2,2,4,7
+1336,Ukraine,salt-lake-city-2002,0,0,0,10
+1337,Sweden,salt-lake-city-2002,0,2,5,11
+1338,Denmark,salt-lake-city-2002,0,0,0,2
+1339,Great Britain,salt-lake-city-2002,1,0,1,10
+1340,Argentina,salt-lake-city-2002,0,0,0,5
+1341,Bulgaria,salt-lake-city-2002,0,1,2,6
+1342,Slovakia,salt-lake-city-2002,0,0,0,10
+1343,Romania,salt-lake-city-2002,0,0,0,8
+1344,Hungary,salt-lake-city-2002,0,0,0,7
+1345,Republic of Moldova,salt-lake-city-2002,0,0,0,3
+1346,Latvia,salt-lake-city-2002,0,0,0,8
+1347,Chile,salt-lake-city-2002,0,0,0,2
+1348,Greece,salt-lake-city-2002,0,0,0,5
+1349,Lithuania,salt-lake-city-2002,0,0,0,3
+1350,Croatia,salt-lake-city-2002,3,1,0,5
+1351,Venezuela,salt-lake-city-2002,0,0,0,1
+1352,India,salt-lake-city-2002,0,0,0,1
+1353,Bermuda,salt-lake-city-2002,0,0,0,1
+1354,Brazil,salt-lake-city-2002,0,0,0,4
+1355,Chinese Taipei,salt-lake-city-2002,0,0,0,2
+1356,New Zealand,salt-lake-city-2002,0,0,0,5
+1357,US Virgin Islands,salt-lake-city-2002,0,0,0,2
+1358,Belgium,salt-lake-city-2002,0,0,0,3
+1359,Georgia,salt-lake-city-2002,0,0,0,2
+1360,Uzbekistan,salt-lake-city-2002,0,0,0,2
+1361,Azerbaijan,salt-lake-city-2002,0,0,0,2
+1362,Israel,salt-lake-city-2002,0,0,0,2
+1363,Armenia,salt-lake-city-2002,0,0,0,4
+1364,Democratic People's Republic of Korea,salt-lake-city-2002,0,0,0,1
+1365,Liechtenstein,salt-lake-city-2002,0,0,0,2
+1366,Ireland,salt-lake-city-2002,0,0,0,4
+1367,Tajikistan,salt-lake-city-2002,0,0,0,1
+1368,Spain,salt-lake-city-2002,0,0,0,3
+1369,Iceland,salt-lake-city-2002,0,0,0,1
+1370,South Africa,salt-lake-city-2002,0,0,0,1
+1371,Andorra,salt-lake-city-2002,0,0,0,1
+1372,Serbia and Montenegro,salt-lake-city-2002,0,0,0,2
+1373,Bosnia and Herzegovina,salt-lake-city-2002,0,0,0,1
+1374,The Former Yugoslav Republic of Macedonia,salt-lake-city-2002,0,0,0,2
+1375,Cyprus,salt-lake-city-2002,0,0,0,1
+1376,Fiji,salt-lake-city-2002,0,0,0,1
+1377,San Marino,salt-lake-city-2002,0,0,0,1
+1378,Lebanon,salt-lake-city-2002,0,0,0,1
+1379,Turkey,salt-lake-city-2002,0,0,0,2
+1380,Islamic Republic of Iran,salt-lake-city-2002,0,0,0,1
+1381,Mexico,salt-lake-city-2002,0,0,0,2
+1382,Mongolia,salt-lake-city-2002,0,0,0,2
+1383,Kenya,salt-lake-city-2002,0,0,0,1
+1384,Cameroon,salt-lake-city-2002,0,0,0,1
+1385,Thailand,salt-lake-city-2002,0,0,0,1
+1386,Costa Rica,salt-lake-city-2002,0,0,0,1
+1387,Nepal,salt-lake-city-2002,0,0,0,1
+1388,Netherlands,salt-lake-city-2002,3,5,0,4
+1389,Monaco,salt-lake-city-2002,0,0,0,1
+1390,Jamaica,salt-lake-city-2002,0,0,0,1
+1391,Trinidad and Tobago,salt-lake-city-2002,0,0,0,1
+1392,Puerto Rico,salt-lake-city-2002,0,0,0,1
+1393,"Hong Kong, China",salt-lake-city-2002,0,0,0,1
+1394,Japan,sydney-2000,5,8,5,31
+1395,Republic of Korea,sydney-2000,8,10,10,26
+1396,Kyrgyzstan,sydney-2000,0,0,1,9
+1397,Cuba,sydney-2000,11,11,7,25
+1398,Uzbekistan,sydney-2000,1,1,2,10
+1399,Kazakhstan,sydney-2000,3,4,0,18
+1400,United States of America,sydney-2000,37,24,32,35
+1401,Azerbaijan,sydney-2000,2,0,1,8
+1402,Republic of Moldova,sydney-2000,0,1,1,7
+1403,Slovakia,sydney-2000,1,3,1,17
+1404,Georgia,sydney-2000,0,0,6,10
+1405,Algeria,sydney-2000,1,1,3,9
+1406,Mongolia,sydney-2000,0,0,0,5
+1407,Seychelles,sydney-2000,0,0,0,4
+1408,People's Republic of China,sydney-2000,28,16,14,28
+1409,Russian Federation,sydney-2000,32,28,29,32
+1410,Italy,sydney-2000,13,8,13,34
+1411,Brazil,sydney-2000,0,6,6,27
+1412,Belarus,sydney-2000,3,3,11,20
+1413,Latvia,sydney-2000,1,1,1,14
+1414,France,sydney-2000,13,14,11,32
+1415,Portugal,sydney-2000,0,0,2,13
+1416,Ukraine,sydney-2000,3,10,10,25
+1417,Tunisia,sydney-2000,0,0,0,10
+1418,Peru,sydney-2000,0,0,0,7
+1419,Israel,sydney-2000,0,0,1,8
+1420,Argentina,sydney-2000,0,2,2,21
+1421,Samoa,sydney-2000,0,0,0,5
+1422,Turkey,sydney-2000,3,0,2,10
+1423,Islamic Republic of Iran,sydney-2000,3,0,1,10
+1424,Netherlands,sydney-2000,12,9,4,24
+1425,Spain,sydney-2000,3,3,5,32
+1426,Great Britain,sydney-2000,11,10,7,28
+1427,Bulgaria,sydney-2000,5,6,2,16
+1428,Puerto Rico,sydney-2000,0,0,0,8
+1429,Guatemala,sydney-2000,0,0,0,7
+1430,Estonia,sydney-2000,1,0,2,10
+1431,Uruguay,sydney-2000,0,1,0,8
+1432,Democratic People's Republic of Korea,sydney-2000,0,1,3,10
+1433,Australia,sydney-2000,16,25,17,38
+1434,Germany,sydney-2000,13,17,26,34
+1435,Monaco,sydney-2000,0,0,0,4
+1436,Belgium,sydney-2000,0,2,3,17
+1437,Gabon,sydney-2000,0,0,0,2
+1438,Turkmenistan,sydney-2000,0,0,0,5
+1439,Czech Republic,sydney-2000,2,3,3,22
+1440,Romania,sydney-2000,11,6,9,16
+1441,Ivory Coast,sydney-2000,0,0,0,4
+1442,Canada,sydney-2000,3,3,8,32
+1443,New Zealand,sydney-2000,1,0,3,21
+1444,Egypt,sydney-2000,0,0,0,18
+1445,India,sydney-2000,0,0,1,12
+1446,Mauritius,sydney-2000,0,0,0,7
+1447,Indonesia,sydney-2000,1,3,2,11
+1448,Sweden,sydney-2000,4,5,3,24
+1449,Cameroon,sydney-2000,1,0,0,4
+1450,Austria,sydney-2000,2,1,0,19
+1451,Switzerland,sydney-2000,1,6,2,20
+1452,Slovenia,sydney-2000,2,0,0,13
+1453,Croatia,sydney-2000,1,0,1,12
+1454,Ireland,sydney-2000,0,1,0,12
+1455,The Former Yugoslav Republic of Macedonia,sydney-2000,0,0,1,4
+1456,Morocco,sydney-2000,0,1,4,8
+1457,Poland,sydney-2000,6,5,3,21
+1458,South Africa,sydney-2000,0,2,3,19
+1459,Pakistan,sydney-2000,0,0,0,5
+1460,Malaysia,sydney-2000,0,0,0,8
+1461,Hungary,sydney-2000,8,6,3,21
+1462,Norway,sydney-2000,4,3,3,15
+1463,Serbia and Montenegro,sydney-2000,1,1,1,13
+1464,Colombia,sydney-2000,1,0,0,15
+1465,Chile,sydney-2000,0,0,1,13
+1466,Venezuela,sydney-2000,0,0,0,16
+1467,Kuwait,sydney-2000,0,0,1,5
+1468,Denmark,sydney-2000,2,3,1,20
+1469,Mexico,sydney-2000,1,2,3,20
+1470,Namibia,sydney-2000,0,0,0,5
+1471,Costa Rica,sydney-2000,0,0,2,5
+1472,Kenya,sydney-2000,2,3,2,6
+1473,Guam,sydney-2000,0,0,0,6
+1474,"Hong Kong, China",sydney-2000,0,0,0,9
+1475,Finland,sydney-2000,2,1,1,15
+1476,Greece,sydney-2000,4,6,3,22
+1477,Lithuania,sydney-2000,2,0,3,14
+1478,Chinese Taipei,sydney-2000,0,1,4,12
+1479,El Salvador,sydney-2000,0,0,0,6
+1480,Nigeria,sydney-2000,1,2,0,7
+1481,Singapore,sydney-2000,0,0,0,4
+1482,Luxembourg,sydney-2000,0,0,0,4
+1483,Uganda,sydney-2000,0,0,0,5
+1484,Thailand,sydney-2000,1,0,2,9
+1485,Jordan,sydney-2000,0,0,0,5
+1486,Qatar,sydney-2000,0,0,1,5
+1487,Saudi Arabia,sydney-2000,0,1,1,5
+1488,Philippines,sydney-2000,0,0,0,8
+1489,US Virgin Islands,sydney-2000,0,0,0,5
+1490,Senegal,sydney-2000,0,0,0,4
+1491,Armenia,sydney-2000,0,0,1,7
+1492,Guinea-Bissau,sydney-2000,0,0,0,1
+1493,Honduras,sydney-2000,0,0,0,3
+1494,Nauru,sydney-2000,0,0,0,2
+1495,Palau,sydney-2000,0,0,0,2
+1496,Myanmar,sydney-2000,0,0,0,3
+1497,Papua New Guinea,sydney-2000,0,0,0,2
+1498,Albania,sydney-2000,0,0,0,2
+1499,Sierra Leone,sydney-2000,0,0,0,1
+1500,Dominican Republic,sydney-2000,0,0,0,3
+1501,Ecuador,sydney-2000,0,0,0,4
+1502,Tonga,sydney-2000,0,0,0,1
+1503,American Samoa,sydney-2000,0,0,0,2
+1504,Fiji,sydney-2000,0,0,0,3
+1505,Lebanon,sydney-2000,0,0,0,3
+1506,Nicaragua,sydney-2000,0,0,0,4
+1507,Independent Olympic Athletes,sydney-2000,0,0,0,3
+1508,Federated States of Micronesia,sydney-2000,0,0,0,3
+1509,Panama,sydney-2000,0,0,0,3
+1510,Zimbabwe,sydney-2000,0,0,0,5
+1511,Bangladesh,sydney-2000,0,0,0,2
+1512,Sri Lanka,sydney-2000,0,1,0,4
+1513,Bosnia and Herzegovina,sydney-2000,0,0,0,3
+1514,San Marino,sydney-2000,0,0,0,3
+1515,Vietnam,sydney-2000,0,1,0,3
+1516,Cyprus,sydney-2000,0,0,0,4
+1517,Netherlands Antilles,sydney-2000,0,0,0,5
+1518,United Arab Emirates,sydney-2000,0,0,0,2
+1519,Malta,sydney-2000,0,0,0,3
+1520,Andorra,sydney-2000,0,0,0,3
+1521,Angola,sydney-2000,0,0,0,5
+1522,Nepal,sydney-2000,0,0,0,2
+1523,Liechtenstein,sydney-2000,0,0,0,1
+1524,Oman,sydney-2000,0,0,0,2
+1525,Barbados,sydney-2000,0,0,1,5
+1526,Brunei,sydney-2000,0,0,0,1
+1527,Iceland,sydney-2000,0,0,1,4
+1528,Syrian Arab Republic,sydney-2000,0,0,0,4
+1529,Bermuda,sydney-2000,0,0,0,3
+1530,Bhutan,sydney-2000,0,0,0,1
+1531,Central African Republic,sydney-2000,0,0,0,1
+1532,Vanuatu,sydney-2000,0,0,0,1
+1533,Antigua and Barbuda,sydney-2000,0,0,0,1
+1534,Jamaica,sydney-2000,0,6,3,4
+1535,Cayman Islands,sydney-2000,0,0,0,1
+1536,Cook Islands,sydney-2000,0,0,0,1
+1537,Bahamas,sydney-2000,2,0,1,3
+1538,Ethiopia,sydney-2000,4,1,3,2
+1539,Burundi,sydney-2000,0,0,0,1
+1540,Rwanda,sydney-2000,0,0,0,2
+1541,Lesotho,sydney-2000,0,0,0,3
+1542,Saint Vincent and the Grenadines,sydney-2000,0,0,0,2
+1543,Trinidad and Tobago,sydney-2000,0,1,1,3
+1544,Swaziland,sydney-2000,0,0,0,4
+1545,United Republic of Tanzania,sydney-2000,0,0,0,1
+1546,Cape Verde,sydney-2000,0,0,0,1
+1547,Tajikistan,sydney-2000,0,0,0,2
+1548,Bolivia,sydney-2000,0,0,0,3
+1549,Botswana,sydney-2000,0,0,0,2
+1550,Cambodia,sydney-2000,0,0,0,2
+1551,Libya,sydney-2000,0,0,0,2
+1552,Democratic Republic of the Congo,sydney-2000,0,0,0,1
+1553,Aruba,sydney-2000,0,0,0,2
+1554,Djibouti,sydney-2000,0,0,0,1
+1555,Mozambique,sydney-2000,1,0,0,2
+1556,Haiti,sydney-2000,0,0,0,2
+1557,Sudan,sydney-2000,0,0,0,2
+1558,Saint Kitts and Nevis,sydney-2000,0,0,0,1
+1559,Palestine,sydney-2000,0,0,0,2
+1560,Lao People's Democratic Republic,sydney-2000,0,0,0,2
+1561,Ghana,sydney-2000,0,0,0,1
+1562,Zambia,sydney-2000,0,0,0,2
+1563,Guinea,sydney-2000,0,0,0,2
+1564,Burkina Faso,sydney-2000,0,0,0,1
+1565,Madagascar,sydney-2000,0,0,0,2
+1566,Suriname,sydney-2000,0,0,0,1
+1567,Paraguay,sydney-2000,0,0,0,2
+1568,Congo,sydney-2000,0,0,0,1
+1569,Bahrain,sydney-2000,0,0,0,1
+1570,Equatorial Guinea,sydney-2000,0,0,0,1
+1571,Niger,sydney-2000,0,0,0,1
+1572,Saint Lucia,sydney-2000,0,0,0,1
+1573,Dominica,sydney-2000,0,0,0,1
+1574,Maldives,sydney-2000,0,0,0,1
+1575,Iraq,sydney-2000,0,0,0,1
+1576,Mali,sydney-2000,0,0,0,1
+1577,Grenada,sydney-2000,0,0,0,1
+1578,Benin,sydney-2000,0,0,0,2
+1579,Finland,nagano-1998,2,4,6,10
+1580,Japan,nagano-1998,5,1,4,14
+1581,Austria,nagano-1998,3,5,9,12
+1582,Slovenia,nagano-1998,0,0,0,8
+1583,Norway,nagano-1998,10,10,5,10
+1584,Czech Republic,nagano-1998,1,1,1,9
+1585,Germany,nagano-1998,12,9,8,14
+1586,France,nagano-1998,2,1,5,12
+1587,Switzerland,nagano-1998,2,2,3,12
+1588,Poland,nagano-1998,0,0,0,10
+1589,Russian Federation,nagano-1998,9,6,3,12
+1590,Kazakhstan,nagano-1998,0,0,2,8
+1591,Ukraine,nagano-1998,0,1,0,10
+1592,Italy,nagano-1998,2,6,2,13
+1593,Belarus,nagano-1998,0,0,2,9
+1594,United States of America,nagano-1998,6,3,4,14
+1595,Republic of Korea,nagano-1998,3,1,2,8
+1596,Georgia,nagano-1998,0,0,0,2
+1597,Slovakia,nagano-1998,0,0,0,6
+1598,Estonia,nagano-1998,0,0,0,5
+1599,Sweden,nagano-1998,0,2,1,9
+1600,People's Republic of China,nagano-1998,0,6,2,7
+1601,Romania,nagano-1998,0,0,0,7
+1602,Canada,nagano-1998,6,5,4,12
+1603,Latvia,nagano-1998,0,0,0,6
+1604,Bulgaria,nagano-1998,1,0,0,6
+1605,Lithuania,nagano-1998,0,0,0,4
+1606,Spain,nagano-1998,0,0,0,4
+1607,Liechtenstein,nagano-1998,0,0,0,2
+1608,Denmark,nagano-1998,0,1,0,6
+1609,Australia,nagano-1998,0,0,1,8
+1610,Greece,nagano-1998,0,0,0,6
+1611,Hungary,nagano-1998,0,0,0,6
+1612,Mongolia,nagano-1998,0,0,0,2
+1613,The Former Yugoslav Republic of Macedonia,nagano-1998,0,0,0,2
+1614,Kenya,nagano-1998,0,0,0,1
+1615,Croatia,nagano-1998,0,0,0,2
+1616,Armenia,nagano-1998,0,0,0,4
+1617,Bosnia and Herzegovina,nagano-1998,0,0,0,3
+1618,Bermuda,nagano-1998,0,0,0,1
+1619,India,nagano-1998,0,0,0,1
+1620,Chinese Taipei,nagano-1998,0,0,0,2
+1621,New Zealand,nagano-1998,0,0,0,6
+1622,US Virgin Islands,nagano-1998,0,0,0,2
+1623,Venezuela,nagano-1998,0,0,0,1
+1624,Great Britain,nagano-1998,0,0,1,7
+1625,Azerbaijan,nagano-1998,0,0,0,1
+1626,Israel,nagano-1998,0,0,0,1
+1627,Uzbekistan,nagano-1998,0,0,0,3
+1628,South Africa,nagano-1998,0,0,0,2
+1629,Netherlands,nagano-1998,5,4,2,3
+1630,Democratic People's Republic of Korea,nagano-1998,0,0,0,2
+1631,Belgium,nagano-1998,0,0,1,1
+1632,Portugal,nagano-1998,0,0,0,2
+1633,Serbia and Montenegro,nagano-1998,0,0,0,1
+1634,Andorra,nagano-1998,0,0,0,1
+1635,Iceland,nagano-1998,0,0,0,1
+1636,Uruguay,nagano-1998,0,0,0,1
+1637,Turkey,nagano-1998,0,0,0,1
+1638,Islamic Republic of Iran,nagano-1998,0,0,0,1
+1639,Puerto Rico,nagano-1998,0,0,0,2
+1640,Cyprus,nagano-1998,0,0,0,1
+1641,Argentina,nagano-1998,0,0,0,2
+1642,Brazil,nagano-1998,0,0,0,1
+1643,Chile,nagano-1998,0,0,0,1
+1644,Ireland,nagano-1998,0,0,0,2
+1645,Monaco,nagano-1998,0,0,0,1
+1646,Jamaica,nagano-1998,0,0,0,1
+1647,Trinidad and Tobago,nagano-1998,0,0,0,1
+1648,Republic of Moldova,nagano-1998,0,0,0,1
+1649,Kyrgyzstan,nagano-1998,0,0,0,1
+1650,Japan,atlanta-1996,3,6,5,29
+1651,Republic of Korea,atlanta-1996,7,15,5,24
+1652,United States of America,atlanta-1996,44,32,25,34
+1653,France,atlanta-1996,15,7,15,30
+1654,Mongolia,atlanta-1996,0,0,1,7
+1655,Brazil,atlanta-1996,3,3,9,21
+1656,Germany,atlanta-1996,20,18,27,31
+1657,Uzbekistan,atlanta-1996,0,1,1,11
+1658,Georgia,atlanta-1996,0,0,2,11
+1659,Austria,atlanta-1996,0,1,2,18
+1660,New Zealand,atlanta-1996,3,2,1,18
+1661,Islamic Republic of Iran,atlanta-1996,1,1,1,5
+1662,Argentina,atlanta-1996,0,2,1,21
+1663,Algeria,atlanta-1996,2,0,1,9
+1664,Turkey,atlanta-1996,4,1,1,9
+1665,Ivory Coast,atlanta-1996,0,0,0,2
+1666,Portugal,atlanta-1996,1,0,1,17
+1667,Hungary,atlanta-1996,7,4,10,23
+1668,Republic of Moldova,atlanta-1996,0,1,1,10
+1669,Kuwait,atlanta-1996,0,0,0,8
+1670,Barbados,atlanta-1996,0,0,0,6
+1671,San Marino,atlanta-1996,0,0,0,5
+1672,Great Britain,atlanta-1996,1,8,6,26
+1673,Poland,atlanta-1996,7,5,5,22
+1674,Italy,atlanta-1996,13,10,12,31
+1675,Puerto Rico,atlanta-1996,0,0,1,15
+1676,Kazakhstan,atlanta-1996,3,4,4,14
+1677,Chinese Taipei,atlanta-1996,0,1,0,14
+1678,Paraguay,atlanta-1996,0,0,0,4
+1679,Tunisia,atlanta-1996,0,0,1,9
+1680,El Salvador,atlanta-1996,0,0,0,5
+1681,Costa Rica,atlanta-1996,1,0,0,6
+1682,Russian Federation,atlanta-1996,26,21,16,28
+1683,Bosnia and Herzegovina,atlanta-1996,0,0,0,7
+1684,Guatemala,atlanta-1996,0,0,0,12
+1685,Belgium,atlanta-1996,2,2,2,16
+1686,Cuba,atlanta-1996,9,8,8,16
+1687,Ukraine,atlanta-1996,9,2,12,22
+1688,Romania,atlanta-1996,4,7,9,17
+1689,Spain,atlanta-1996,5,6,6,27
+1690,Venezuela,atlanta-1996,0,0,0,13
+1691,Mauritius,atlanta-1996,0,0,0,6
+1692,Canada,atlanta-1996,3,11,8,29
+1693,People's Republic of China,atlanta-1996,16,22,12,27
+1694,Turkmenistan,atlanta-1996,0,0,0,5
+1695,Netherlands,atlanta-1996,4,5,10,22
+1696,Australia,atlanta-1996,9,9,23,31
+1697,India,atlanta-1996,0,0,1,12
+1698,Switzerland,atlanta-1996,4,3,0,22
+1699,Greece,atlanta-1996,4,4,0,17
+1700,Nicaragua,atlanta-1996,0,0,0,5
+1701,Luxembourg,atlanta-1996,0,0,0,4
+1702,Kyrgyzstan,atlanta-1996,0,0,0,8
+1703,Belarus,atlanta-1996,1,6,8,21
+1704,Tajikistan,atlanta-1996,0,0,0,5
+1705,Serbia and Montenegro,atlanta-1996,1,1,2,12
+1706,Thailand,atlanta-1996,1,0,1,9
+1707,Dominican Republic,atlanta-1996,0,0,0,6
+1708,Senegal,atlanta-1996,0,0,0,3
+1709,Estonia,atlanta-1996,0,0,0,14
+1710,Iceland,atlanta-1996,0,0,0,4
+1711,Fiji,atlanta-1996,0,0,0,4
+1712,Uruguay,atlanta-1996,0,0,0,9
+1713,Mexico,atlanta-1996,0,0,1,20
+1714,Egypt,atlanta-1996,0,0,0,8
+1715,Slovakia,atlanta-1996,1,1,1,15
+1716,Israel,atlanta-1996,0,0,1,9
+1717,Malta,atlanta-1996,0,0,0,5
+1718,Czech Republic,atlanta-1996,4,3,4,17
+1719,"Hong Kong, China",atlanta-1996,1,0,0,9
+1720,Liechtenstein,atlanta-1996,0,0,0,2
+1721,Honduras,atlanta-1996,0,0,0,3
+1722,Morocco,atlanta-1996,0,0,2,6
+1723,Azerbaijan,atlanta-1996,0,1,0,8
+1724,Ireland,atlanta-1996,3,0,1,16
+1725,Lithuania,atlanta-1996,0,0,1,13
+1726,Haiti,atlanta-1996,0,0,0,3
+1727,Cameroon,atlanta-1996,0,0,0,4
+1728,Netherlands Antilles,atlanta-1996,0,0,0,4
+1729,Congo,atlanta-1996,0,0,0,2
+1730,Indonesia,atlanta-1996,1,1,2,11
+1731,Gabon,atlanta-1996,0,0,0,2
+1732,Bulgaria,atlanta-1996,3,7,5,17
+1733,South Africa,atlanta-1996,3,1,1,15
+1734,Finland,atlanta-1996,1,2,1,15
+1735,Andorra,atlanta-1996,0,0,0,5
+1736,Sweden,atlanta-1996,2,4,2,25
+1737,Monaco,atlanta-1996,0,0,0,3
+1738,Nigeria,atlanta-1996,2,1,3,10
+1739,Armenia,atlanta-1996,1,1,0,10
+1740,Democratic People's Republic of Korea,atlanta-1996,2,1,2,8
+1741,Vietnam,atlanta-1996,0,0,0,3
+1742,Peru,atlanta-1996,0,0,0,8
+1743,The Former Yugoslav Republic of Macedonia,atlanta-1996,0,0,0,4
+1744,Guinea-Bissau,atlanta-1996,0,0,0,1
+1745,Pakistan,atlanta-1996,0,0,0,4
+1746,American Samoa,atlanta-1996,0,0,0,4
+1747,Latvia,atlanta-1996,0,1,0,13
+1748,Syrian Arab Republic,atlanta-1996,1,0,0,5
+1749,Norway,atlanta-1996,2,2,3,17
+1750,Albania,atlanta-1996,0,0,0,4
+1751,Cyprus,atlanta-1996,0,0,0,4
+1752,Cambodia,atlanta-1996,0,0,0,3
+1753,Colombia,atlanta-1996,0,0,0,11
+1754,Yemen,atlanta-1996,0,0,0,3
+1755,Croatia,atlanta-1996,1,1,0,13
+1756,Panama,atlanta-1996,0,0,0,6
+1757,Guam,atlanta-1996,0,0,0,4
+1758,Denmark,atlanta-1996,4,1,1,17
+1759,Antigua and Barbuda,atlanta-1996,0,0,0,2
+1760,Slovenia,atlanta-1996,0,2,0,8
+1761,Bhutan,atlanta-1996,0,0,0,1
+1762,Kenya,atlanta-1996,1,4,3,5
+1763,Malaysia,atlanta-1996,0,1,1,8
+1764,Chile,atlanta-1996,0,0,0,11
+1765,Trinidad and Tobago,atlanta-1996,0,0,2,6
+1766,Ghana,atlanta-1996,0,0,0,3
+1767,Saudi Arabia,atlanta-1996,0,0,0,5
+1768,Belize,atlanta-1996,0,0,0,2
+1769,United Arab Emirates,atlanta-1996,0,0,0,3
+1770,Ecuador,atlanta-1996,1,0,0,7
+1771,Zimbabwe,atlanta-1996,0,0,0,6
+1772,Bermuda,atlanta-1996,0,0,0,4
+1773,Aruba,atlanta-1996,0,0,0,2
+1774,Oman,atlanta-1996,0,0,0,3
+1775,Libya,atlanta-1996,0,0,0,2
+1776,Cayman Islands,atlanta-1996,0,0,0,2
+1777,Suriname,atlanta-1996,0,0,0,2
+1778,Singapore,atlanta-1996,0,0,0,6
+1779,Philippines,atlanta-1996,0,1,0,6
+1780,Bolivia,atlanta-1996,0,0,0,4
+1781,British Virgin Islands,atlanta-1996,0,0,0,1
+1782,Seychelles,atlanta-1996,0,0,0,4
+1783,Saint Lucia,atlanta-1996,0,0,0,2
+1784,Bahamas,atlanta-1996,0,1,0,4
+1785,Qatar,atlanta-1996,0,0,0,4
+1786,Bahrain,atlanta-1996,0,0,0,1
+1787,Djibouti,atlanta-1996,0,0,0,2
+1788,US Virgin Islands,atlanta-1996,0,0,0,5
+1789,Cook Islands,atlanta-1996,0,0,0,2
+1790,Jamaica,atlanta-1996,1,3,2,5
+1791,Democratic Republic of the Congo,atlanta-1996,0,0,0,2
+1792,Angola,atlanta-1996,0,0,0,4
+1793,Uganda,atlanta-1996,0,0,1,4
+1794,Lebanon,atlanta-1996,0,0,0,1
+1795,Sudan,atlanta-1996,0,0,0,2
+1796,Iraq,atlanta-1996,0,0,0,2
+1797,Papua New Guinea,atlanta-1996,0,0,0,2
+1798,Samoa,atlanta-1996,0,0,0,2
+1799,Nauru,atlanta-1996,0,0,0,1
+1800,Tonga,atlanta-1996,0,1,0,2
+1801,Solomon Islands,atlanta-1996,0,0,0,1
+1802,Nepal,atlanta-1996,0,0,0,4
+1803,Ethiopia,atlanta-1996,2,0,1,2
+1804,Burundi,atlanta-1996,1,0,0,1
+1805,Rwanda,atlanta-1996,0,0,0,1
+1806,United Republic of Tanzania,atlanta-1996,0,0,0,2
+1807,Somalia,atlanta-1996,0,0,0,1
+1808,Namibia,atlanta-1996,0,2,0,4
+1809,Cape Verde,atlanta-1996,0,0,0,1
+1810,Zambia,atlanta-1996,0,1,0,2
+1811,Sierra Leone,atlanta-1996,0,0,0,3
+1812,Mozambique,atlanta-1996,0,0,1,3
+1813,Lesotho,atlanta-1996,0,0,0,1
+1814,Swaziland,atlanta-1996,0,0,0,3
+1815,Malawi,atlanta-1996,0,0,0,1
+1816,Niger,atlanta-1996,0,0,0,1
+1817,Saint Vincent and the Grenadines,atlanta-1996,0,0,0,1
+1818,Central African Republic,atlanta-1996,0,0,0,1
+1819,Afghanistan,atlanta-1996,0,0,0,1
+1820,Madagascar,atlanta-1996,0,0,0,4
+1821,Botswana,atlanta-1996,0,0,0,2
+1822,Myanmar,atlanta-1996,0,0,0,2
+1823,Lao People's Democratic Republic,atlanta-1996,0,0,0,1
+1824,Jordan,atlanta-1996,0,0,0,2
+1825,Bangladesh,atlanta-1996,0,0,0,2
+1826,Dominica,atlanta-1996,0,0,0,1
+1827,Maldives,atlanta-1996,0,0,0,1
+1828,Brunei,atlanta-1996,0,0,0,1
+1829,Sri Lanka,atlanta-1996,0,0,0,2
+1830,Burkina Faso,atlanta-1996,0,0,0,1
+1831,Guinea,atlanta-1996,0,0,0,1
+1832,Guyana,atlanta-1996,0,0,0,1
+1833,Japan,lillehammer-1994,1,2,2,11
+1834,Norway,lillehammer-1994,10,11,5,10
+1835,Switzerland,lillehammer-1994,3,4,2,10
+1836,Estonia,lillehammer-1994,0,0,0,5
+1837,Czech Republic,lillehammer-1994,0,0,0,7
+1838,France,lillehammer-1994,0,1,4,10
+1839,United States of America,lillehammer-1994,6,5,2,12
+1840,Finland,lillehammer-1994,0,1,5,8
+1841,Austria,lillehammer-1994,2,3,4,10
+1842,Germany,lillehammer-1994,9,7,8,11
+1843,Italy,lillehammer-1994,7,5,8,11
+1844,Russian Federation,lillehammer-1994,11,8,4,12
+1845,Ukraine,lillehammer-1994,1,0,1,10
+1846,Poland,lillehammer-1994,0,0,0,8
+1847,Slovakia,lillehammer-1994,0,0,0,7
+1848,Belarus,lillehammer-1994,0,2,0,7
+1849,Sweden,lillehammer-1994,2,1,0,10
+1850,Latvia,lillehammer-1994,0,0,0,6
+1851,Canada,lillehammer-1994,3,6,4,10
+1852,US Virgin Islands,lillehammer-1994,0,0,0,2
+1853,Greece,lillehammer-1994,0,0,0,5
+1854,Great Britain,lillehammer-1994,0,0,2,8
+1855,Liechtenstein,lillehammer-1994,0,0,0,3
+1856,Bermuda,lillehammer-1994,0,0,0,1
+1857,Bosnia and Herzegovina,lillehammer-1994,0,0,0,4
+1858,Australia,lillehammer-1994,0,0,1,9
+1859,Romania,lillehammer-1994,0,0,0,7
+1860,Georgia,lillehammer-1994,0,0,0,3
+1861,Bulgaria,lillehammer-1994,0,0,0,7
+1862,Slovenia,lillehammer-1994,0,0,3,3
+1863,Kazakhstan,lillehammer-1994,1,2,0,8
+1864,People's Republic of China,lillehammer-1994,0,1,2,5
+1865,Hungary,lillehammer-1994,0,0,0,5
+1866,Lithuania,lillehammer-1994,0,0,0,3
+1867,Argentina,lillehammer-1994,0,0,0,2
+1868,Kyrgyzstan,lillehammer-1994,0,0,0,1
+1869,Republic of Moldova,lillehammer-1994,0,0,0,1
+1870,Netherlands,lillehammer-1994,0,1,3,4
+1871,Uzbekistan,lillehammer-1994,1,0,0,2
+1872,Spain,lillehammer-1994,0,0,0,4
+1873,Republic of Korea,lillehammer-1994,4,1,1,5
+1874,New Zealand,lillehammer-1994,0,0,0,2
+1875,Mongolia,lillehammer-1994,0,0,0,1
+1876,Belgium,lillehammer-1994,0,0,0,2
+1877,South Africa,lillehammer-1994,0,0,0,2
+1878,Denmark,lillehammer-1994,0,0,0,3
+1879,Israel,lillehammer-1994,0,0,0,1
+1880,Andorra,lillehammer-1994,0,0,0,1
+1881,Iceland,lillehammer-1994,0,0,0,2
+1882,Croatia,lillehammer-1994,0,0,0,2
+1883,Luxembourg,lillehammer-1994,0,0,0,1
+1884,Cyprus,lillehammer-1994,0,0,0,1
+1885,Chile,lillehammer-1994,0,0,0,1
+1886,Portugal,lillehammer-1994,0,0,0,1
+1887,Mexico,lillehammer-1994,0,0,0,1
+1888,Brazil,lillehammer-1994,0,0,0,1
+1889,Senegal,lillehammer-1994,0,0,0,1
+1890,Monaco,lillehammer-1994,0,0,0,2
+1891,San Marino,lillehammer-1994,0,0,0,2
+1892,Turkey,lillehammer-1994,0,0,0,1
+1893,Fiji,lillehammer-1994,0,0,0,1
+1894,Jamaica,lillehammer-1994,0,0,0,1
+1895,Puerto Rico,lillehammer-1994,0,0,0,1
+1896,Chinese Taipei,lillehammer-1994,0,0,0,1
+1897,Armenia,lillehammer-1994,0,0,0,1
+1898,Trinidad and Tobago,lillehammer-1994,0,0,0,1
+1899,American Samoa,lillehammer-1994,0,0,0,1
+1900,United States of America,barcelona-1992,37,34,37,31
+1901,Canada,barcelona-1992,7,4,7,27
+1902,Unified Team,barcelona-1992,45,38,29,30
+1903,Turkey,barcelona-1992,2,2,2,10
+1904,Germany,barcelona-1992,33,21,28,30
+1905,Islamic Republic of Iran,barcelona-1992,0,1,2,6
+1906,People's Republic of China,barcelona-1992,16,22,16,23
+1907,Republic of Korea,barcelona-1992,12,5,12,23
+1908,Bulgaria,barcelona-1992,3,7,6,18
+1909,Puerto Rico,barcelona-1992,0,0,1,11
+1910,Japan,barcelona-1992,3,8,11,26
+1911,Poland,barcelona-1992,3,6,10,22
+1912,Senegal,barcelona-1992,0,0,0,4
+1913,Czechoslovakia,barcelona-1992,4,2,1,27
+1914,Hungary,barcelona-1992,11,12,7,23
+1915,Mongolia,barcelona-1992,0,0,2,8
+1916,Greece,barcelona-1992,2,0,0,15
+1917,South Africa,barcelona-1992,0,2,0,20
+1918,Colombia,barcelona-1992,0,0,1,12
+1919,Cyprus,barcelona-1992,0,0,0,6
+1920,Sweden,barcelona-1992,1,7,4,23
+1921,Cuba,barcelona-1992,14,6,11,16
+1922,Italy,barcelona-1992,6,5,8,30
+1923,Austria,barcelona-1992,0,2,0,19
+1924,France,barcelona-1992,8,5,16,27
+1925,Finland,barcelona-1992,1,2,2,16
+1926,Independent Olympic Athletes,barcelona-1992,0,1,2,13
+1927,Egypt,barcelona-1992,0,0,0,13
+1928,Tunisia,barcelona-1992,0,0,0,7
+1929,Democratic People's Republic of Korea,barcelona-1992,4,0,5,11
+1930,Romania,barcelona-1992,4,6,8,18
+1931,Nigeria,barcelona-1992,0,3,1,8
+1932,Spain,barcelona-1992,13,7,2,33
+1933,Guam,barcelona-1992,0,0,0,9
+1934,Australia,barcelona-1992,7,9,11,28
+1935,Switzerland,barcelona-1992,1,0,0,19
+1936,Latvia,barcelona-1992,0,2,1,15
+1937,India,barcelona-1992,0,0,0,11
+1938,New Zealand,barcelona-1992,1,4,5,19
+1939,Norway,barcelona-1992,2,4,1,16
+1940,Morocco,barcelona-1992,1,1,1,7
+1941,Syrian Arab Republic,barcelona-1992,0,0,0,4
+1942,Panama,barcelona-1992,0,0,0,3
+1943,Dominican Republic,barcelona-1992,0,0,0,5
+1944,Pakistan,barcelona-1992,0,0,1,4
+1945,Algeria,barcelona-1992,1,0,1,7
+1946,Portugal,barcelona-1992,0,0,0,15
+1947,Israel,barcelona-1992,0,1,1,9
+1948,Brazil,barcelona-1992,2,1,0,21
+1949,Estonia,barcelona-1992,1,0,1,13
+1950,Croatia,barcelona-1992,0,1,2,10
+1951,Argentina,barcelona-1992,0,0,1,16
+1952,Venezuela,barcelona-1992,0,0,0,7
+1953,Belgium,barcelona-1992,0,1,2,17
+1954,Guatemala,barcelona-1992,0,0,0,7
+1955,Lithuania,barcelona-1992,1,0,1,12
+1956,Mexico,barcelona-1992,0,1,0,17
+1957,Great Britain,barcelona-1992,5,3,12,26
+1958,Nicaragua,barcelona-1992,0,0,0,6
+1959,Indonesia,barcelona-1992,2,2,1,9
+1960,Netherlands,barcelona-1992,2,6,7,23
+1961,Denmark,barcelona-1992,1,1,4,17
+1962,Slovenia,barcelona-1992,0,0,2,11
+1963,Ireland,barcelona-1992,1,1,0,14
+1964,Bhutan,barcelona-1992,0,0,0,1
+1965,"Hong Kong, China",barcelona-1992,0,0,0,9
+1966,San Marino,barcelona-1992,0,0,0,7
+1967,Chinese Taipei,barcelona-1992,0,1,0,7
+1968,Luxembourg,barcelona-1992,0,0,0,4
+1969,Costa Rica,barcelona-1992,0,0,0,6
+1970,Angola,barcelona-1992,0,0,0,6
+1971,Peru,barcelona-1992,0,1,0,8
+1972,Thailand,barcelona-1992,0,0,1,8
+1973,Mauritius,barcelona-1992,0,0,0,3
+1974,Malaysia,barcelona-1992,0,0,1,6
+1975,Iceland,barcelona-1992,0,0,0,6
+1976,Singapore,barcelona-1992,0,0,0,6
+1977,Sri Lanka,barcelona-1992,0,0,0,5
+1978,Jamaica,barcelona-1992,0,3,1,6
+1979,United Arab Emirates,barcelona-1992,0,0,0,3
+1980,Ivory Coast,barcelona-1992,0,0,0,2
+1981,Bahamas,barcelona-1992,0,0,1,4
+1982,Bermuda,barcelona-1992,0,0,0,5
+1983,Kenya,barcelona-1992,2,4,2,5
+1984,Ethiopia,barcelona-1992,1,0,2,2
+1985,Djibouti,barcelona-1992,0,0,0,3
+1986,Lesotho,barcelona-1992,0,0,0,1
+1987,United Republic of Tanzania,barcelona-1992,0,0,0,2
+1988,Swaziland,barcelona-1992,0,0,0,2
+1989,Ecuador,barcelona-1992,0,0,0,7
+1990,Cameroon,barcelona-1992,0,0,0,3
+1991,Democratic Republic of the Congo,barcelona-1992,0,0,0,4
+1992,Philippines,barcelona-1992,0,0,1,9
+1993,Aruba,barcelona-1992,0,0,0,3
+1994,Uruguay,barcelona-1992,0,0,0,10
+1995,Bolivia,barcelona-1992,0,0,0,6
+1996,Zimbabwe,barcelona-1992,0,0,0,5
+1997,Rwanda,barcelona-1992,0,0,0,2
+1998,Chile,barcelona-1992,0,0,0,7
+1999,Malawi,barcelona-1992,0,0,0,1
+2000,Niger,barcelona-1992,0,0,0,1
+2001,Liechtenstein,barcelona-1992,0,0,0,5
+2002,Namibia,barcelona-1992,0,2,0,3
+2003,Nepal,barcelona-1992,0,0,0,2
+2004,Central African Republic,barcelona-1992,0,0,0,3
+2005,Libya,barcelona-1992,0,0,0,4
+2006,Haiti,barcelona-1992,0,0,0,2
+2007,Myanmar,barcelona-1992,0,0,0,2
+2008,US Virgin Islands,barcelona-1992,0,0,0,7
+2009,Bahrain,barcelona-1992,0,0,0,2
+2010,Madagascar,barcelona-1992,0,0,0,6
+2011,Uganda,barcelona-1992,0,0,0,3
+2012,Botswana,barcelona-1992,0,0,0,2
+2013,Vietnam,barcelona-1992,0,0,0,3
+2014,Maldives,barcelona-1992,0,0,0,2
+2015,Honduras,barcelona-1992,0,0,0,4
+2016,Mauritania,barcelona-1992,0,0,0,1
+2017,Fiji,barcelona-1992,0,0,0,4
+2018,Trinidad and Tobago,barcelona-1992,0,0,0,2
+2019,Qatar,barcelona-1992,0,0,1,2
+2020,Vanuatu,barcelona-1992,0,0,0,1
+2021,Sierra Leone,barcelona-1992,0,0,0,1
+2022,Albania,barcelona-1992,0,0,0,4
+2023,Lao People's Democratic Republic,barcelona-1992,0,0,0,2
+2024,Mozambique,barcelona-1992,0,0,0,2
+2025,Gambia,barcelona-1992,0,0,0,1
+2026,Papua New Guinea,barcelona-1992,0,0,0,4
+2027,Tonga,barcelona-1992,0,0,0,2
+2028,Yemen,barcelona-1992,0,0,0,2
+2029,Bosnia and Herzegovina,barcelona-1992,0,0,0,5
+2030,Lebanon,barcelona-1992,0,0,0,6
+2031,American Samoa,barcelona-1992,0,0,0,2
+2032,Iraq,barcelona-1992,0,0,0,3
+2033,Samoa,barcelona-1992,0,0,0,2
+2034,Kuwait,barcelona-1992,0,0,0,6
+2035,Cook Islands,barcelona-1992,0,0,0,1
+2036,Solomon Islands,barcelona-1992,0,0,0,1
+2037,Sudan,barcelona-1992,0,0,0,2
+2038,Andorra,barcelona-1992,0,0,0,4
+2039,Antigua and Barbuda,barcelona-1992,0,0,0,3
+2040,Belize,barcelona-1992,0,0,0,1
+2041,Benin,barcelona-1992,0,0,0,1
+2042,Cayman Islands,barcelona-1992,0,0,0,3
+2043,Guyana,barcelona-1992,0,0,0,3
+2044,Togo,barcelona-1992,0,0,0,1
+2045,Suriname,barcelona-1992,0,0,1,2
+2046,Saudi Arabia,barcelona-1992,0,0,0,4
+2047,Guinea,barcelona-1992,0,0,0,1
+2048,Zambia,barcelona-1992,0,0,0,2
+2049,Burkina Faso,barcelona-1992,0,0,0,1
+2050,Gabon,barcelona-1992,0,0,0,2
+2051,Mali,barcelona-1992,0,0,0,1
+2052,Chad,barcelona-1992,0,0,0,1
+2053,Paraguay,barcelona-1992,0,0,0,5
+2054,El Salvador,barcelona-1992,0,0,0,2
+2055,Malta,barcelona-1992,0,0,0,3
+2056,Netherlands Antilles,barcelona-1992,0,0,0,2
+2057,Barbados,barcelona-1992,0,0,0,4
+2058,Seychelles,barcelona-1992,0,0,0,3
+2059,British Virgin Islands,barcelona-1992,0,0,0,1
+2060,Ghana,barcelona-1992,0,0,1,3
+2061,Jordan,barcelona-1992,0,0,0,2
+2062,Monaco,barcelona-1992,0,0,0,2
+2063,Bangladesh,barcelona-1992,0,0,0,2
+2064,Oman,barcelona-1992,0,0,0,1
+2065,Congo,barcelona-1992,0,0,0,1
+2066,Norway,albertville-1992,9,6,5,11
+2067,Italy,albertville-1992,4,6,4,11
+2068,Sweden,albertville-1992,1,0,3,8
+2069,Unified Team,albertville-1992,9,6,8,12
+2070,Austria,albertville-1992,6,7,8,10
+2071,Finland,albertville-1992,3,1,3,9
+2072,Czechoslovakia,albertville-1992,0,0,3,11
+2073,Germany,albertville-1992,10,10,6,11
+2074,Estonia,albertville-1992,0,0,0,4
+2075,France,albertville-1992,3,5,1,12
+2076,United States of America,albertville-1992,5,4,2,12
+2077,Japan,albertville-1992,1,2,4,11
+2078,Switzerland,albertville-1992,1,0,2,8
+2079,Liechtenstein,albertville-1992,0,0,0,2
+2080,Spain,albertville-1992,0,0,1,4
+2081,Australia,albertville-1992,0,0,0,9
+2082,Canada,albertville-1992,2,3,2,11
+2083,Poland,albertville-1992,0,0,0,9
+2084,Lithuania,albertville-1992,0,0,0,3
+2085,Republic of Korea,albertville-1992,2,1,1,6
+2086,Denmark,albertville-1992,0,0,0,3
+2087,Romania,albertville-1992,0,0,0,7
+2088,Great Britain,albertville-1992,0,0,0,9
+2089,Slovenia,albertville-1992,0,0,0,5
+2090,Bulgaria,albertville-1992,0,0,0,7
+2091,Iceland,albertville-1992,0,0,0,2
+2092,Croatia,albertville-1992,0,0,0,2
+2093,People's Republic of China,albertville-1992,0,3,0,6
+2094,Democratic People's Republic of Korea,albertville-1992,0,0,1,5
+2095,Yugoslavia,albertville-1992,0,0,0,6
+2096,Mongolia,albertville-1992,0,0,0,2
+2097,Latvia,albertville-1992,0,0,0,6
+2098,Greece,albertville-1992,0,0,0,3
+2099,Turkey,albertville-1992,0,0,0,2
+2100,Hungary,albertville-1992,0,0,0,6
+2101,Argentina,albertville-1992,0,0,0,5
+2102,Mexico,albertville-1992,0,0,0,3
+2103,Morocco,albertville-1992,0,0,0,2
+2104,San Marino,albertville-1992,0,0,0,2
+2105,Honduras,albertville-1992,0,0,0,1
+2106,Netherlands,albertville-1992,1,1,2,3
+2107,Puerto Rico,albertville-1992,0,0,0,2
+2108,US Virgin Islands,albertville-1992,0,0,0,3
+2109,Bermuda,albertville-1992,0,0,0,1
+2110,Andorra,albertville-1992,0,0,0,1
+2111,Cyprus,albertville-1992,0,0,0,1
+2112,Brazil,albertville-1992,0,0,0,1
+2113,Philippines,albertville-1992,0,0,0,1
+2114,Bolivia,albertville-1992,0,0,0,1
+2115,Lebanon,albertville-1992,0,0,0,1
+2116,India,albertville-1992,0,0,0,1
+2117,Costa Rica,albertville-1992,0,0,0,1
+2118,Senegal,albertville-1992,0,0,0,1
+2119,New Zealand,albertville-1992,0,1,0,2
+2120,Swaziland,albertville-1992,0,0,0,1
+2121,Chinese Taipei,albertville-1992,0,0,0,3
+2122,Algeria,albertville-1992,0,0,0,1
+2123,Luxembourg,albertville-1992,0,2,0,1
+2124,Chile,albertville-1992,0,0,0,1
+2125,Monaco,albertville-1992,0,0,0,1
+2126,Ireland,albertville-1992,0,0,0,1
+2127,Jamaica,albertville-1992,0,0,0,1
+2128,Netherlands Antilles,albertville-1992,0,0,0,1
+2129,Belgium,albertville-1992,0,0,0,1
+2130,Canada,seoul-1988,3,2,5,26
+2131,United States of America,seoul-1988,36,31,27,29
+2132,Japan,seoul-1988,4,3,7,26
+2133,France,seoul-1988,6,4,6,24
+2134,Switzerland,seoul-1988,0,2,2,17
+2135,Soviet Union,seoul-1988,55,31,46,29
+2136,Great Britain,seoul-1988,5,10,9,22
+2137,Mexico,seoul-1988,0,0,2,16
+2138,People's Republic of China,seoul-1988,5,11,12,25
+2139,Federal Republic of Germany,seoul-1988,11,14,15,27
+2140,Republic of Korea,seoul-1988,12,10,11,27
+2141,Brazil,seoul-1988,1,2,3,21
+2142,Australia,seoul-1988,3,6,5,26
+2143,Spain,seoul-1988,1,1,2,26
+2144,Aruba,seoul-1988,0,0,0,5
+2145,Sweden,seoul-1988,0,4,7,22
+2146,Venezuela,seoul-1988,0,0,0,8
+2147,Belgium,seoul-1988,0,0,2,13
+2148,Netherlands,seoul-1988,2,2,5,19
+2149,Argentina,seoul-1988,0,1,1,16
+2150,Pakistan,seoul-1988,0,0,1,5
+2151,India,seoul-1988,0,0,0,10
+2152,Kenya,seoul-1988,5,2,2,7
+2153,Finland,seoul-1988,1,1,2,14
+2154,Czechoslovakia,seoul-1988,3,3,2,18
+2155,German Democratic Republic (Germany),seoul-1988,37,35,30,17
+2156,Yugoslavia,seoul-1988,3,4,5,17
+2157,Romania,seoul-1988,7,11,6,10
+2158,Morocco,seoul-1988,1,0,2,4
+2159,Bulgaria,seoul-1988,10,12,13,16
+2160,Chinese Taipei,seoul-1988,0,0,0,13
+2161,Papua New Guinea,seoul-1988,0,0,0,4
+2162,Fiji,seoul-1988,0,0,0,5
+2163,Nigeria,seoul-1988,0,0,0,8
+2164,Jamaica,seoul-1988,0,2,0,6
+2165,Trinidad and Tobago,seoul-1988,0,0,0,3
+2166,Oman,seoul-1988,0,0,0,3
+2167,Italy,seoul-1988,6,4,4,24
+2168,Hungary,seoul-1988,11,6,6,20
+2169,Senegal,seoul-1988,0,1,0,4
+2170,Djibouti,seoul-1988,0,0,1,2
+2171,United Republic of Tanzania,seoul-1988,0,0,0,2
+2172,New Zealand,seoul-1988,3,2,8,17
+2173,Haiti,seoul-1988,0,0,0,2
+2174,Denmark,seoul-1988,2,1,1,15
+2175,Ireland,seoul-1988,0,0,0,12
+2176,Portugal,seoul-1988,1,0,0,11
+2177,Turkey,seoul-1988,1,1,0,9
+2178,Botswana,seoul-1988,0,0,0,2
+2179,Algeria,seoul-1988,0,0,0,7
+2180,Luxembourg,seoul-1988,0,0,0,4
+2181,Colombia,seoul-1988,0,0,1,11
+2182,Costa Rica,seoul-1988,0,1,0,6
+2183,Central African Republic,seoul-1988,0,0,0,3
+2184,Swaziland,seoul-1988,0,0,0,4
+2185,Niger,seoul-1988,0,0,0,2
+2186,American Samoa,seoul-1988,0,0,0,4
+2187,Nepal,seoul-1988,0,0,0,5
+2188,Lesotho,seoul-1988,0,0,0,2
+2189,Uganda,seoul-1988,0,0,0,3
+2190,Sri Lanka,seoul-1988,0,0,0,3
+2191,Bolivia,seoul-1988,0,0,0,6
+2192,Zimbabwe,seoul-1988,0,0,0,11
+2193,Democratic Republic of the Congo,seoul-1988,0,0,0,3
+2194,Angola,seoul-1988,0,0,0,4
+2195,US Virgin Islands,seoul-1988,0,1,0,6
+2196,Rwanda,seoul-1988,0,0,0,1
+2197,Belize,seoul-1988,0,0,0,2
+2198,Guam,seoul-1988,0,0,0,7
+2199,Malawi,seoul-1988,0,0,0,3
+2200,Somalia,seoul-1988,0,0,0,1
+2201,Islamic Republic of Iran,seoul-1988,0,1,0,4
+2202,Sierra Leone,seoul-1988,0,0,0,4
+2203,Guinea,seoul-1988,0,0,0,3
+2204,Vietnam,seoul-1988,0,0,0,6
+2205,Norway,seoul-1988,2,3,0,11
+2206,Chile,seoul-1988,0,1,0,5
+2207,Solomon Islands,seoul-1988,0,0,0,4
+2208,Maldives,seoul-1988,0,0,0,1
+2209,Austria,seoul-1988,1,0,0,17
+2210,Poland,seoul-1988,2,5,9,19
+2211,El Salvador,seoul-1988,0,0,0,4
+2212,Ecuador,seoul-1988,0,0,0,5
+2213,Honduras,seoul-1988,0,0,0,3
+2214,Mauritius,seoul-1988,0,0,0,5
+2215,Myanmar,seoul-1988,0,0,0,1
+2216,Saint Vincent and the Grenadines,seoul-1988,0,0,0,2
+2217,Bahamas,seoul-1988,0,0,0,4
+2218,Antigua and Barbuda,seoul-1988,0,0,0,4
+2219,Bermuda,seoul-1988,0,0,0,6
+2220,Liberia,seoul-1988,0,0,0,2
+2221,Togo,seoul-1988,0,0,0,2
+2222,Sudan,seoul-1988,0,0,0,2
+2223,Cook Islands,seoul-1988,0,0,0,3
+2224,Cayman Islands,seoul-1988,0,0,0,3
+2225,Guatemala,seoul-1988,0,0,0,8
+2226,Grenada,seoul-1988,0,0,0,2
+2227,Cyprus,seoul-1988,0,0,0,4
+2228,Bahrain,seoul-1988,0,0,0,2
+2229,"Hong Kong, China",seoul-1988,0,0,0,8
+2230,Kuwait,seoul-1988,0,0,0,4
+2231,Egypt,seoul-1988,0,0,0,11
+2232,Lebanon,seoul-1988,0,0,0,7
+2233,Paraguay,seoul-1988,0,0,0,4
+2234,Indonesia,seoul-1988,0,1,0,10
+2235,Jordan,seoul-1988,0,0,0,5
+2236,Monaco,seoul-1988,0,0,0,6
+2237,Philippines,seoul-1988,0,0,1,10
+2238,Greece,seoul-1988,0,0,1,9
+2239,Uruguay,seoul-1988,0,0,0,8
+2240,Puerto Rico,seoul-1988,0,0,0,10
+2241,Zambia,seoul-1988,0,0,0,2
+2242,Tunisia,seoul-1988,0,0,0,5
+2243,Iraq,seoul-1988,0,0,0,4
+2244,United Arab Emirates,seoul-1988,0,0,0,2
+2245,Andorra,seoul-1988,0,0,0,1
+2246,Liechtenstein,seoul-1988,0,0,0,5
+2247,Suriname,seoul-1988,1,0,0,4
+2248,Malaysia,seoul-1988,0,0,0,5
+2249,Guyana,seoul-1988,0,0,0,2
+2250,Libya,seoul-1988,0,0,0,2
+2251,Barbados,seoul-1988,0,0,0,5
+2252,Israel,seoul-1988,0,0,0,6
+2253,Ivory Coast,seoul-1988,0,0,0,3
+2254,Bhutan,seoul-1988,0,0,0,1
+2255,Saudi Arabia,seoul-1988,0,0,0,2
+2256,Mongolia,seoul-1988,0,0,1,5
+2257,Malta,seoul-1988,0,0,0,4
+2258,Dominican Republic,seoul-1988,0,0,0,4
+2259,Cameroon,seoul-1988,0,0,0,3
+2260,Panama,seoul-1988,0,0,0,3
+2261,Samoa,seoul-1988,0,0,0,3
+2262,San Marino,seoul-1988,0,0,0,5
+2263,Syrian Arab Republic,seoul-1988,0,0,0,3
+2264,Peru,seoul-1988,0,1,0,6
+2265,Yemen Arab Republic,seoul-1988,0,0,0,2
+2266,Iceland,seoul-1988,0,0,0,4
+2267,Mali,seoul-1988,0,0,0,2
+2268,Benin,seoul-1988,0,0,0,1
+2269,Ghana,seoul-1988,0,0,0,2
+2270,Yemen Democratic Republic,seoul-1988,0,0,0,1
+2271,Thailand,seoul-1988,0,0,1,3
+2272,Mozambique,seoul-1988,0,0,0,2
+2273,Gabon,seoul-1988,0,0,0,1
+2274,Burkina Faso,seoul-1988,0,0,0,1
+2275,Tonga,seoul-1988,0,0,0,1
+2276,Lao People's Democratic Republic,seoul-1988,0,0,0,1
+2277,Vanuatu,seoul-1988,0,0,0,1
+2278,Singapore,seoul-1988,0,0,0,3
+2279,Netherlands Antilles,seoul-1988,0,1,0,3
+2280,Bangladesh,seoul-1988,0,0,0,1
+2281,British Virgin Islands,seoul-1988,0,0,0,1
+2282,Qatar,seoul-1988,0,0,0,2
+2283,Afghanistan,seoul-1988,0,0,0,1
+2284,Mauritania,seoul-1988,0,0,0,1
+2285,Gambia,seoul-1988,0,0,0,1
+2286,Finland,calgary-1988,4,1,2,7
+2287,Norway,calgary-1988,0,3,2,7
+2288,Yugoslavia,calgary-1988,0,2,1,7
+2289,Federal Republic of Germany,calgary-1988,2,4,2,10
+2290,Czechoslovakia,calgary-1988,0,1,2,9
+2291,Austria,calgary-1988,3,5,2,10
+2292,Canada,calgary-1988,0,2,3,10
+2293,Sweden,calgary-1988,4,0,2,9
+2294,Poland,calgary-1988,0,0,0,6
+2295,German Democratic Republic (Germany),calgary-1988,9,10,6,8
+2296,France,calgary-1988,1,0,1,9
+2297,Switzerland,calgary-1988,5,5,5,7
+2298,United States of America,calgary-1988,2,1,3,10
+2299,Japan,calgary-1988,0,0,1,9
+2300,Italy,calgary-1988,2,1,2,8
+2301,Bulgaria,calgary-1988,0,0,0,6
+2302,Spain,calgary-1988,0,0,0,5
+2303,Great Britain,calgary-1988,0,0,0,8
+2304,Soviet Union,calgary-1988,11,9,9,10
+2305,Denmark,calgary-1988,0,0,0,1
+2306,Australia,calgary-1988,0,0,0,6
+2307,People's Republic of China,calgary-1988,0,0,0,3
+2308,Republic of Korea,calgary-1988,0,0,0,5
+2309,Hungary,calgary-1988,0,0,0,3
+2310,Belgium,calgary-1988,0,0,0,1
+2311,Romania,calgary-1988,0,0,0,4
+2312,New Zealand,calgary-1988,0,0,0,3
+2313,Chinese Taipei,calgary-1988,0,0,0,3
+2314,Portugal,calgary-1988,0,0,0,1
+2315,Jamaica,calgary-1988,0,0,0,1
+2316,Monaco,calgary-1988,0,0,0,2
+2317,Netherlands Antilles,calgary-1988,0,0,0,2
+2318,US Virgin Islands,calgary-1988,0,0,0,3
+2319,Mexico,calgary-1988,0,0,0,3
+2320,Netherlands,calgary-1988,3,2,2,2
+2321,Democratic People's Republic of Korea,calgary-1988,0,0,0,1
+2322,Liechtenstein,calgary-1988,0,0,1,3
+2323,Iceland,calgary-1988,0,0,0,2
+2324,Mongolia,calgary-1988,0,0,0,1
+2325,Greece,calgary-1988,0,0,0,2
+2326,Argentina,calgary-1988,0,0,0,4
+2327,Turkey,calgary-1988,0,0,0,2
+2328,Guatemala,calgary-1988,0,0,0,2
+2329,San Marino,calgary-1988,0,0,0,2
+2330,Costa Rica,calgary-1988,0,0,0,2
+2331,Puerto Rico,calgary-1988,0,0,0,4
+2332,Fiji,calgary-1988,0,0,0,1
+2333,Guam,calgary-1988,0,0,0,1
+2334,Philippines,calgary-1988,0,0,0,1
+2335,Lebanon,calgary-1988,0,0,0,1
+2336,Chile,calgary-1988,0,0,0,1
+2337,Andorra,calgary-1988,0,0,0,1
+2338,Cyprus,calgary-1988,0,0,0,1
+2339,Luxembourg,calgary-1988,0,0,0,1
+2340,India,calgary-1988,0,0,0,1
+2341,Bolivia,calgary-1988,0,0,0,1
+2342,Morocco,calgary-1988,0,0,0,1
+2343,People's Republic of China,los-angeles-1984,15,8,9,17
+2344,Federal Republic of Germany,los-angeles-1984,17,19,23,28
+2345,Italy,los-angeles-1984,14,6,12,25
+2346,Romania,los-angeles-1984,20,16,17,13
+2347,France,los-angeles-1984,5,7,16,22
+2348,Great Britain,los-angeles-1984,5,11,21,22
+2349,Sweden,los-angeles-1984,2,11,6,21
+2350,Israel,los-angeles-1984,0,0,0,9
+2351,United States of America,los-angeles-1984,83,61,30,28
+2352,Republic of Korea,los-angeles-1984,6,6,7,17
+2353,Canada,los-angeles-1984,10,18,16,26
+2354,Japan,los-angeles-1984,10,8,14,24
+2355,Australia,los-angeles-1984,4,8,12,24
+2356,Mexico,los-angeles-1984,2,3,1,21
+2357,Argentina,los-angeles-1984,0,0,0,14
+2358,Haiti,los-angeles-1984,0,0,0,2
+2359,US Virgin Islands,los-angeles-1984,0,0,0,7
+2360,Panama,los-angeles-1984,0,0,0,4
+2361,Austria,los-angeles-1984,1,1,1,19
+2362,Belgium,los-angeles-1984,1,1,2,13
+2363,Kuwait,los-angeles-1984,0,0,0,3
+2364,Egypt,los-angeles-1984,0,1,0,14
+2365,Lebanon,los-angeles-1984,0,0,0,8
+2366,"Hong Kong, China",los-angeles-1984,0,0,0,8
+2367,Greece,los-angeles-1984,0,1,1,11
+2368,Venezuela,los-angeles-1984,0,0,3,9
+2369,Spain,los-angeles-1984,1,2,2,22
+2370,Monaco,los-angeles-1984,0,0,0,5
+2371,Portugal,los-angeles-1984,1,0,2,10
+2372,Turkey,los-angeles-1984,0,0,3,10
+2373,Puerto Rico,los-angeles-1984,0,1,1,14
+2374,Saudi Arabia,los-angeles-1984,0,0,0,5
+2375,Chinese Taipei,los-angeles-1984,0,0,1,12
+2376,Bolivia,los-angeles-1984,0,0,0,6
+2377,Norway,los-angeles-1984,0,1,2,17
+2378,Jordan,los-angeles-1984,0,0,0,3
+2379,Switzerland,los-angeles-1984,0,4,4,20
+2380,New Zealand,los-angeles-1984,8,1,2,18
+2381,Ireland,los-angeles-1984,0,1,0,10
+2382,Bermuda,los-angeles-1984,0,0,0,4
+2383,Peru,los-angeles-1984,0,1,0,10
+2384,Brazil,los-angeles-1984,1,5,2,16
+2385,Tunisia,los-angeles-1984,0,0,0,6
+2386,Chile,los-angeles-1984,0,0,0,9
+2387,Guatemala,los-angeles-1984,0,0,0,8
+2388,Yugoslavia,los-angeles-1984,7,4,7,16
+2389,Denmark,los-angeles-1984,0,3,3,12
+2390,Finland,los-angeles-1984,4,2,6,15
+2391,Netherlands,los-angeles-1984,5,2,6,16
+2392,Jamaica,los-angeles-1984,0,1,2,6
+2393,Colombia,los-angeles-1984,0,1,0,9
+2394,Costa Rica,los-angeles-1984,0,0,0,5
+2395,Philippines,los-angeles-1984,0,0,0,6
+2396,Bahamas,los-angeles-1984,0,0,0,4
+2397,Fiji,los-angeles-1984,0,0,0,5
+2398,Honduras,los-angeles-1984,0,0,0,3
+2399,Barbados,los-angeles-1984,0,0,0,6
+2400,San Marino,los-angeles-1984,0,0,0,6
+2401,Mozambique,los-angeles-1984,0,0,0,1
+2402,Trinidad and Tobago,los-angeles-1984,0,0,0,5
+2403,Iceland,los-angeles-1984,0,0,1,5
+2404,Singapore,los-angeles-1984,0,0,0,2
+2405,Netherlands Antilles,los-angeles-1984,0,0,0,2
+2406,Indonesia,los-angeles-1984,0,0,0,5
+2407,Suriname,los-angeles-1984,0,0,0,2
+2408,Bahrain,los-angeles-1984,0,0,0,3
+2409,Swaziland,los-angeles-1984,0,0,0,4
+2410,Uganda,los-angeles-1984,0,0,0,5
+2411,Uruguay,los-angeles-1984,0,0,0,5
+2412,El Salvador,los-angeles-1984,0,0,0,5
+2413,Malaysia,los-angeles-1984,0,0,0,4
+2414,Sri Lanka,los-angeles-1984,0,0,0,3
+2415,Malta,los-angeles-1984,0,0,0,4
+2416,Thailand,los-angeles-1984,0,1,0,4
+2417,Antigua and Barbuda,los-angeles-1984,0,0,0,2
+2418,Senegal,los-angeles-1984,0,0,0,5
+2419,Dominican Republic,los-angeles-1984,0,0,1,6
+2420,Oman,los-angeles-1984,0,0,0,3
+2421,Pakistan,los-angeles-1984,1,0,0,4
+2422,British Virgin Islands,los-angeles-1984,0,0,0,1
+2423,Zimbabwe,los-angeles-1984,0,0,0,5
+2424,Botswana,los-angeles-1984,0,0,0,2
+2425,India,los-angeles-1984,0,0,0,7
+2426,Cayman Islands,los-angeles-1984,0,0,0,3
+2427,Ecuador,los-angeles-1984,0,0,0,6
+2428,Morocco,los-angeles-1984,2,0,0,6
+2429,Zambia,los-angeles-1984,0,0,1,2
+2430,Cameroon,los-angeles-1984,0,0,1,6
+2431,Ivory Coast,los-angeles-1984,0,1,0,3
+2432,Guinea,los-angeles-1984,0,0,0,1
+2433,Cyprus,los-angeles-1984,0,0,0,4
+2434,Mali,los-angeles-1984,0,0,0,2
+2435,Congo,los-angeles-1984,0,0,0,2
+2436,Paraguay,los-angeles-1984,0,0,0,4
+2437,Liechtenstein,los-angeles-1984,0,0,0,3
+2438,Belize,los-angeles-1984,0,0,0,2
+2439,Guyana,los-angeles-1984,0,0,0,2
+2440,Malawi,los-angeles-1984,0,0,0,3
+2441,Kenya,los-angeles-1984,1,0,2,5
+2442,Samoa,los-angeles-1984,0,0,0,2
+2443,Nigeria,los-angeles-1984,0,1,1,4
+2444,Nicaragua,los-angeles-1984,0,0,0,2
+2445,Syrian Arab Republic,los-angeles-1984,0,1,0,4
+2446,Nepal,los-angeles-1984,0,0,0,3
+2447,Algeria,los-angeles-1984,0,0,2,4
+2448,Solomon Islands,los-angeles-1984,0,0,0,2
+2449,Iraq,los-angeles-1984,0,0,0,4
+2450,Qatar,los-angeles-1984,0,0,0,3
+2451,United Republic of Tanzania,los-angeles-1984,0,0,0,2
+2452,Ghana,los-angeles-1984,0,0,0,2
+2453,Gabon,los-angeles-1984,0,0,0,2
+2454,Djibouti,los-angeles-1984,0,0,0,1
+2455,Lesotho,los-angeles-1984,0,0,0,2
+2456,Somalia,los-angeles-1984,0,0,0,1
+2457,Luxembourg,los-angeles-1984,0,0,0,3
+2458,Papua New Guinea,los-angeles-1984,0,0,0,2
+2459,Central African Republic,los-angeles-1984,0,0,0,2
+2460,Madagascar,los-angeles-1984,0,0,0,2
+2461,Liberia,los-angeles-1984,0,0,0,1
+2462,Democratic Republic of the Congo,los-angeles-1984,0,0,0,2
+2463,Sudan,los-angeles-1984,0,0,0,2
+2464,Sierra Leone,los-angeles-1984,0,0,0,2
+2465,Mauritius,los-angeles-1984,0,0,0,1
+2466,Yemen Arab Republic,los-angeles-1984,0,0,0,1
+2467,Andorra,los-angeles-1984,0,0,0,1
+2468,Mauritania,los-angeles-1984,0,0,0,1
+2469,Seychelles,los-angeles-1984,0,0,0,1
+2470,Tonga,los-angeles-1984,0,0,0,1
+2471,Benin,los-angeles-1984,0,0,0,1
+2472,Niger,los-angeles-1984,0,0,0,1
+2473,Grenada,los-angeles-1984,0,0,0,1
+2474,Togo,los-angeles-1984,0,0,0,1
+2475,Myanmar,los-angeles-1984,0,0,0,1
+2476,Bhutan,los-angeles-1984,0,0,0,1
+2477,Federal Republic of Germany,sarajevo-1984,2,1,1,10
+2478,German Democratic Republic (Germany),sarajevo-1984,9,9,6,8
+2479,Norway,sarajevo-1984,3,2,4,8
+2480,France,sarajevo-1984,0,1,2,7
+2481,Sweden,sarajevo-1984,4,2,2,8
+2482,Italy,sarajevo-1984,2,0,0,9
+2483,Czechoslovakia,sarajevo-1984,0,2,4,8
+2484,Finland,sarajevo-1984,4,3,6,6
+2485,Bulgaria,sarajevo-1984,0,0,0,5
+2486,Great Britain,sarajevo-1984,1,0,0,7
+2487,Soviet Union,sarajevo-1984,6,10,9,10
+2488,United States of America,sarajevo-1984,4,4,0,10
+2489,Austria,sarajevo-1984,0,0,1,9
+2490,Switzerland,sarajevo-1984,2,2,1,8
+2491,Japan,sarajevo-1984,0,1,0,9
+2492,Yugoslavia,sarajevo-1984,0,1,0,10
+2493,Romania,sarajevo-1984,0,0,0,6
+2494,Hungary,sarajevo-1984,0,0,0,4
+2495,Australia,sarajevo-1984,0,0,0,5
+2496,People's Republic of China,sarajevo-1984,0,0,0,5
+2497,Argentina,sarajevo-1984,0,0,0,3
+2498,Spain,sarajevo-1984,0,0,0,5
+2499,Chinese Taipei,sarajevo-1984,0,0,0,5
+2500,Republic of Korea,sarajevo-1984,0,0,0,5
+2501,Costa Rica,sarajevo-1984,0,0,0,3
+2502,Liechtenstein,sarajevo-1984,0,0,2,3
+2503,Puerto Rico,sarajevo-1984,0,0,0,1
+2504,Canada,sarajevo-1984,2,1,1,8
+2505,New Zealand,sarajevo-1984,0,0,0,1
+2506,Belgium,sarajevo-1984,0,0,0,2
+2507,Poland,sarajevo-1984,0,0,0,6
+2508,Iceland,sarajevo-1984,0,0,0,2
+2509,Cyprus,sarajevo-1984,0,0,0,1
+2510,Bolivia,sarajevo-1984,0,0,0,1
+2511,Chile,sarajevo-1984,0,0,0,1
+2512,Mexico,sarajevo-1984,0,0,0,1
+2513,Greece,sarajevo-1984,0,0,0,2
+2514,Turkey,sarajevo-1984,0,0,0,2
+2515,Senegal,sarajevo-1984,0,0,0,1
+2516,Lebanon,sarajevo-1984,0,0,0,1
+2517,Morocco,sarajevo-1984,0,0,0,1
+2518,San Marino,sarajevo-1984,0,0,0,2
+2519,Egypt,sarajevo-1984,0,0,0,1
+2520,Andorra,sarajevo-1984,0,0,0,1
+2521,Monaco,sarajevo-1984,0,0,0,1
+2522,Netherlands,sarajevo-1984,0,0,0,2
+2523,Democratic People's Republic of Korea,sarajevo-1984,0,0,0,1
+2524,British Virgin Islands,sarajevo-1984,0,0,0,1
+2525,Mongolia,sarajevo-1984,0,0,0,1
+2526,German Democratic Republic (Germany),moscow-1980,47,37,42,18
+2527,Soviet Union,moscow-1980,80,69,46,26
+2528,Romania,moscow-1980,6,6,13,21
+2529,Hungary,moscow-1980,7,10,15,23
+2530,Spain,moscow-1980,1,3,2,18
+2531,Yugoslavia,moscow-1980,2,3,4,17
+2532,Poland,moscow-1980,3,14,15,24
+2533,Switzerland,moscow-1980,2,0,0,9
+2534,Denmark,moscow-1980,2,1,2,13
+2535,Algeria,moscow-1980,0,0,0,9
+2536,Cuba,moscow-1980,8,7,5,19
+2537,Kuwait,moscow-1980,0,0,0,6
+2538,Czechoslovakia,moscow-1980,2,3,9,22
+2539,Congo,moscow-1980,0,0,0,3
+2540,Syrian Arab Republic,moscow-1980,0,0,0,7
+2541,Finland,moscow-1980,3,1,4,17
+2542,Sweden,moscow-1980,3,3,6,18
+2543,Great Britain,moscow-1980,5,7,9,15
+2544,Iceland,moscow-1980,0,0,0,3
+2545,Zimbabwe,moscow-1980,1,0,0,10
+2546,Lebanon,moscow-1980,0,0,1,7
+2547,Bulgaria,moscow-1980,8,16,17,23
+2548,Austria,moscow-1980,1,2,1,15
+2549,Mexico,moscow-1980,0,1,3,13
+2550,Italy,moscow-1980,8,3,4,20
+2551,Mongolia,moscow-1980,0,2,2,8
+2552,Nigeria,moscow-1980,0,0,0,5
+2553,France,moscow-1980,6,5,3,14
+2554,Iraq,moscow-1980,0,0,0,5
+2555,Nepal,moscow-1980,0,0,0,3
+2556,Brazil,moscow-1980,2,0,2,15
+2557,Democratic People's Republic of Korea,moscow-1980,0,3,2,8
+2558,Greece,moscow-1980,1,0,2,7
+2559,Venezuela,moscow-1980,0,1,0,6
+2560,Belgium,moscow-1980,1,0,0,11
+2561,Portugal,moscow-1980,0,0,0,5
+2562,Libya,moscow-1980,0,0,0,6
+2563,India,moscow-1980,1,0,0,8
+2564,Guatemala,moscow-1980,0,0,0,4
+2565,Australia,moscow-1980,2,2,5,18
+2566,Myanmar,moscow-1980,0,0,0,2
+2567,Dominican Republic,moscow-1980,0,0,0,3
+2568,San Marino,moscow-1980,0,0,0,5
+2569,Senegal,moscow-1980,0,0,0,3
+2570,Netherlands,moscow-1980,0,1,2,10
+2571,Cameroon,moscow-1980,0,0,0,5
+2572,Zambia,moscow-1980,0,0,0,4
+2573,Cyprus,moscow-1980,0,0,0,3
+2574,Ecuador,moscow-1980,0,0,0,4
+2575,Ireland,moscow-1980,0,1,1,10
+2576,Costa Rica,moscow-1980,0,0,0,5
+2577,Mali,moscow-1980,0,0,0,2
+2578,Madagascar,moscow-1980,0,0,0,3
+2579,Guinea,moscow-1980,0,0,0,2
+2580,Colombia,moscow-1980,0,0,0,3
+2581,Ethiopia,moscow-1980,2,0,2,3
+2582,Jamaica,moscow-1980,0,0,3,3
+2583,Malta,moscow-1980,0,0,0,3
+2584,Guyana,moscow-1980,0,0,1,3
+2585,Afghanistan,moscow-1980,0,0,0,2
+2586,Vietnam,moscow-1980,0,0,0,4
+2587,Peru,moscow-1980,0,0,0,5
+2588,New Zealand,moscow-1980,0,0,0,2
+2589,Luxembourg,moscow-1980,0,0,0,3
+2590,United Republic of Tanzania,moscow-1980,0,2,0,3
+2591,Lesotho,moscow-1980,0,0,0,1
+2592,Sierra Leone,moscow-1980,0,0,0,2
+2593,Seychelles,moscow-1980,0,0,0,2
+2594,Lao People's Democratic Republic,moscow-1980,0,0,0,3
+2595,Trinidad and Tobago,moscow-1980,0,0,0,1
+2596,Angola,moscow-1980,0,0,0,3
+2597,Uganda,moscow-1980,0,1,0,2
+2598,Nicaragua,moscow-1980,0,0,0,2
+2599,Andorra,moscow-1980,0,0,0,1
+2600,Jordan,moscow-1980,0,0,0,1
+2601,Benin,moscow-1980,0,0,0,1
+2602,Puerto Rico,moscow-1980,0,0,0,1
+2603,Netherlands,lake-placid-1980,1,2,1,2
+2604,German Democratic Republic (Germany),lake-placid-1980,9,7,7,8
+2605,Norway,lake-placid-1980,1,3,6,7
+2606,Sweden,lake-placid-1980,3,0,1,9
+2607,United States of America,lake-placid-1980,6,4,2,10
+2608,Soviet Union,lake-placid-1980,10,6,6,9
+2609,Canada,lake-placid-1980,0,1,1,8
+2610,Poland,lake-placid-1980,0,0,0,5
+2611,Finland,lake-placid-1980,1,5,3,8
+2612,Federal Republic of Germany,lake-placid-1980,0,2,2,10
+2613,Japan,lake-placid-1980,0,1,0,10
+2614,Republic of Korea,lake-placid-1980,0,0,0,3
+2615,People's Republic of China,lake-placid-1980,0,0,0,5
+2616,Great Britain,lake-placid-1980,1,0,0,7
+2617,Switzerland,lake-placid-1980,1,1,3,9
+2618,Italy,lake-placid-1980,0,2,0,8
+2619,Mongolia,lake-placid-1980,0,0,0,2
+2620,Australia,lake-placid-1980,0,0,0,4
+2621,Romania,lake-placid-1980,0,0,0,4
+2622,France,lake-placid-1980,0,0,1,6
+2623,Austria,lake-placid-1980,3,2,2,6
+2624,Czechoslovakia,lake-placid-1980,0,0,1,7
+2625,Liechtenstein,lake-placid-1980,2,2,0,2
+2626,Bulgaria,lake-placid-1980,0,0,1,3
+2627,Yugoslavia,lake-placid-1980,0,0,0,4
+2628,Iceland,lake-placid-1980,0,0,0,2
+2629,Spain,lake-placid-1980,0,0,0,2
+2630,Argentina,lake-placid-1980,0,0,0,3
+2631,Hungary,lake-placid-1980,0,1,0,1
+2632,New Zealand,lake-placid-1980,0,0,0,1
+2633,Lebanon,lake-placid-1980,0,0,0,1
+2634,Andorra,lake-placid-1980,0,0,0,1
+2635,Belgium,lake-placid-1980,0,0,0,1
+2636,Greece,lake-placid-1980,0,0,0,1
+2637,Cyprus,lake-placid-1980,0,0,0,1
+2638,Bolivia,lake-placid-1980,0,0,0,1
+2639,Costa Rica,lake-placid-1980,0,0,0,1
+2640,Japan,montreal-1976,9,6,10,19
+2641,Great Britain,montreal-1976,3,5,5,19
+2642,Soviet Union,montreal-1976,49,41,35,24
+2643,Republic of Korea,montreal-1976,1,1,4,5
+2644,Argentina,montreal-1976,0,0,0,13
+2645,France,montreal-1976,2,3,4,20
+2646,Democratic People's Republic of Korea,montreal-1976,1,1,0,8
+2647,Federal Republic of Germany,montreal-1976,10,12,17,22
+2648,Czechoslovakia,montreal-1976,2,2,4,16
+2649,Austria,montreal-1976,0,0,1,12
+2650,United States of America,montreal-1976,34,35,25,22
+2651,Yugoslavia,montreal-1976,2,3,3,13
+2652,Hungary,montreal-1976,4,5,13,17
+2653,Cuba,montreal-1976,6,4,3,14
+2654,Sweden,montreal-1976,4,1,0,16
+2655,Liechtenstein,montreal-1976,0,0,0,2
+2656,Canada,montreal-1976,0,5,6,26
+2657,Finland,montreal-1976,4,2,0,14
+2658,Puerto Rico,montreal-1976,0,0,1,12
+2659,Poland,montreal-1976,7,6,13,18
+2660,German Democratic Republic (Germany),montreal-1976,40,25,25,18
+2661,Nicaragua,montreal-1976,0,0,0,4
+2662,Senegal,montreal-1976,0,0,0,3
+2663,Australia,montreal-1976,0,1,4,20
+2664,Spain,montreal-1976,0,2,0,11
+2665,Portugal,montreal-1976,0,2,0,5
+2666,Switzerland,montreal-1976,1,1,2,13
+2667,Italy,montreal-1976,2,7,4,23
+2668,Bulgaria,montreal-1976,6,9,7,14
+2669,Mongolia,montreal-1976,0,1,0,5
+2670,Brazil,montreal-1976,0,0,2,11
+2671,"Hong Kong, China",montreal-1976,0,0,0,6
+2672,Kuwait,montreal-1976,0,0,0,2
+2673,Turkey,montreal-1976,0,0,0,7
+2674,Israel,montreal-1976,0,0,0,8
+2675,Ecuador,montreal-1976,0,0,0,3
+2676,Panama,montreal-1976,0,0,0,4
+2677,Netherlands Antilles,montreal-1976,0,0,0,1
+2678,Belgium,montreal-1976,0,3,3,17
+2679,Singapore,montreal-1976,0,0,0,3
+2680,Iceland,montreal-1976,0,0,0,3
+2681,Suriname,montreal-1976,0,0,0,1
+2682,Venezuela,montreal-1976,0,1,0,4
+2683,Thailand,montreal-1976,0,0,1,10
+2684,Mexico,montreal-1976,1,0,1,15
+2685,Lebanon,montreal-1976,0,0,0,2
+2686,Denmark,montreal-1976,1,0,2,14
+2687,Norway,montreal-1976,1,1,0,11
+2688,New Zealand,montreal-1976,2,1,1,12
+2689,Romania,montreal-1976,4,9,14,11
+2690,Greece,montreal-1976,0,0,0,8
+2691,Monaco,montreal-1976,0,0,0,3
+2692,Netherlands,montreal-1976,0,2,3,12
+2693,Costa Rica,montreal-1976,0,0,0,3
+2694,US Virgin Islands,montreal-1976,0,0,0,6
+2695,San Marino,montreal-1976,0,0,0,2
+2696,Trinidad and Tobago,montreal-1976,1,0,0,3
+2697,Belize,montreal-1976,0,0,0,2
+2698,Colombia,montreal-1976,0,0,0,8
+2699,Guatemala,montreal-1976,0,0,0,6
+2700,Philippines,montreal-1976,0,0,0,5
+2701,Bolivia,montreal-1976,0,0,0,5
+2702,Chile,montreal-1976,0,0,0,3
+2703,Malaysia,montreal-1976,0,0,0,4
+2704,Islamic Republic of Iran,montreal-1976,0,1,1,9
+2705,India,montreal-1976,0,0,0,5
+2706,Ireland,montreal-1976,0,0,0,9
+2707,Andorra,montreal-1976,0,0,0,2
+2708,Papua New Guinea,montreal-1976,0,0,0,3
+2709,Paraguay,montreal-1976,0,0,0,4
+2710,Luxembourg,montreal-1976,0,0,0,4
+2711,Egypt,montreal-1976,0,0,0,4
+2712,Indonesia,montreal-1976,0,0,0,3
+2713,Pakistan,montreal-1976,0,0,1,4
+2714,Dominican Republic,montreal-1976,0,0,0,3
+2715,Tunisia,montreal-1976,0,0,0,4
+2716,Chinese Taipei,montreal-1976,0,0,0,1
+2717,Nigeria,montreal-1976,0,0,0,2
+2718,Bahamas,montreal-1976,0,0,0,3
+2719,Cameroon,montreal-1976,0,0,0,2
+2720,Jamaica,montreal-1976,1,1,0,4
+2721,Uruguay,montreal-1976,0,0,0,4
+2722,Peru,montreal-1976,0,0,0,2
+2723,Bermuda,montreal-1976,0,0,1,3
+2724,Cayman Islands,montreal-1976,0,0,0,1
+2725,Fiji,montreal-1976,0,0,0,1
+2726,Morocco,montreal-1976,0,0,0,3
+2727,Saudi Arabia,montreal-1976,0,0,0,1
+2728,Central African Republic,montreal-1976,0,0,0,1
+2729,Honduras,montreal-1976,0,0,0,1
+2730,Nepal,montreal-1976,0,0,0,1
+2731,Haiti,montreal-1976,0,0,0,2
+2732,Antigua and Barbuda,montreal-1976,0,0,0,1
+2733,Barbados,montreal-1976,0,0,0,1
+2734,Kenya,montreal-1976,0,0,0,2
+2735,Ghana,montreal-1976,0,0,0,1
+2736,Zambia,montreal-1976,0,0,0,1
+2737,Guyana,montreal-1976,0,0,0,1
+2738,Libya,montreal-1976,0,0,0,1
+2739,Burkina Faso,montreal-1976,0,0,0,1
+2740,Uganda,montreal-1976,0,0,0,1
+2741,Ethiopia,montreal-1976,0,0,0,1
+2742,Algeria,montreal-1976,0,0,0,1
+2743,Swaziland,montreal-1976,0,0,0,1
+2744,Togo,montreal-1976,0,0,0,1
+2745,Iraq,montreal-1976,0,0,0,1
+2746,Niger,montreal-1976,0,0,0,1
+2747,Soviet Union,innsbruck-1976,13,6,8,9
+2748,United States of America,innsbruck-1976,3,3,4,10
+2749,Finland,innsbruck-1976,2,4,1,8
+2750,German Democratic Republic (Germany),innsbruck-1976,7,5,7,8
+2751,Switzerland,innsbruck-1976,1,3,1,9
+2752,Norway,innsbruck-1976,3,3,1,7
+2753,Sweden,innsbruck-1976,0,0,2,7
+2754,Federal Republic of Germany,innsbruck-1976,2,5,3,10
+2755,Poland,innsbruck-1976,0,0,0,9
+2756,Czechoslovakia,innsbruck-1976,0,1,0,9
+2757,Italy,innsbruck-1976,1,2,1,9
+2758,Canada,innsbruck-1976,1,1,1,8
+2759,Austria,innsbruck-1976,2,2,2,10
+2760,France,innsbruck-1976,0,0,1,8
+2761,Bulgaria,innsbruck-1976,0,0,0,4
+2762,Japan,innsbruck-1976,0,0,0,10
+2763,Yugoslavia,innsbruck-1976,0,0,0,4
+2764,Turkey,innsbruck-1976,0,0,0,2
+2765,Iceland,innsbruck-1976,0,0,0,2
+2766,Argentina,innsbruck-1976,0,0,0,2
+2767,Greece,innsbruck-1976,0,0,0,2
+2768,Liechtenstein,innsbruck-1976,0,0,2,3
+2769,Great Britain,innsbruck-1976,1,0,0,7
+2770,Chinese Taipei,innsbruck-1976,0,0,0,4
+2771,Australia,innsbruck-1976,0,0,0,3
+2772,New Zealand,innsbruck-1976,0,0,0,1
+2773,Lebanon,innsbruck-1976,0,0,0,1
+2774,Spain,innsbruck-1976,0,0,0,1
+2775,Belgium,innsbruck-1976,0,0,0,2
+2776,Romania,innsbruck-1976,0,0,0,4
+2777,Chile,innsbruck-1976,0,0,0,1
+2778,Andorra,innsbruck-1976,0,0,0,1
+2779,Islamic Republic of Iran,innsbruck-1976,0,0,0,1
+2780,San Marino,innsbruck-1976,0,0,0,1
+2781,Netherlands,innsbruck-1976,1,2,3,2
+2782,Republic of Korea,innsbruck-1976,0,0,0,2
+2783,Hungary,innsbruck-1976,0,0,0,1
+2784,Soviet Union,munich-1972,50,27,22,26
+2785,Sweden,munich-1972,4,6,6,18
+2786,Hungary,munich-1972,6,13,16,21
+2787,Belgium,munich-1972,0,2,0,14
+2788,Czechoslovakia,munich-1972,2,4,2,17
+2789,German Democratic Republic (Germany),munich-1972,20,23,23,20
+2790,Denmark,munich-1972,1,0,0,15
+2791,Poland,munich-1972,7,5,9,25
+2792,Finland,munich-1972,3,1,4,12
+2793,Romania,munich-1972,3,6,7,14
+2794,France,munich-1972,2,4,7,21
+2795,Austria,munich-1972,0,1,2,16
+2796,Federal Republic of Germany,munich-1972,13,11,16,27
+2797,Bulgaria,munich-1972,6,10,5,14
+2798,United States of America,munich-1972,33,31,30,25
+2799,Netherlands,munich-1972,3,1,1,16
+2800,Mexico,munich-1972,0,1,0,20
+2801,Norway,munich-1972,2,1,1,16
+2802,Italy,munich-1972,5,3,10,22
+2803,Japan,munich-1972,13,8,8,20
+2804,Democratic People's Republic of Korea,munich-1972,1,1,3,9
+2805,Switzerland,munich-1972,0,3,0,18
+2806,Yugoslavia,munich-1972,2,1,2,15
+2807,Canada,munich-1972,0,2,3,20
+2808,Great Britain,munich-1972,4,5,9,20
+2809,Cuba,munich-1972,3,1,4,13
+2810,Brazil,munich-1972,0,0,2,13
+2811,Ireland,munich-1972,0,0,0,10
+2812,Puerto Rico,munich-1972,0,0,0,7
+2813,"Hong Kong, China",munich-1972,0,0,0,3
+2814,Australia,munich-1972,8,7,2,18
+2815,US Virgin Islands,munich-1972,0,0,0,3
+2816,Thailand,munich-1972,0,0,0,8
+2817,Spain,munich-1972,0,0,1,14
+2818,Bermuda,munich-1972,0,0,0,2
+2819,New Zealand,munich-1972,1,1,1,13
+2820,Argentina,munich-1972,0,1,0,13
+2821,Bahamas,munich-1972,0,0,0,4
+2822,Philippines,munich-1972,0,0,0,10
+2823,Greece,munich-1972,0,2,0,8
+2824,Israel,munich-1972,0,0,0,5
+2825,Trinidad and Tobago,munich-1972,0,0,0,4
+2826,India,munich-1972,0,0,1,7
+2827,Portugal,munich-1972,0,0,0,7
+2828,Chinese Taipei,munich-1972,0,0,0,11
+2829,Jamaica,munich-1972,0,0,1,5
+2830,Dominican Republic,munich-1972,0,0,0,3
+2831,Albania,munich-1972,0,0,0,2
+2832,Myanmar,munich-1972,0,0,0,4
+2833,Indonesia,munich-1972,0,0,0,3
+2834,Colombia,munich-1972,0,1,2,7
+2835,Islamic Republic of Iran,munich-1972,0,2,1,6
+2836,Republic of Korea,munich-1972,0,1,0,6
+2837,Panama,munich-1972,0,0,0,3
+2838,Mongolia,munich-1972,0,1,0,7
+2839,Netherlands Antilles,munich-1972,0,0,0,2
+2840,Sudan,munich-1972,0,0,0,4
+2841,Barbados,munich-1972,0,0,0,5
+2842,Iceland,munich-1972,0,0,0,2
+2843,Turkey,munich-1972,0,1,0,6
+2844,Lebanon,munich-1972,0,1,0,8
+2845,Pakistan,munich-1972,0,1,0,4
+2846,Guyana,munich-1972,0,0,0,2
+2847,Malaysia,munich-1972,0,0,0,6
+2848,Senegal,munich-1972,0,0,0,5
+2849,Egypt,munich-1972,0,0,0,4
+2850,Tunisia,munich-1972,0,1,0,5
+2851,Luxembourg,munich-1972,0,0,0,4
+2852,Ethiopia,munich-1972,0,0,2,3
+2853,Uruguay,munich-1972,0,0,0,2
+2854,San Marino,munich-1972,0,0,0,2
+2855,Cameroon,munich-1972,0,0,0,2
+2856,Liechtenstein,munich-1972,0,0,0,3
+2857,Malawi,munich-1972,0,0,0,3
+2858,Togo,munich-1972,0,0,0,3
+2859,Peru,munich-1972,0,0,0,6
+2860,Malta,munich-1972,0,0,0,2
+2861,Morocco,munich-1972,0,0,0,5
+2862,Ghana,munich-1972,0,0,1,3
+2863,Nigeria,munich-1972,0,0,1,2
+2864,Kenya,munich-1972,2,3,4,4
+2865,United Republic of Tanzania,munich-1972,0,0,0,2
+2866,Uganda,munich-1972,1,1,0,3
+2867,Cambodia,munich-1972,0,0,0,2
+2868,Venezuela,munich-1972,0,0,0,4
+2869,Zambia,munich-1972,0,0,0,2
+2870,Niger,munich-1972,0,0,1,1
+2871,Gabon,munich-1972,0,0,0,1
+2872,Chad,munich-1972,0,0,0,1
+2873,Nicaragua,munich-1972,0,0,0,3
+2874,Benin,munich-1972,0,0,0,2
+2875,Chile,munich-1972,0,0,0,4
+2876,Singapore,munich-1972,0,0,0,2
+2877,Ecuador,munich-1972,0,0,0,2
+2878,Algeria,munich-1972,0,0,0,1
+2879,Bolivia,munich-1972,0,0,0,3
+2880,Monaco,munich-1972,0,0,0,1
+2881,Syrian Arab Republic,munich-1972,0,0,0,2
+2882,Swaziland,munich-1972,0,0,0,2
+2883,South Vietnam,munich-1972,0,0,0,1
+2884,Belize,munich-1972,0,0,0,1
+2885,Costa Rica,munich-1972,0,0,0,3
+2886,El Salvador,munich-1972,0,0,0,2
+2887,Paraguay,munich-1972,0,0,0,2
+2888,Sri Lanka,munich-1972,0,0,0,2
+2889,Guatemala,munich-1972,0,0,0,3
+2890,Rhodesia,munich-1972,0,0,0,1
+2891,Ivory Coast,munich-1972,0,0,0,1
+2892,Saudi Arabia,munich-1972,0,0,0,1
+2893,Somalia,munich-1972,0,0,0,1
+2894,Kuwait,munich-1972,0,0,0,1
+2895,Madagascar,munich-1972,0,0,0,2
+2896,Nepal,munich-1972,0,0,0,1
+2897,Haiti,munich-1972,0,0,0,1
+2898,Liberia,munich-1972,0,0,0,1
+2899,Fiji,munich-1972,0,0,0,1
+2900,Mali,munich-1972,0,0,0,2
+2901,Suriname,munich-1972,0,0,0,1
+2902,Afghanistan,munich-1972,0,0,0,1
+2903,Soviet Union,sapporo-1972,8,5,3,9
+2904,United States of America,sapporo-1972,3,2,3,10
+2905,Czechoslovakia,sapporo-1972,1,0,2,6
+2906,Sweden,sapporo-1972,1,1,2,9
+2907,Finland,sapporo-1972,0,4,1,6
+2908,Poland,sapporo-1972,1,0,0,8
+2909,Federal Republic of Germany,sapporo-1972,3,1,1,10
+2910,Norway,sapporo-1972,2,5,5,8
+2911,Japan,sapporo-1972,1,1,1,10
+2912,Switzerland,sapporo-1972,4,3,3,6
+2913,Yugoslavia,sapporo-1972,0,0,0,4
+2914,German Democratic Republic (Germany),sapporo-1972,4,3,7,7
+2915,Italy,sapporo-1972,2,2,1,9
+2916,France,sapporo-1972,0,1,2,9
+2917,Canada,sapporo-1972,0,1,0,7
+2918,Austria,sapporo-1972,1,2,2,8
+2919,Great Britain,sapporo-1972,0,0,0,7
+2920,Bulgaria,sapporo-1972,0,0,0,2
+2921,Mongolia,sapporo-1972,0,0,0,2
+2922,Chinese Taipei,sapporo-1972,0,0,0,2
+2923,Romania,sapporo-1972,0,0,0,4
+2924,Liechtenstein,sapporo-1972,0,0,0,2
+2925,Hungary,sapporo-1972,0,0,0,1
+2926,Netherlands,sapporo-1972,4,3,2,2
+2927,Republic of Korea,sapporo-1972,0,0,0,2
+2928,Australia,sapporo-1972,0,0,0,2
+2929,Democratic People's Republic of Korea,sapporo-1972,0,0,0,1
+2930,Spain,sapporo-1972,1,0,0,1
+2931,Belgium,sapporo-1972,0,0,0,1
+2932,Argentina,sapporo-1972,0,0,0,1
+2933,Islamic Republic of Iran,sapporo-1972,0,0,0,1
+2934,New Zealand,sapporo-1972,0,0,0,1
+2935,Lebanon,sapporo-1972,0,0,0,1
+2936,Greece,sapporo-1972,0,0,0,1
+2937,Philippines,sapporo-1972,0,0,0,1
+2938,Pakistan,mexico-city-1968,1,0,0,2
+2939,Australia,mexico-city-1968,5,7,5,17
+2940,India,mexico-city-1968,0,0,1,5
+2941,Federal Republic of Germany,mexico-city-1968,5,11,10,20
+2942,Netherlands,mexico-city-1968,3,3,1,12
+2943,Spain,mexico-city-1968,0,0,0,10
+2944,New Zealand,mexico-city-1968,1,0,2,8
+2945,Kenya,mexico-city-1968,3,4,2,4
+2946,Belgium,mexico-city-1968,0,1,1,12
+2947,France,mexico-city-1968,7,3,5,17
+2948,German Democratic Republic (Germany),mexico-city-1968,9,9,7,20
+2949,Great Britain,mexico-city-1968,5,5,3,19
+2950,Japan,mexico-city-1968,11,7,7,18
+2951,Argentina,mexico-city-1968,0,0,2,14
+2952,Malaysia,mexico-city-1968,0,0,0,3
+2953,Mexico,mexico-city-1968,3,3,3,23
+2954,Czechoslovakia,mexico-city-1968,7,2,4,15
+2955,Soviet Union,mexico-city-1968,29,32,30,21
+2956,United States of America,mexico-city-1968,45,28,34,21
+2957,Canada,mexico-city-1968,1,3,1,17
+2958,Poland,mexico-city-1968,5,2,11,16
+2959,Austria,mexico-city-1968,0,2,2,11
+2960,Finland,mexico-city-1968,1,2,1,12
+2961,Italy,mexico-city-1968,3,4,9,19
+2962,Republic of Korea,mexico-city-1968,0,1,1,11
+2963,Sweden,mexico-city-1968,2,1,1,14
+2964,Cuba,mexico-city-1968,0,4,0,13
+2965,Colombia,mexico-city-1968,0,0,0,6
+2966,Puerto Rico,mexico-city-1968,0,0,0,8
+2967,Egypt,mexico-city-1968,0,0,0,6
+2968,Hungary,mexico-city-1968,10,10,12,16
+2969,Bulgaria,mexico-city-1968,2,4,3,12
+2970,Romania,mexico-city-1968,4,6,5,9
+2971,Norway,mexico-city-1968,1,1,0,10
+2972,Yugoslavia,mexico-city-1968,3,3,2,10
+2973,Greece,mexico-city-1968,0,0,1,7
+2974,Turkey,mexico-city-1968,2,0,0,4
+2975,Syrian Arab Republic,mexico-city-1968,0,0,0,1
+2976,Switzerland,mexico-city-1968,0,1,4,13
+2977,Mongolia,mexico-city-1968,0,1,3,4
+2978,Islamic Republic of Iran,mexico-city-1968,2,1,2,3
+2979,Bahamas,mexico-city-1968,0,0,0,3
+2980,Afghanistan,mexico-city-1968,0,0,0,1
+2981,Guatemala,mexico-city-1968,0,0,0,8
+2982,Morocco,mexico-city-1968,0,0,0,4
+2983,Philippines,mexico-city-1968,0,0,0,10
+2984,Portugal,mexico-city-1968,0,0,0,5
+2985,Iraq,mexico-city-1968,0,0,0,3
+2986,Ecuador,mexico-city-1968,0,0,0,6
+2987,Panama,mexico-city-1968,0,0,0,3
+2988,Dominican Republic,mexico-city-1968,0,0,0,4
+2989,Lebanon,mexico-city-1968,0,0,0,5
+2990,Denmark,mexico-city-1968,1,4,3,11
+2991,US Virgin Islands,mexico-city-1968,0,0,0,2
+2992,Brazil,mexico-city-1968,0,1,2,13
+2993,Netherlands Antilles,mexico-city-1968,0,0,0,1
+2994,Costa Rica,mexico-city-1968,0,0,0,6
+2995,Guyana,mexico-city-1968,0,0,0,4
+2996,Jamaica,mexico-city-1968,0,1,0,5
+2997,Indonesia,mexico-city-1968,0,0,0,2
+2998,Trinidad and Tobago,mexico-city-1968,0,0,0,5
+2999,Chinese Taipei,mexico-city-1968,0,0,1,9
+3000,Belize,mexico-city-1968,0,0,0,3
+3001,El Salvador,mexico-city-1968,0,0,0,7
+3002,Thailand,mexico-city-1968,0,0,0,7
+3003,Nicaragua,mexico-city-1968,0,0,0,3
+3004,Singapore,mexico-city-1968,0,0,0,3
+3005,Barbados,mexico-city-1968,0,0,0,4
+3006,Peru,mexico-city-1968,0,0,0,5
+3007,Iceland,mexico-city-1968,0,0,0,2
+3008,Israel,mexico-city-1968,0,0,0,3
+3009,Venezuela,mexico-city-1968,1,0,0,3
+3010,"Hong Kong, China",mexico-city-1968,0,0,0,3
+3011,Monaco,mexico-city-1968,0,0,0,1
+3012,South Vietnam,mexico-city-1968,0,0,0,4
+3013,Chile,mexico-city-1968,0,0,0,4
+3014,Ireland,mexico-city-1968,0,0,0,6
+3015,Malta,mexico-city-1968,0,0,0,1
+3016,San Marino,mexico-city-1968,0,0,0,2
+3017,Uruguay,mexico-city-1968,0,0,0,7
+3018,Bolivia,mexico-city-1968,0,0,0,2
+3019,Luxembourg,mexico-city-1968,0,0,0,3
+3020,Algeria,mexico-city-1968,0,0,0,2
+3021,Ghana,mexico-city-1968,0,0,0,3
+3022,Guinea,mexico-city-1968,0,0,0,1
+3023,Nigeria,mexico-city-1968,0,0,0,3
+3024,Ethiopia,mexico-city-1968,1,1,0,3
+3025,Democratic Republic of the Congo,mexico-city-1968,0,0,0,1
+3026,Madagascar,mexico-city-1968,0,0,0,2
+3027,Senegal,mexico-city-1968,0,0,0,2
+3028,Mali,mexico-city-1968,0,0,0,1
+3029,Uganda,mexico-city-1968,0,1,1,2
+3030,Sudan,mexico-city-1968,0,0,0,1
+3031,Sierra Leone,mexico-city-1968,0,0,0,2
+3032,Tunisia,mexico-city-1968,1,0,1,2
+3033,Sri Lanka,mexico-city-1968,0,0,0,3
+3034,Myanmar,mexico-city-1968,0,0,0,2
+3035,Zambia,mexico-city-1968,0,0,0,2
+3036,Niger,mexico-city-1968,0,0,0,1
+3037,Cameroon,mexico-city-1968,0,1,0,1
+3038,United Republic of Tanzania,mexico-city-1968,0,0,0,2
+3039,Liechtenstein,mexico-city-1968,0,0,0,1
+3040,Chad,mexico-city-1968,0,0,0,1
+3041,Kuwait,mexico-city-1968,0,0,0,1
+3042,Honduras,mexico-city-1968,0,0,0,1
+3043,Bermuda,mexico-city-1968,0,0,0,1
+3044,Austria,grenoble-1968,3,4,4,10
+3045,United States of America,grenoble-1968,1,5,1,10
+3046,France,grenoble-1968,4,3,2,10
+3047,Canada,grenoble-1968,1,1,1,9
+3048,Czechoslovakia,grenoble-1968,1,2,1,8
+3049,Soviet Union,grenoble-1968,5,5,3,8
+3050,German Democratic Republic (Germany),grenoble-1968,1,2,2,9
+3051,Federal Republic of Germany,grenoble-1968,2,2,3,10
+3052,Italy,grenoble-1968,4,0,0,8
+3053,Great Britain,grenoble-1968,0,0,0,7
+3054,Hungary,grenoble-1968,0,0,0,4
+3055,Japan,grenoble-1968,0,0,0,8
+3056,Sweden,grenoble-1968,3,2,3,9
+3057,Republic of Korea,grenoble-1968,0,0,0,4
+3058,Poland,grenoble-1968,0,0,0,7
+3059,Switzerland,grenoble-1968,0,2,4,7
+3060,Romania,grenoble-1968,0,0,1,5
+3061,Spain,grenoble-1968,0,0,0,3
+3062,Finland,grenoble-1968,1,2,2,7
+3063,Yugoslavia,grenoble-1968,0,0,0,4
+3064,Norway,grenoble-1968,6,6,2,8
+3065,Mongolia,grenoble-1968,0,0,0,3
+3066,Bulgaria,grenoble-1968,0,0,0,2
+3067,Denmark,grenoble-1968,0,0,0,1
+3068,Australia,grenoble-1968,0,0,0,3
+3069,Greece,grenoble-1968,0,0,0,2
+3070,Turkey,grenoble-1968,0,0,0,2
+3071,Liechtenstein,grenoble-1968,0,0,0,2
+3072,Argentina,grenoble-1968,0,0,0,2
+3073,New Zealand,grenoble-1968,0,0,0,1
+3074,Chile,grenoble-1968,0,0,0,1
+3075,India,grenoble-1968,0,0,0,1
+3076,Islamic Republic of Iran,grenoble-1968,0,0,0,1
+3077,Iceland,grenoble-1968,0,0,0,1
+3078,Lebanon,grenoble-1968,0,0,0,1
+3079,Morocco,grenoble-1968,0,0,0,1
+3080,Netherlands,grenoble-1968,3,3,3,1
+3081,India,tokyo-1964,1,0,0,9
+3082,Pakistan,tokyo-1964,0,1,0,7
+3083,Australia,tokyo-1964,6,2,10,21
+3084,Spain,tokyo-1964,0,0,0,8
+3085,Germany,tokyo-1964,10,22,18,22
+3086,Kenya,tokyo-1964,0,0,1,5
+3087,Netherlands,tokyo-1964,2,4,4,13
+3088,Japan,tokyo-1964,16,5,8,23
+3089,Malaysia,tokyo-1964,0,0,0,8
+3090,Great Britain,tokyo-1964,4,12,2,20
+3091,Zimbabwe,tokyo-1964,0,0,0,7
+3092,Belgium,tokyo-1964,2,0,1,12
+3093,New Zealand,tokyo-1964,3,0,2,10
+3094,Canada,tokyo-1964,1,2,1,15
+3095,"Hong Kong, China",tokyo-1964,0,0,0,7
+3096,Soviet Union,tokyo-1964,30,31,35,22
+3097,United States of America,tokyo-1964,36,26,28,22
+3098,Hungary,tokyo-1964,10,7,5,18
+3099,Sweden,tokyo-1964,2,2,4,13
+3100,Finland,tokyo-1964,3,0,2,13
+3101,Austria,tokyo-1964,0,0,0,13
+3102,Mexico,tokyo-1964,0,0,1,17
+3103,Italy,tokyo-1964,10,10,7,20
+3104,Brazil,tokyo-1964,0,0,1,10
+3105,Chile,tokyo-1964,0,0,0,5
+3106,Republic of Korea,tokyo-1964,0,2,1,16
+3107,Denmark,tokyo-1964,2,1,3,10
+3108,France,tokyo-1964,1,8,6,16
+3109,Norway,tokyo-1964,0,0,0,6
+3110,Switzerland,tokyo-1964,1,2,1,13
+3111,Trinidad and Tobago,tokyo-1964,0,1,2,4
+3112,Turkey,tokyo-1964,2,3,1,4
+3113,Bahamas,tokyo-1964,1,0,0,2
+3114,Portugal,tokyo-1964,0,0,0,6
+3115,Argentina,tokyo-1964,0,1,0,17
+3116,Venezuela,tokyo-1964,0,0,0,5
+3117,Cambodia,tokyo-1964,0,0,0,4
+3118,Bermuda,tokyo-1964,0,0,0,1
+3119,Greece,tokyo-1964,0,0,0,4
+3120,Ireland,tokyo-1964,0,0,1,6
+3121,Philippines,tokyo-1964,0,1,0,8
+3122,Thailand,tokyo-1964,0,0,0,9
+3123,Jamaica,tokyo-1964,0,0,0,4
+3124,Czechoslovakia,tokyo-1964,5,6,3,13
+3125,Puerto Rico,tokyo-1964,0,0,0,8
+3126,Bulgaria,tokyo-1964,3,5,2,9
+3127,Romania,tokyo-1964,2,4,6,13
+3128,Mongolia,tokyo-1964,0,0,0,5
+3129,Egypt,tokyo-1964,0,0,0,8
+3130,Poland,tokyo-1964,7,6,10,13
+3131,Afghanistan,tokyo-1964,0,0,0,1
+3132,Islamic Republic of Iran,tokyo-1964,0,0,2,10
+3133,Panama,tokyo-1964,0,0,0,5
+3134,Sri Lanka,tokyo-1964,0,0,0,4
+3135,Yugoslavia,tokyo-1964,2,1,2,8
+3136,Luxembourg,tokyo-1964,0,0,0,5
+3137,Zambia,tokyo-1964,0,0,0,3
+3138,Ghana,tokyo-1964,0,0,1,3
+3139,Morocco,tokyo-1964,0,0,0,4
+3140,Uganda,tokyo-1964,0,0,0,2
+3141,Ivory Coast,tokyo-1964,0,0,0,2
+3142,Cuba,tokyo-1964,0,1,0,4
+3143,Chinese Taipei,tokyo-1964,0,0,0,8
+3144,Nepal,tokyo-1964,0,0,0,2
+3145,Ethiopia,tokyo-1964,1,0,0,3
+3146,Niger,tokyo-1964,0,0,0,1
+3147,Nigeria,tokyo-1964,0,0,1,2
+3148,Iraq,tokyo-1964,0,0,0,3
+3149,Myanmar,tokyo-1964,0,0,0,4
+3150,Tunisia,tokyo-1964,0,1,1,3
+3151,Uruguay,tokyo-1964,0,0,1,4
+3152,Colombia,tokyo-1964,0,0,0,5
+3153,South Vietnam,tokyo-1964,0,0,0,4
+3154,Peru,tokyo-1964,0,0,0,4
+3155,Costa Rica,tokyo-1964,0,0,0,1
+3156,Iceland,tokyo-1964,0,0,0,2
+3157,Democratic People's Republic of Korea,tokyo-1964,0,0,0,2
+3158,Lebanon,tokyo-1964,0,0,0,2
+3159,Netherlands Antilles,tokyo-1964,0,0,0,1
+3160,Guyana,tokyo-1964,0,0,0,1
+3161,Monaco,tokyo-1964,0,0,0,1
+3162,Algeria,tokyo-1964,0,0,0,1
+3163,Liechtenstein,tokyo-1964,0,0,0,1
+3164,Mali,tokyo-1964,0,0,0,1
+3165,United Republic of Tanzania,tokyo-1964,0,0,0,1
+3166,Bolivia,tokyo-1964,0,0,0,1
+3167,Libya,tokyo-1964,0,0,0,1
+3168,Madagascar,tokyo-1964,0,0,0,1
+3169,Chad,tokyo-1964,0,0,0,1
+3170,Congo,tokyo-1964,0,0,0,1
+3171,Senegal,tokyo-1964,0,0,0,1
+3172,Israel,tokyo-1964,0,0,0,2
+3173,Soviet Union,innsbruck-1964,11,8,6,8
+3174,Norway,innsbruck-1964,3,6,6,9
+3175,Romania,innsbruck-1964,0,0,0,4
+3176,Poland,innsbruck-1964,0,0,0,8
+3177,Finland,innsbruck-1964,3,4,3,7
+3178,Sweden,innsbruck-1964,3,3,1,8
+3179,United States of America,innsbruck-1964,1,2,4,10
+3180,Japan,innsbruck-1964,0,0,0,8
+3181,Germany,innsbruck-1964,3,3,3,10
+3182,Austria,innsbruck-1964,4,5,3,10
+3183,Great Britain,innsbruck-1964,1,0,0,7
+3184,France,innsbruck-1964,3,4,0,5
+3185,Mongolia,innsbruck-1964,0,0,0,3
+3186,Switzerland,innsbruck-1964,0,0,0,10
+3187,Netherlands,innsbruck-1964,1,1,0,2
+3188,Canada,innsbruck-1964,1,1,1,8
+3189,Czechoslovakia,innsbruck-1964,0,0,1,8
+3190,Hungary,innsbruck-1964,0,0,0,6
+3191,Italy,innsbruck-1964,0,1,3,9
+3192,Bulgaria,innsbruck-1964,0,0,0,2
+3193,Yugoslavia,innsbruck-1964,0,0,0,4
+3194,Iceland,innsbruck-1964,0,0,0,2
+3195,Denmark,innsbruck-1964,0,0,0,2
+3196,Republic of Korea,innsbruck-1964,0,0,0,3
+3197,Democratic People's Republic of Korea,innsbruck-1964,0,1,0,2
+3198,Liechtenstein,innsbruck-1964,0,0,0,2
+3199,Spain,innsbruck-1964,0,0,0,1
+3200,Belgium,innsbruck-1964,0,0,0,3
+3201,Australia,innsbruck-1964,0,0,0,1
+3202,Argentina,innsbruck-1964,0,0,0,3
+3203,Chile,innsbruck-1964,0,0,0,1
+3204,Islamic Republic of Iran,innsbruck-1964,0,0,0,1
+3205,Turkey,innsbruck-1964,0,0,0,1
+3206,Lebanon,innsbruck-1964,0,0,0,1
+3207,Greece,innsbruck-1964,0,0,0,1
+3208,India,innsbruck-1964,0,0,0,1
+3209,Yugoslavia,rome-1960,1,1,0,11
+3210,Denmark,rome-1960,2,3,1,15
+3211,Hungary,rome-1960,6,8,7,19
+3212,Italy,rome-1960,13,10,13,21
+3213,Bulgaria,rome-1960,1,3,3,13
+3214,Brazil,rome-1960,0,0,2,13
+3215,Argentina,rome-1960,0,1,1,17
+3216,France,rome-1960,0,2,3,21
+3217,Turkey,rome-1960,7,2,0,5
+3218,Great Britain,rome-1960,2,6,12,20
+3219,Poland,rome-1960,4,6,11,17
+3220,Peru,rome-1960,0,0,0,2
+3221,United Arab Republic,rome-1960,0,1,1,10
+3222,Chinese Taipei,rome-1960,0,1,0,5
+3223,Tunisia,rome-1960,0,0,0,5
+3224,India,rome-1960,0,1,0,6
+3225,Australia,rome-1960,8,8,6,16
+3226,Switzerland,rome-1960,0,3,3,18
+3227,Ireland,rome-1960,0,0,0,9
+3228,Canada,rome-1960,0,1,0,13
+3229,Germany,rome-1960,12,19,11,20
+3230,Portugal,rome-1960,0,1,0,10
+3231,Romania,rome-1960,3,1,6,15
+3232,Spain,rome-1960,0,0,1,13
+3233,Soviet Union,rome-1960,43,29,31,20
+3234,Sweden,rome-1960,1,2,3,16
+3235,United States of America,rome-1960,34,21,16,19
+3236,Czechoslovakia,rome-1960,3,2,3,13
+3237,Norway,rome-1960,1,0,0,9
+3238,Lebanon,rome-1960,0,0,0,4
+3239,Austria,rome-1960,1,1,0,16
+3240,Chile,rome-1960,0,0,0,3
+3241,Greece,rome-1960,1,0,0,6
+3242,Japan,rome-1960,4,7,7,17
+3243,Venezuela,rome-1960,0,0,1,7
+3244,San Marino,rome-1960,0,0,0,3
+3245,South Africa,rome-1960,0,1,2,11
+3246,Luxembourg,rome-1960,0,0,0,9
+3247,Philippines,rome-1960,0,0,0,6
+3248,Finland,rome-1960,1,1,3,15
+3249,Malta,rome-1960,0,0,0,3
+3250,Republic of Korea,rome-1960,0,0,0,9
+3251,Rhodesia,rome-1960,0,0,0,4
+3252,Monaco,rome-1960,0,0,0,2
+3253,Puerto Rico,rome-1960,0,0,0,5
+3254,Malaya,rome-1960,0,0,0,3
+3255,Sudan,rome-1960,0,0,0,3
+3256,Pakistan,rome-1960,1,0,1,7
+3257,"Hong Kong, China",rome-1960,0,0,0,1
+3258,Kenya,rome-1960,0,0,0,4
+3259,Belgium,rome-1960,0,2,2,15
+3260,Mexico,rome-1960,0,0,1,13
+3261,Islamic Republic of Iran,rome-1960,0,1,3,5
+3262,Thailand,rome-1960,0,0,0,4
+3263,Morocco,rome-1960,0,1,0,9
+3264,West Indies Federation,rome-1960,0,0,2,6
+3265,Israel,rome-1960,0,0,0,5
+3266,Uruguay,rome-1960,0,0,0,6
+3267,New Zealand,rome-1960,2,0,1,8
+3268,Ghana,rome-1960,0,1,0,2
+3269,Indonesia,rome-1960,0,0,0,6
+3270,Afghanistan,rome-1960,0,0,0,2
+3271,Cuba,rome-1960,0,0,0,6
+3272,Nigeria,rome-1960,0,0,0,2
+3273,Ethiopia,rome-1960,1,0,0,2
+3274,Myanmar,rome-1960,0,0,0,4
+3275,Netherlands,rome-1960,0,1,2,14
+3276,Sri Lanka,rome-1960,0,0,0,3
+3277,Liberia,rome-1960,0,0,0,1
+3278,Zimbabwe,rome-1960,0,0,0,1
+3279,Panama,rome-1960,0,0,0,3
+3280,Iceland,rome-1960,0,0,0,1
+3281,Liechtenstein,rome-1960,0,0,0,2
+3282,Guyana,rome-1960,0,0,0,2
+3283,South Vietnam,rome-1960,0,0,0,2
+3284,Somalia,rome-1960,0,0,0,1
+3285,Bahamas,rome-1960,0,0,0,2
+3286,Suriname,rome-1960,0,0,0,1
+3287,Colombia,rome-1960,0,0,0,4
+3288,Iraq,rome-1960,0,0,1,4
+3289,Uganda,rome-1960,0,0,0,1
+3290,Bermuda,rome-1960,0,0,0,1
+3291,Singapore,rome-1960,0,1,0,2
+3292,Netherlands Antilles,rome-1960,0,0,0,1
+3293,Haiti,rome-1960,0,0,0,1
+3294,Soviet Union,squaw-valley-1960,7,5,9,8
+3295,Sweden,squaw-valley-1960,3,2,2,7
+3296,Finland,squaw-valley-1960,2,3,3,6
+3297,Bulgaria,squaw-valley-1960,0,0,0,2
+3298,Germany,squaw-valley-1960,4,3,1,8
+3299,Poland,squaw-valley-1960,0,1,1,4
+3300,Hungary,squaw-valley-1960,0,0,0,3
+3301,Norway,squaw-valley-1960,3,3,0,6
+3302,Italy,squaw-valley-1960,0,0,1,6
+3303,France,squaw-valley-1960,1,0,2,6
+3304,Switzerland,squaw-valley-1960,2,0,0,4
+3305,Japan,squaw-valley-1960,0,0,0,7
+3306,United States of America,squaw-valley-1960,3,4,3,8
+3307,Canada,squaw-valley-1960,2,1,1,7
+3308,Czechoslovakia,squaw-valley-1960,0,1,0,4
+3309,Great Britain,squaw-valley-1960,0,0,0,5
+3310,Australia,squaw-valley-1960,0,0,0,6
+3311,Argentina,squaw-valley-1960,0,0,0,2
+3312,Republic of Korea,squaw-valley-1960,0,0,0,3
+3313,Austria,squaw-valley-1960,1,2,3,5
+3314,South Africa,squaw-valley-1960,0,0,0,1
+3315,Netherlands,squaw-valley-1960,0,1,1,2
+3316,Iceland,squaw-valley-1960,0,0,0,2
+3317,Chile,squaw-valley-1960,0,0,0,1
+3318,Liechtenstein,squaw-valley-1960,0,0,0,1
+3319,Spain,squaw-valley-1960,0,0,0,1
+3320,New Zealand,squaw-valley-1960,0,0,0,1
+3321,Lebanon,squaw-valley-1960,0,0,0,1
+3322,Turkey,squaw-valley-1960,0,0,0,1
+3323,Denmark,squaw-valley-1960,0,0,0,1
+3324,United States of America,melbourne-1956,32,25,17,20
+3325,Soviet Union,melbourne-1956,37,29,32,19
+3326,Uruguay,melbourne-1956,0,0,1,4
+3327,France,melbourne-1956,4,4,6,17
+3328,Bulgaria,melbourne-1956,1,3,1,7
+3329,Brazil,melbourne-1956,1,0,0,10
+3330,Philippines,melbourne-1956,0,0,0,7
+3331,Chile,melbourne-1956,0,2,2,8
+3332,Canada,melbourne-1956,2,1,2,15
+3333,Japan,melbourne-1956,4,10,5,12
+3334,Chinese Taipei,melbourne-1956,0,0,0,5
+3335,Australia,melbourne-1956,13,8,14,20
+3336,Singapore,melbourne-1956,0,0,0,5
+3337,Republic of Korea,melbourne-1956,0,1,1,7
+3338,Thailand,melbourne-1956,0,0,0,5
+3339,Great Britain,melbourne-1956,5,7,9,18
+3340,Sweden,melbourne-1956,5,5,6,15
+3341,Austria,melbourne-1956,0,0,2,13
+3342,Denmark,melbourne-1956,1,1,1,11
+3343,Mexico,melbourne-1956,1,0,1,8
+3344,Hungary,melbourne-1956,9,10,7,12
+3345,Finland,melbourne-1956,3,1,11,14
+3346,Israel,melbourne-1956,0,0,0,1
+3347,Germany,melbourne-1956,4,10,6,16
+3348,Italy,melbourne-1956,8,6,8,14
+3349,Belgium,melbourne-1956,0,2,0,11
+3350,Colombia,melbourne-1956,0,0,0,6
+3351,Ethiopia,melbourne-1956,0,0,0,2
+3352,Pakistan,melbourne-1956,0,1,0,9
+3353,South Africa,melbourne-1956,0,0,4,11
+3354,Czechoslovakia,melbourne-1956,1,4,1,11
+3355,Venezuela,melbourne-1956,0,0,0,4
+3356,South Vietnam,melbourne-1956,0,0,0,2
+3357,Yugoslavia,melbourne-1956,0,3,0,7
+3358,Luxembourg,melbourne-1956,0,0,0,3
+3359,Trinidad and Tobago,melbourne-1956,0,0,0,4
+3360,Ireland,melbourne-1956,1,1,3,4
+3361,Argentina,melbourne-1956,0,1,1,7
+3362,Poland,melbourne-1956,1,4,4,9
+3363,Myanmar,melbourne-1956,0,0,0,4
+3364,Sri Lanka,melbourne-1956,0,0,0,2
+3365,New Zealand,melbourne-1956,2,0,0,8
+3366,Romania,melbourne-1956,5,3,5,11
+3367,Fiji,melbourne-1956,0,0,0,3
+3368,Norway,melbourne-1956,1,0,2,5
+3369,Greece,melbourne-1956,0,0,1,4
+3370,Portugal,melbourne-1956,0,0,0,1
+3371,Bermuda,melbourne-1956,0,0,0,1
+3372,Bahamas,melbourne-1956,0,0,1,1
+3373,Cuba,melbourne-1956,0,0,0,4
+3374,Liberia,melbourne-1956,0,0,0,1
+3375,India,melbourne-1956,1,0,0,8
+3376,Jamaica,melbourne-1956,0,0,0,1
+3377,Switzerland,melbourne-1956,0,0,0,1
+3378,Iraq,melbourne-1956,0,0,0,1
+3379,Iceland,melbourne-1956,0,1,0,1
+3380,Malaya,melbourne-1956,0,0,0,4
+3381,Puerto Rico,melbourne-1956,0,0,0,2
+3382,Nigeria,melbourne-1956,0,0,0,1
+3383,North Borneo,melbourne-1956,0,0,0,1
+3384,Kenya,melbourne-1956,0,0,0,4
+3385,Islamic Republic of Iran,melbourne-1956,2,2,1,3
+3386,Uganda,melbourne-1956,0,0,0,1
+3387,Afghanistan,melbourne-1956,0,0,0,1
+3388,Turkey,melbourne-1956,3,2,2,1
+3389,Indonesia,melbourne-1956,0,0,0,3
+3390,Guyana,melbourne-1956,0,0,0,1
+3391,Peru,melbourne-1956,0,0,0,1
+3392,Finland,cortina-d-ampezzo-1956,3,3,1,6
+3393,Soviet Union,cortina-d-ampezzo-1956,7,3,6,6
+3394,Sweden,cortina-d-ampezzo-1956,2,4,4,8
+3395,Norway,cortina-d-ampezzo-1956,2,1,1,6
+3396,Poland,cortina-d-ampezzo-1956,0,0,1,6
+3397,Czechoslovakia,cortina-d-ampezzo-1956,0,0,0,7
+3398,Germany,cortina-d-ampezzo-1956,1,0,1,8
+3399,Italy,cortina-d-ampezzo-1956,1,2,0,8
+3400,Yugoslavia,cortina-d-ampezzo-1956,0,0,0,3
+3401,Romania,cortina-d-ampezzo-1956,0,0,0,4
+3402,Canada,cortina-d-ampezzo-1956,0,1,2,7
+3403,France,cortina-d-ampezzo-1956,0,0,0,6
+3404,Switzerland,cortina-d-ampezzo-1956,3,2,1,7
+3405,Austria,cortina-d-ampezzo-1956,4,3,4,8
+3406,United States of America,cortina-d-ampezzo-1956,2,3,2,8
+3407,Japan,cortina-d-ampezzo-1956,0,1,0,5
+3408,Bulgaria,cortina-d-ampezzo-1956,0,0,0,2
+3409,Iceland,cortina-d-ampezzo-1956,0,0,0,2
+3410,Great Britain,cortina-d-ampezzo-1956,0,0,0,5
+3411,Lebanon,cortina-d-ampezzo-1956,0,0,0,2
+3412,Netherlands,cortina-d-ampezzo-1956,0,0,0,2
+3413,Australia,cortina-d-ampezzo-1956,0,0,0,3
+3414,Spain,cortina-d-ampezzo-1956,0,0,0,3
+3415,Hungary,cortina-d-ampezzo-1956,0,0,1,1
+3416,Belgium,cortina-d-ampezzo-1956,0,0,0,3
+3417,Liechtenstein,cortina-d-ampezzo-1956,0,0,0,2
+3418,Turkey,cortina-d-ampezzo-1956,0,0,0,1
+3419,Islamic Republic of Iran,cortina-d-ampezzo-1956,0,0,0,1
+3420,Chile,cortina-d-ampezzo-1956,0,0,0,1
+3421,Greece,cortina-d-ampezzo-1956,0,0,0,1
+3422,Bolivia,cortina-d-ampezzo-1956,0,0,0,1
+3423,Republic of Korea,cortina-d-ampezzo-1956,0,0,0,1
+3424,Australia,helsinki-1952,6,2,3,12
+3425,Italy,helsinki-1952,8,9,4,20
+3426,South Africa,helsinki-1952,2,4,4,14
+3427,Argentina,helsinki-1952,1,2,2,16
+3428,Great Britain,helsinki-1952,1,2,8,19
+3429,Denmark,helsinki-1952,2,1,3,17
+3430,Romania,helsinki-1952,1,1,2,13
+3431,Netherlands,helsinki-1952,0,5,0,13
+3432,France,helsinki-1952,5,6,6,21
+3433,Belgium,helsinki-1952,2,2,0,16
+3434,New Zealand,helsinki-1952,1,0,2,5
+3435,Soviet Union,helsinki-1952,22,30,19,20
+3436,Czechoslovakia,helsinki-1952,7,3,2,12
+3437,Finland,helsinki-1952,4,3,13,19
+3438,Switzerland,helsinki-1952,2,6,6,18
+3439,Venezuela,helsinki-1952,0,0,1,7
+3440,Chile,helsinki-1952,0,2,0,11
+3441,Hungary,helsinki-1952,16,9,15,15
+3442,Uruguay,helsinki-1952,0,0,2,8
+3443,Jamaica,helsinki-1952,2,3,0,2
+3444,Austria,helsinki-1952,0,1,1,15
+3445,Canada,helsinki-1952,1,1,0,10
+3446,United States of America,helsinki-1952,39,19,17,21
+3447,Guatemala,helsinki-1952,0,0,0,5
+3448,Pakistan,helsinki-1952,0,0,0,7
+3449,Japan,helsinki-1952,1,6,2,12
+3450,India,helsinki-1952,1,0,1,12
+3451,Germany,helsinki-1952,0,7,15,20
+3452,Brazil,helsinki-1952,1,0,2,13
+3453,Norway,helsinki-1952,3,2,0,13
+3454,Sweden,helsinki-1952,12,11,10,18
+3455,Poland,helsinki-1952,1,2,1,11
+3456,Portugal,helsinki-1952,0,0,1,9
+3457,Greece,helsinki-1952,0,0,0,6
+3458,Spain,helsinki-1952,0,1,0,8
+3459,Puerto Rico,helsinki-1952,0,0,0,4
+3460,Thailand,helsinki-1952,0,0,0,1
+3461,Ireland,helsinki-1952,0,1,0,5
+3462,Panama,helsinki-1952,0,0,0,2
+3463,Ghana,helsinki-1952,0,0,0,1
+3464,Bulgaria,helsinki-1952,0,0,1,8
+3465,Israel,helsinki-1952,0,0,0,4
+3466,Yugoslavia,helsinki-1952,1,2,0,10
+3467,Iceland,helsinki-1952,0,0,0,1
+3468,Egypt,helsinki-1952,0,0,1,13
+3469,Luxembourg,helsinki-1952,1,0,0,7
+3470,Republic of Korea,helsinki-1952,0,0,2,6
+3471,Turkey,helsinki-1952,2,0,1,4
+3472,Bermuda,helsinki-1952,0,0,0,2
+3473,Cuba,helsinki-1952,0,0,0,6
+3474,South Vietnam,helsinki-1952,0,0,0,3
+3475,Nigeria,helsinki-1952,0,0,0,1
+3476,Indonesia,helsinki-1952,0,0,0,2
+3477,Islamic Republic of Iran,helsinki-1952,0,3,4,3
+3478,Lebanon,helsinki-1952,0,1,1,4
+3479,Philippines,helsinki-1952,0,0,0,6
+3480,Mexico,helsinki-1952,0,1,0,13
+3481,Saar,helsinki-1952,0,0,0,8
+3482,Singapore,helsinki-1952,0,0,0,1
+3483,Trinidad and Tobago,helsinki-1952,0,0,2,1
+3484,Guyana,helsinki-1952,0,0,0,1
+3485,Myanmar,helsinki-1952,0,0,0,2
+3486,Liechtenstein,helsinki-1952,0,0,0,1
+3487,Bahamas,helsinki-1952,0,0,0,1
+3488,Monaco,helsinki-1952,0,0,0,2
+3489,Sri Lanka,helsinki-1952,0,0,0,2
+3490,Netherlands Antilles,helsinki-1952,0,0,0,1
+3491,People's Republic of China,helsinki-1952,0,0,0,1
+3492,Norway,oslo-1952,7,3,6,8
+3493,Sweden,oslo-1952,0,0,4,8
+3494,Germany,oslo-1952,3,2,2,8
+3495,Finland,oslo-1952,3,4,2,7
+3496,United States of America,oslo-1952,4,6,1,8
+3497,Austria,oslo-1952,2,4,2,7
+3498,Yugoslavia,oslo-1952,0,0,0,3
+3499,Switzerland,oslo-1952,0,0,2,7
+3500,Poland,oslo-1952,0,0,0,4
+3501,Canada,oslo-1952,1,0,1,6
+3502,Japan,oslo-1952,0,0,0,5
+3503,Iceland,oslo-1952,0,0,0,3
+3504,France,oslo-1952,0,0,1,5
+3505,Argentina,oslo-1952,0,0,0,2
+3506,Italy,oslo-1952,1,0,1,6
+3507,Belgium,oslo-1952,0,0,0,3
+3508,Netherlands,oslo-1952,0,3,0,3
+3509,Great Britain,oslo-1952,1,0,0,3
+3510,Hungary,oslo-1952,0,0,1,4
+3511,Australia,oslo-1952,0,0,0,4
+3512,Czechoslovakia,oslo-1952,0,0,0,3
+3513,Romania,oslo-1952,0,0,0,3
+3514,New Zealand,oslo-1952,0,0,0,1
+3515,Bulgaria,oslo-1952,0,0,0,2
+3516,Lebanon,oslo-1952,0,0,0,1
+3517,Greece,oslo-1952,0,0,0,1
+3518,Spain,oslo-1952,0,0,0,1
+3519,Chile,oslo-1952,0,0,0,1
+3520,Portugal,oslo-1952,0,0,0,1
+3521,Denmark,oslo-1952,0,0,0,1
+3522,Norway,london-1948,1,3,3,10
+3523,Sweden,london-1948,16,11,17,19
+3524,Denmark,london-1948,5,7,8,19
+3525,Great Britain,london-1948,3,14,6,22
+3526,Italy,london-1948,8,11,8,17
+3527,Finland,london-1948,8,7,5,15
+3528,Argentina,london-1948,3,3,1,18
+3529,Netherlands,london-1948,5,2,9,19
+3530,Portugal,london-1948,0,1,1,6
+3531,France,london-1948,10,6,13,22
+3532,United States of America,london-1948,38,27,19,23
+3533,Belgium,london-1948,2,2,3,17
+3534,Canada,london-1948,0,1,2,12
+3535,Uruguay,london-1948,0,1,1,9
+3536,Switzerland,london-1948,5,10,5,19
+3537,Brazil,london-1948,0,0,1,11
+3538,Ireland,london-1948,0,0,0,8
+3539,Australia,london-1948,2,6,5,12
+3540,Spain,london-1948,0,1,0,10
+3541,South Africa,london-1948,2,1,1,8
+3542,Austria,london-1948,1,0,3,18
+3543,Cuba,london-1948,0,1,0,8
+3544,Greece,london-1948,0,0,0,6
+3545,Chile,london-1948,0,0,0,9
+3546,Venezuela,london-1948,0,0,0,1
+3547,Trinidad and Tobago,london-1948,0,1,0,3
+3548,Mexico,london-1948,2,1,2,16
+3549,India,london-1948,1,0,0,10
+3550,Pakistan,london-1948,0,0,0,6
+3551,Guyana,london-1948,0,0,0,4
+3552,Peru,london-1948,1,0,0,6
+3553,Philippines,london-1948,0,0,0,6
+3554,Puerto Rico,london-1948,0,0,1,3
+3555,Monaco,london-1948,0,0,0,1
+3556,Islamic Republic of Iran,london-1948,0,0,1,5
+3557,Lebanon,london-1948,0,0,0,3
+3558,Hungary,london-1948,10,5,12,15
+3559,Syrian Arab Republic,london-1948,0,0,0,1
+3560,Egypt,london-1948,2,2,1,11
+3561,Bermuda,london-1948,0,0,0,2
+3562,Yugoslavia,london-1948,0,2,0,6
+3563,Republic of Korea,london-1948,0,0,2,7
+3564,Turkey,london-1948,6,4,2,6
+3565,People's Republic of China,london-1948,0,0,0,3
+3566,Luxembourg,london-1948,0,0,0,8
+3567,Afghanistan,london-1948,0,0,0,2
+3568,Czechoslovakia,london-1948,6,2,3,9
+3569,Poland,london-1948,0,0,1,4
+3570,Sri Lanka,london-1948,0,1,0,2
+3571,Myanmar,london-1948,0,0,0,2
+3572,Jamaica,london-1948,1,2,0,3
+3573,New Zealand,london-1948,0,0,0,4
+3574,Colombia,london-1948,0,0,0,1
+3575,Iraq,london-1948,0,0,0,1
+3576,Panama,london-1948,0,0,2,1
+3577,Iceland,london-1948,0,0,0,1
+3578,Liechtenstein,london-1948,0,0,0,1
+3579,Singapore,london-1948,0,0,0,1
+3580,Finland,st-moritz-1948,1,3,2,5
+3581,Sweden,st-moritz-1948,4,3,3,6
+3582,Switzerland,st-moritz-1948,3,4,3,9
+3583,Norway,st-moritz-1948,4,3,3,7
+3584,Italy,st-moritz-1948,1,0,0,9
+3585,Austria,st-moritz-1948,1,3,4,8
+3586,France,st-moritz-1948,2,1,2,7
+3587,Poland,st-moritz-1948,0,0,0,5
+3588,Yugoslavia,st-moritz-1948,0,0,0,4
+3589,United States of America,st-moritz-1948,3,4,2,9
+3590,Czechoslovakia,st-moritz-1948,0,1,0,8
+3591,Canada,st-moritz-1948,2,0,1,7
+3592,Bulgaria,st-moritz-1948,0,0,0,3
+3593,Great Britain,st-moritz-1948,0,0,2,6
+3594,Hungary,st-moritz-1948,0,1,0,5
+3595,Chile,st-moritz-1948,0,0,0,1
+3596,Belgium,st-moritz-1948,1,1,0,4
+3597,Romania,st-moritz-1948,0,0,0,1
+3598,Liechtenstein,st-moritz-1948,0,0,0,2
+3599,Iceland,st-moritz-1948,0,0,0,2
+3600,Spain,st-moritz-1948,0,0,0,1
+3601,Argentina,st-moritz-1948,0,0,0,2
+3602,Turkey,st-moritz-1948,0,0,0,1
+3603,Greece,st-moritz-1948,0,0,0,1
+3604,Lebanon,st-moritz-1948,0,0,0,1
+3605,Denmark,st-moritz-1948,0,0,0,2
+3606,Republic of Korea,st-moritz-1948,0,0,0,1
+3607,Netherlands,st-moritz-1948,0,0,0,1
+3608,Germany,berlin-1936,31,24,29,24
+3609,Austria,berlin-1936,3,4,2,20
+3610,Switzerland,berlin-1936,1,9,5,20
+3611,Hungary,berlin-1936,10,1,5,21
+3612,Romania,berlin-1936,0,1,0,8
+3613,United States of America,berlin-1936,24,20,11,23
+3614,Denmark,berlin-1936,0,2,3,15
+3615,Great Britain,berlin-1936,4,7,2,18
+3616,Bulgaria,berlin-1936,0,0,0,6
+3617,Sweden,berlin-1936,5,5,8,18
+3618,Japan,berlin-1936,6,4,8,13
+3619,Netherlands,berlin-1936,5,4,6,17
+3620,Poland,berlin-1936,0,3,3,14
+3621,Czechoslovakia,berlin-1936,2,5,0,16
+3622,France,berlin-1936,7,5,6,21
+3623,Italy,berlin-1936,8,9,5,17
+3624,Finland,berlin-1936,7,6,6,14
+3625,Norway,berlin-1936,1,3,2,12
+3626,Turkey,berlin-1936,1,0,1,7
+3627,Canada,berlin-1936,1,2,5,10
+3628,Chile,berlin-1936,0,0,0,6
+3629,New Zealand,berlin-1936,1,0,0,4
+3630,Egypt,berlin-1936,2,1,2,9
+3631,Spain,berlin-1936,0,0,0,2
+3632,Greece,berlin-1936,0,0,0,7
+3633,India,berlin-1936,1,0,0,4
+3634,Peru,berlin-1936,0,0,0,9
+3635,Yugoslavia,berlin-1936,0,1,0,9
+3636,Estonia,berlin-1936,2,2,3,6
+3637,People's Republic of China,berlin-1936,0,0,0,6
+3638,Iceland,berlin-1936,0,0,0,2
+3639,Belgium,berlin-1936,0,0,2,14
+3640,Latvia,berlin-1936,0,1,1,5
+3641,Argentina,berlin-1936,2,2,3,8
+3642,Colombia,berlin-1936,0,0,0,1
+3643,South Africa,berlin-1936,0,1,0,5
+3644,Australia,berlin-1936,0,0,1,8
+3645,Portugal,berlin-1936,0,0,1,5
+3646,Philippines,berlin-1936,0,0,1,6
+3647,Mexico,berlin-1936,0,0,3,7
+3648,Brazil,berlin-1936,0,0,0,7
+3649,Luxembourg,berlin-1936,0,0,0,7
+3650,Uruguay,berlin-1936,0,0,0,4
+3651,Malta,berlin-1936,0,0,0,2
+3652,Monaco,berlin-1936,0,0,0,1
+3653,Liechtenstein,berlin-1936,0,0,0,2
+3654,Afghanistan,berlin-1936,0,0,0,1
+3655,Bermuda,berlin-1936,0,0,0,1
+3656,Norway,garmisch-partenkirchen-1936,7,5,3,6
+3657,Great Britain,garmisch-partenkirchen-1936,1,1,1,6
+3658,Sweden,garmisch-partenkirchen-1936,2,2,3,7
+3659,Belgium,garmisch-partenkirchen-1936,0,0,0,5
+3660,United States of America,garmisch-partenkirchen-1936,1,0,3,8
+3661,Austria,garmisch-partenkirchen-1936,1,1,2,8
+3662,Germany,garmisch-partenkirchen-1936,3,3,0,8
+3663,Japan,garmisch-partenkirchen-1936,0,0,0,7
+3664,Switzerland,garmisch-partenkirchen-1936,1,2,0,7
+3665,Hungary,garmisch-partenkirchen-1936,0,0,1,6
+3666,Czechoslovakia,garmisch-partenkirchen-1936,0,0,0,8
+3667,Latvia,garmisch-partenkirchen-1936,0,0,0,6
+3668,Canada,garmisch-partenkirchen-1936,0,1,0,7
+3669,Romania,garmisch-partenkirchen-1936,0,0,0,6
+3670,Finland,garmisch-partenkirchen-1936,1,2,3,5
+3671,Yugoslavia,garmisch-partenkirchen-1936,0,0,0,5
+3672,Italy,garmisch-partenkirchen-1936,0,0,0,7
+3673,Estonia,garmisch-partenkirchen-1936,0,0,0,4
+3674,Netherlands,garmisch-partenkirchen-1936,0,0,0,3
+3675,Australia,garmisch-partenkirchen-1936,0,0,0,1
+3676,Poland,garmisch-partenkirchen-1936,0,0,0,6
+3677,France,garmisch-partenkirchen-1936,0,0,1,4
+3678,Liechtenstein,garmisch-partenkirchen-1936,0,0,0,2
+3679,Luxembourg,garmisch-partenkirchen-1936,0,0,0,2
+3680,Bulgaria,garmisch-partenkirchen-1936,0,0,0,3
+3681,Spain,garmisch-partenkirchen-1936,0,0,0,2
+3682,Turkey,garmisch-partenkirchen-1936,0,0,0,2
+3683,Greece,garmisch-partenkirchen-1936,0,0,0,2
+3684,Hungary,los-angeles-1932,6,4,5,10
+3685,Germany,los-angeles-1932,3,12,5,13
+3686,United States of America,los-angeles-1932,41,32,30,19
+3687,Japan,los-angeles-1932,7,7,4,10
+3688,Brazil,los-angeles-1932,0,0,0,5
+3689,Argentina,los-angeles-1932,3,1,0,6
+3690,South Africa,los-angeles-1932,2,0,3,4
+3691,France,los-angeles-1932,10,5,4,13
+3692,Mexico,los-angeles-1932,0,2,0,13
+3693,Italy,los-angeles-1932,12,12,12,12
+3694,Canada,los-angeles-1932,2,5,8,10
+3695,New Zealand,los-angeles-1932,0,1,0,4
+3696,Finland,los-angeles-1932,5,8,12,4
+3697,Great Britain,los-angeles-1932,4,7,5,10
+3698,Philippines,los-angeles-1932,0,0,3,3
+3699,Denmark,los-angeles-1932,0,3,3,9
+3700,Ireland,los-angeles-1932,2,0,0,2
+3701,Sweden,los-angeles-1932,9,5,9,12
+3702,Greece,los-angeles-1932,0,0,0,3
+3703,Austria,los-angeles-1932,1,1,3,6
+3704,Czechoslovakia,los-angeles-1932,1,2,1,3
+3705,Haiti,los-angeles-1932,0,0,0,1
+3706,Cuba,los-angeles-1932,0,0,0,1
+3707,Australia,los-angeles-1932,3,1,1,5
+3708,Poland,los-angeles-1932,2,1,4,3
+3709,Latvia,los-angeles-1932,0,1,0,1
+3710,Estonia,los-angeles-1932,0,0,0,2
+3711,Switzerland,los-angeles-1932,0,1,0,3
+3712,Netherlands,los-angeles-1932,2,5,0,8
+3713,Norway,los-angeles-1932,0,0,0,2
+3714,Colombia,los-angeles-1932,0,0,0,1
+3715,India,los-angeles-1932,1,0,0,2
+3716,Portugal,los-angeles-1932,0,0,0,3
+3717,Yugoslavia,los-angeles-1932,0,0,0,1
+3718,Uruguay,los-angeles-1932,0,0,1,1
+3719,Belgium,los-angeles-1932,0,0,0,1
+3720,Spain,los-angeles-1932,0,0,1,2
+3721,United States of America,lake-placid-1932,6,4,2,7
+3722,Norway,lake-placid-1932,3,4,3,5
+3723,Canada,lake-placid-1932,1,1,5,6
+3724,Finland,lake-placid-1932,1,1,1,3
+3725,Sweden,lake-placid-1932,1,2,0,5
+3726,Czechoslovakia,lake-placid-1932,0,0,0,4
+3727,Italy,lake-placid-1932,0,0,0,4
+3728,Japan,lake-placid-1932,0,0,0,4
+3729,Poland,lake-placid-1932,0,0,0,4
+3730,France,lake-placid-1932,1,0,0,4
+3731,Austria,lake-placid-1932,1,1,0,5
+3732,Switzerland,lake-placid-1932,0,1,0,3
+3733,Romania,lake-placid-1932,0,0,0,1
+3734,Germany,lake-placid-1932,0,0,2,3
+3735,Belgium,lake-placid-1932,0,0,0,2
+3736,Hungary,lake-placid-1932,0,0,1,1
+3737,Great Britain,lake-placid-1932,0,0,0,1
+3738,MIX,lake-placid-1932,0,0,0,1
+3739,Great Britain,amsterdam-1928,3,10,7,14
+3740,Sweden,amsterdam-1928,6,6,12,13
+3741,Germany,amsterdam-1928,9,7,14,18
+3742,Canada,amsterdam-1928,4,4,7,8
+3743,United States of America,amsterdam-1928,22,18,16,15
+3744,France,amsterdam-1928,6,10,5,18
+3745,Portugal,amsterdam-1928,0,0,1,8
+3746,Hungary,amsterdam-1928,4,5,0,11
+3747,Finland,amsterdam-1928,8,8,8,8
+3748,South Africa,amsterdam-1928,1,0,2,5
+3749,Greece,amsterdam-1928,0,0,0,3
+3750,Luxembourg,amsterdam-1928,0,0,0,8
+3751,Yugoslavia,amsterdam-1928,1,1,3,5
+3752,Japan,amsterdam-1928,2,2,1,9
+3753,Monaco,amsterdam-1928,0,0,0,1
+3754,Latvia,amsterdam-1928,0,0,0,4
+3755,Poland,amsterdam-1928,1,1,3,12
+3756,Chile,amsterdam-1928,0,1,0,5
+3757,Czechoslovakia,amsterdam-1928,2,5,2,12
+3758,Belgium,amsterdam-1928,0,1,2,17
+3759,Netherlands,amsterdam-1928,6,9,4,19
+3760,Mexico,amsterdam-1928,0,0,0,3
+3761,Italy,amsterdam-1928,7,5,7,15
+3762,Norway,amsterdam-1928,1,1,1,8
+3763,Denmark,amsterdam-1928,3,1,2,12
+3764,Spain,amsterdam-1928,1,0,0,10
+3765,Romania,amsterdam-1928,0,0,0,1
+3766,Estonia,amsterdam-1928,2,1,2,6
+3767,Switzerland,amsterdam-1928,7,4,4,13
+3768,India,amsterdam-1928,1,0,0,3
+3769,Philippines,amsterdam-1928,0,0,1,2
+3770,Australia,amsterdam-1928,1,2,1,5
+3771,Argentina,amsterdam-1928,3,3,1,13
+3772,Haiti,amsterdam-1928,0,1,0,1
+3773,Ireland,amsterdam-1928,1,0,0,6
+3774,Turkey,amsterdam-1928,0,0,0,6
+3775,New Zealand,amsterdam-1928,1,0,0,3
+3776,Austria,amsterdam-1928,2,0,1,10
+3777,Cuba,amsterdam-1928,0,0,0,1
+3778,Lithuania,amsterdam-1928,0,0,0,4
+3779,Uruguay,amsterdam-1928,1,0,0,1
+3780,Egypt,amsterdam-1928,2,1,1,5
+3781,Bulgaria,amsterdam-1928,0,0,0,2
+3782,Zimbabwe,amsterdam-1928,0,0,0,1
+3783,Malta,amsterdam-1928,0,0,0,1
+3784,Norway,st-moritz-1928,6,4,5,5
+3785,Czechoslovakia,st-moritz-1928,0,0,1,6
+3786,Sweden,st-moritz-1928,2,2,1,6
+3787,United States of America,st-moritz-1928,2,2,2,7
+3788,Switzerland,st-moritz-1928,0,0,1,7
+3789,Germany,st-moritz-1928,0,0,1,8
+3790,Finland,st-moritz-1928,2,1,1,5
+3791,Italy,st-moritz-1928,0,0,0,5
+3792,Canada,st-moritz-1928,1,0,0,6
+3793,Poland,st-moritz-1928,0,0,0,5
+3794,France,st-moritz-1928,1,0,0,8
+3795,Austria,st-moritz-1928,0,3,1,8
+3796,Japan,st-moritz-1928,0,0,0,3
+3797,Argentina,st-moritz-1928,0,0,0,1
+3798,Belgium,st-moritz-1928,0,0,1,4
+3799,Romania,st-moritz-1928,0,0,0,1
+3800,Great Britain,st-moritz-1928,0,0,1,5
+3801,Mexico,st-moritz-1928,0,0,0,1
+3802,Netherlands,st-moritz-1928,0,0,0,2
+3803,Luxembourg,st-moritz-1928,0,0,0,1
+3804,Yugoslavia,st-moritz-1928,0,0,0,1
+3805,Hungary,st-moritz-1928,0,0,0,4
+3806,Lithuania,st-moritz-1928,0,0,0,1
+3807,Latvia,st-moritz-1928,0,0,0,1
+3808,Estonia,st-moritz-1928,0,0,0,1
+3809,France,paris-1924,13,15,10,22
+3810,Belgium,paris-1924,3,7,3,17
+3811,Hungary,paris-1924,2,3,4,12
+3812,Italy,paris-1924,8,3,5,18
+3813,Sweden,paris-1924,4,13,12,17
+3814,Denmark,paris-1924,2,5,2,13
+3815,Netherlands,paris-1924,4,1,5,18
+3816,Czechoslovakia,paris-1924,1,4,5,18
+3817,Argentina,paris-1924,1,3,2,11
+3818,Great Britain,paris-1924,9,13,12,19
+3819,Portugal,paris-1924,0,0,1,8
+3820,United States of America,paris-1924,45,27,27,18
+3821,Canada,paris-1924,0,3,1,7
+3822,Finland,paris-1924,14,13,10,11
+3823,Austria,paris-1924,0,3,1,7
+3824,Norway,paris-1924,5,2,3,8
+3825,Haiti,paris-1924,0,0,1,2
+3826,Switzerland,paris-1924,7,8,10,16
+3827,South Africa,paris-1924,1,1,1,6
+3828,Greece,paris-1924,0,0,0,7
+3829,Romania,paris-1924,0,0,1,4
+3830,Poland,paris-1924,0,1,1,10
+3831,Monaco,paris-1924,0,0,0,2
+3832,Brazil,paris-1924,0,0,0,3
+3833,Mexico,paris-1924,0,0,0,3
+3834,Egypt,paris-1924,0,0,0,7
+3835,Spain,paris-1924,0,0,0,10
+3836,Ireland,paris-1924,0,0,0,5
+3837,India,paris-1924,0,0,0,2
+3838,Chile,paris-1924,0,0,0,4
+3839,Japan,paris-1924,0,0,1,4
+3840,Australia,paris-1924,3,1,2,8
+3841,Luxembourg,paris-1924,0,0,0,10
+3842,Yugoslavia,paris-1924,2,0,0,8
+3843,Estonia,paris-1924,1,1,4,5
+3844,Latvia,paris-1924,0,0,0,6
+3845,Ecuador,paris-1924,0,0,0,1
+3846,Bulgaria,paris-1924,0,0,0,6
+3847,Turkey,paris-1924,0,0,0,4
+3848,New Zealand,paris-1924,0,0,1,3
+3849,Philippines,paris-1924,0,0,0,1
+3850,Uruguay,paris-1924,1,0,0,2
+3851,Lithuania,paris-1924,0,0,0,2
+3852,Cuba,paris-1924,0,0,0,1
+3853,Norway,chamonix-1924,4,7,6,5
+3854,Sweden,chamonix-1924,1,1,0,7
+3855,Czechoslovakia,chamonix-1924,0,0,0,6
+3856,Finland,chamonix-1924,4,4,3,6
+3857,France,chamonix-1924,0,0,3,9
+3858,United States of America,chamonix-1924,1,2,1,6
+3859,Switzerland,chamonix-1924,2,0,1,9
+3860,Poland,chamonix-1924,0,0,0,6
+3861,Hungary,chamonix-1924,0,0,0,5
+3862,Great Britain,chamonix-1924,1,1,2,8
+3863,Italy,chamonix-1924,0,0,0,6
+3864,Yugoslavia,chamonix-1924,0,0,0,2
+3865,Latvia,chamonix-1924,0,0,0,2
+3866,Belgium,chamonix-1924,0,0,1,4
+3867,Canada,chamonix-1924,1,0,0,3
+3868,Estonia,chamonix-1924,0,0,0,1
+3869,Austria,chamonix-1924,2,1,0,1
+3870,United States of America,antwerp-1920,41,27,27,21
+3871,France,antwerp-1920,9,19,13,25
+3872,Norway,antwerp-1920,13,9,9,15
+3873,Great Britain,antwerp-1920,14,15,13,21
+3874,Denmark,antwerp-1920,3,9,1,13
+3875,South Africa,antwerp-1920,3,4,3,7
+3876,Canada,antwerp-1920,3,3,3,8
+3877,Belgium,antwerp-1920,14,11,11,25
+3878,Netherlands,antwerp-1920,4,2,5,13
+3879,Italy,antwerp-1920,13,5,5,17
+3880,Argentina,antwerp-1920,0,0,0,1
+3881,Switzerland,antwerp-1920,2,2,7,13
+3882,Sweden,antwerp-1920,19,20,25,20
+3883,Czechoslovakia,antwerp-1920,0,0,2,10
+3884,Spain,antwerp-1920,0,2,0,7
+3885,Australia,antwerp-1920,0,2,1,4
+3886,Japan,antwerp-1920,0,2,0,3
+3887,Finland,antwerp-1920,15,10,9,9
+3888,New Zealand,antwerp-1920,0,0,1,3
+3889,Egypt,antwerp-1920,0,0,0,4
+3890,Estonia,antwerp-1920,1,2,0,2
+3891,Luxembourg,antwerp-1920,0,1,0,4
+3892,Greece,antwerp-1920,0,1,0,7
+3893,Monaco,antwerp-1920,0,0,0,2
+3894,India,antwerp-1920,0,0,0,2
+3895,Chile,antwerp-1920,0,0,0,1
+3896,Brazil,antwerp-1920,1,1,1,4
+3897,Portugal,antwerp-1920,0,0,0,2
+3898,Yugoslavia,antwerp-1920,0,0,0,1
+3899,Poland,antwerp-1920,0,0,0,1
+3900,Great Britain,stockholm-1912,9,14,16,15
+3901,Sweden,stockholm-1912,24,24,17,18
+3902,Denmark,stockholm-1912,1,6,6,13
+3903,France,stockholm-1912,7,4,3,13
+3904,Germany,stockholm-1912,6,14,5,15
+3905,Norway,stockholm-1912,4,1,6,13
+3906,Australasia,stockholm-1912,2,2,3,4
+3907,Bohemia,stockholm-1912,0,0,0,7
+3908,South Africa,stockholm-1912,4,2,0,5
+3909,Austria,stockholm-1912,0,2,2,10
+3910,Russian Federation,stockholm-1912,0,2,4,14
+3911,Hungary,stockholm-1912,3,2,3,10
+3912,United States of America,stockholm-1912,25,19,19,11
+3913,Netherlands,stockholm-1912,0,0,3,5
+3914,Finland,stockholm-1912,9,8,9,9
+3915,Portugal,stockholm-1912,0,0,0,2
+3916,Italy,stockholm-1912,3,1,2,5
+3917,Belgium,stockholm-1912,2,1,3,9
+3918,Canada,stockholm-1912,3,2,3,6
+3919,Chile,stockholm-1912,0,0,0,4
+3920,Greece,stockholm-1912,1,0,1,4
+3921,Iceland,stockholm-1912,0,0,0,1
+3922,Serbia,stockholm-1912,0,0,0,1
+3923,Turkey,stockholm-1912,0,0,0,1
+3924,Luxembourg,stockholm-1912,0,0,0,2
+3925,Japan,stockholm-1912,0,0,0,1
+3926,Switzerland,stockholm-1912,0,0,0,1
+3927,France,london-1908,5,5,9,13
+3928,Great Britain,london-1908,56,51,39,23
+3929,Belgium,london-1908,1,5,2,10
+3930,Netherlands,london-1908,0,0,2,12
+3931,Hungary,london-1908,3,4,2,9
+3932,Bohemia,london-1908,0,0,2,6
+3933,Italy,london-1908,2,2,0,7
+3934,Germany,london-1908,3,5,5,12
+3935,Denmark,london-1908,0,2,3,8
+3936,Sweden,london-1908,8,6,11,14
+3937,United States of America,london-1908,23,12,12,10
+3938,Russian Federation,london-1908,1,2,0,3
+3939,Finland,london-1908,1,1,3,5
+3940,Iceland,london-1908,0,0,0,1
+3941,Canada,london-1908,3,3,10,8
+3942,Norway,london-1908,2,3,3,5
+3943,South Africa,london-1908,1,1,0,3
+3944,Austria,london-1908,0,0,1,3
+3945,Australasia,london-1908,1,2,2,5
+3946,Greece,london-1908,0,3,1,3
+3947,Switzerland,london-1908,0,0,0,1
+3948,Australia,london-1908,0,0,0,1
+3949,Turkey,london-1908,0,0,0,1
+3950,Argentina,london-1908,0,0,0,1
+3951,United States of America,st-louis-1904,76,78,77,18
+3952,MIX,st-louis-1904,2,1,1,5
+3953,Canada,st-louis-1904,4,1,1,6
+3954,Germany,st-louis-1904,4,5,6,8
+3955,New Zealand,st-louis-1904,0,0,0,1
+3956,Hungary,st-louis-1904,2,1,1,2
+3957,Australia,st-louis-1904,0,3,1,2
+3958,Greece,st-louis-1904,1,0,1,3
+3959,France,st-louis-1904,0,1,0,1
+3960,Cuba,st-louis-1904,3,0,0,2
+3961,South Africa,st-louis-1904,0,0,0,2
+3962,Newfoundland,st-louis-1904,0,0,0,1
+3963,Great Britain,st-louis-1904,1,1,0,2
+3964,Norway,st-louis-1904,2,0,0,2
+3965,Switzerland,st-louis-1904,1,0,2,2
+3966,Austria,st-louis-1904,1,1,1,2
+3967,France,paris-1900,26,36,35,15
+3968,Italy,paris-1900,2,2,0,6
+3969,Belgium,paris-1900,5,7,4,10
+3970,Austria,paris-1900,0,3,3,4
+3971,Hungary,paris-1900,1,2,2,4
+3972,Cuba,paris-1900,1,1,0,1
+3973,Argentina,paris-1900,0,0,0,1
+3974,Russian Federation,paris-1900,0,0,0,2
+3975,Netherlands,paris-1900,0,2,3,6
+3976,Germany,paris-1900,4,3,2,8
+3977,Switzerland,paris-1900,6,2,1,4
+3978,Great Britain,paris-1900,15,8,9,12
+3979,United States of America,paris-1900,19,14,15,7
+3980,Brazil,paris-1900,0,0,0,2
+3981,Bohemia,paris-1900,0,1,1,4
+3982,New Zealand,paris-1900,0,0,0,1
+3983,MIX,paris-1900,8,5,6,11
+3984,Norway,paris-1900,0,2,3,2
+3985,Denmark,paris-1900,1,3,2,3
+3986,Romania,paris-1900,0,0,0,1
+3987,Greece,paris-1900,0,0,0,2
+3988,Chile,paris-1900,0,0,0,1
+3989,India,paris-1900,0,2,0,1
+3990,Luxembourg,paris-1900,1,0,0,1
+3991,Sweden,paris-1900,0,0,1,2
+3992,Canada,paris-1900,1,0,1,1
+3993,Australia,paris-1900,2,0,3,2
+3994,Spain,paris-1900,1,0,0,2
+3995,France,athens-1896,5,4,2,7
+3996,Greece,athens-1896,10,18,19,10
+3997,Denmark,athens-1896,1,2,3,6
+3998,Austria,athens-1896,2,1,2,3
+3999,Hungary,athens-1896,2,1,3,6
+4000,Australia,athens-1896,2,0,0,2
+4001,United States of America,athens-1896,11,7,2,3
+4002,Italy,athens-1896,0,0,0,2
+4003,Germany,athens-1896,6,5,2,7
+4004,Sweden,athens-1896,0,0,0,3
+4005,Chile,athens-1896,0,0,0,1
+4006,Great Britain,athens-1896,2,3,2,9
+4007,Switzerland,athens-1896,1,2,0,2
+4008,MIX,athens-1896,1,0,1,1
