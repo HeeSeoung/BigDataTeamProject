@@ -25,5 +25,5 @@ def preprocessing(df_, path):
 
 def pos_filter(x):
     pos_list = Okt().pos(x)
-    nouns = [word for word, pos in pos_list if pos == 'Noun' and word not in stop_words]
+    nouns = [word for word, pos in pos_list if pos == 'Noun' and word not in stop_words and len(word) != 1]
     return ','.join(nouns)
