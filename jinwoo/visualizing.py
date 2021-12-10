@@ -74,6 +74,7 @@ def press_bar_plot(data_):
 
     return f
 
+
 def main():
     df = '종목별로 묶인 데이터 프레임 ex) 농구만 있는 df'
 
