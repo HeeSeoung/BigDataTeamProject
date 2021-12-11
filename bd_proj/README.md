@@ -7,5 +7,5 @@
 
 - color_name :<b> 'red', 'cyan', 'teal', 'lightgreen', 'blue', 'amber', 'pink', 'purple', 'yellow'</b> 택1
   <i>(default = 'blue')</i>
-- background_color_name :<b> 'dark', 'light' </b>택 1 <i>(default = 'dark')</i></n>
-  ex) python run.py -c blue -b dark 
+- background_color_name :<b> 'dark', 'light' </b>택 1 <i>(default = 'dark')</i>
+- ex) python run.py -c blue -b dark 
