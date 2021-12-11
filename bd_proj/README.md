@@ -1,9 +1,8 @@
 ### 사용설명서
-### 1.
+### 1. 가상환경 설정
 > conda env create -f conda_requirements.txt
-- 가상환경 설정하기.
 
-### 2. 
+### 2. run.py 실행
 > python run.py -c "color_name" -b "background_color_name"
 
 - color_name :<b> 'red', 'cyan', 'teal', 'lightgreen', 'blue', 'amber', 'pink', 'purple', 'yellow'</b> 택1
