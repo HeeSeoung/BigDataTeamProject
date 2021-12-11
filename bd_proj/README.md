@@ -1,7 +1,5 @@
 ### 사용설명서
-
-
-###1.
+### 1.
 > conda env create -f conda_requirements.txt
 - 가상환경 설정하기.
 
