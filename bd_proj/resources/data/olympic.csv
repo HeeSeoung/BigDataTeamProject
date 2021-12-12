@@ -1,0 +1,1901 @@
+Nation,Olympic,Gold,Silver,Bronze,event_count,total,total_rank,rank,year,type
+Spain,tokyo-2020,3,8,6,36,17,14,22,2020,summer
+San Marino,tokyo-2020,0,1,2,3,3,27,61,2020,summer
+United States of America,tokyo-2020,39,41,33,43,113,1,1,2020,summer
+Slovakia,tokyo-2020,1,2,1,12,4,26,46,2020,summer
+Japan,tokyo-2020,27,13,17,46,57,5,3,2020,summer
+Australia,tokyo-2020,17,7,21,40,45,6,6,2020,summer
+People's Republic of China,tokyo-2020,38,32,18,41,88,2,2,2020,summer
+Great Britain,tokyo-2020,22,21,22,35,65,4,4,2020,summer
+ROC,tokyo-2020,20,28,22,38,70,3,5,2020,summer
+Italy,tokyo-2020,10,10,20,38,40,7,10,2020,summer
+Mexico,tokyo-2020,0,0,4,29,4,26,65,2020,summer
+Egypt,tokyo-2020,1,1,4,23,6,24,49,2020,summer
+Belarus,tokyo-2020,1,3,3,19,7,23,42,2020,summer
+Islamic Republic of Iran,tokyo-2020,3,2,2,15,7,23,27,2020,summer
+Switzerland,tokyo-2020,3,4,6,25,13,17,24,2020,summer
+Norway,tokyo-2020,4,2,2,16,8,22,20,2020,summer
+Serbia,tokyo-2020,3,1,5,15,9,21,28,2020,summer
+Germany,tokyo-2020,10,11,16,36,37,8,9,2020,summer
+Indonesia,tokyo-2020,1,1,3,5,5,25,50,2020,summer
+Czech Republic,tokyo-2020,4,4,3,24,11,19,18,2020,summer
+Mongolia,tokyo-2020,0,1,3,9,4,26,60,2020,summer
+Puerto Rico,tokyo-2020,1,0,0,14,1,29,54,2020,summer
+Poland,tokyo-2020,4,5,5,27,14,16,17,2020,summer
+Republic of Korea,tokyo-2020,6,4,10,31,20,12,16,2020,summer
+Uzbekistan,tokyo-2020,3,0,2,13,5,25,32,2020,summer
+Malaysia,tokyo-2020,0,1,1,7,2,28,62,2020,summer
+Slovenia,tokyo-2020,3,1,1,15,5,25,31,2020,summer
+Hungary,tokyo-2020,6,7,7,24,20,12,14,2020,summer
+Cuba,tokyo-2020,7,3,5,13,15,15,13,2020,summer
+France,tokyo-2020,10,12,11,40,33,10,8,2020,summer
+India,tokyo-2020,1,2,4,16,7,23,44,2020,summer
+Denmark,tokyo-2020,3,4,4,19,11,19,25,2020,summer
+Croatia,tokyo-2020,3,3,2,16,8,22,26,2020,summer
+Ukraine,tokyo-2020,1,6,12,26,19,13,41,2020,summer
+Oman,tokyo-2020,0,0,0,2,0,30,68,2020,summer
+Argentina,tokyo-2020,0,1,2,28,3,27,61,2020,summer
+Turkey,tokyo-2020,2,2,9,17,13,17,35,2020,summer
+Kazakhstan,tokyo-2020,0,0,8,23,8,22,64,2020,summer
+Venezuela,tokyo-2020,1,3,0,15,4,26,43,2020,summer
+Lithuania,tokyo-2020,0,1,0,12,1,29,63,2020,summer
+Estonia,tokyo-2020,1,0,1,14,2,28,53,2020,summer
+Colombia,tokyo-2020,0,4,1,18,5,25,55,2020,summer
+Azerbaijan,tokyo-2020,0,3,4,10,7,23,56,2020,summer
+Peru,tokyo-2020,0,0,0,15,0,30,68,2020,summer
+Pakistan,tokyo-2020,0,0,0,5,0,30,68,2020,summer
+Thailand,tokyo-2020,1,0,1,14,2,28,53,2020,summer
+Israel,tokyo-2020,2,0,2,19,4,26,38,2020,summer
+Philippines,tokyo-2020,1,2,1,10,4,26,46,2020,summer
+Austria,tokyo-2020,1,1,5,23,7,23,48,2020,summer
+Chinese Taipei,tokyo-2020,2,4,6,16,12,18,34,2020,summer
+Bangladesh,tokyo-2020,0,0,0,2,0,30,68,2020,summer
+Afghanistan,tokyo-2020,0,0,0,2,0,30,68,2020,summer
+Kosovo,tokyo-2020,2,0,0,4,2,28,40,2020,summer
+Romania,tokyo-2020,1,3,0,17,4,26,43,2020,summer
+Singapore,tokyo-2020,0,0,0,9,0,30,68,2020,summer
+Belgium,tokyo-2020,3,1,3,25,7,23,29,2020,summer
+Bhutan,tokyo-2020,0,0,0,3,0,30,68,2020,summer
+Algeria,tokyo-2020,0,0,0,13,0,30,68,2020,summer
+Sri Lanka,tokyo-2020,0,0,0,4,0,30,68,2020,summer
+Kyrgyzstan,tokyo-2020,0,2,1,6,3,27,59,2020,summer
+Bosnia and Herzegovina,tokyo-2020,0,0,0,4,0,30,68,2020,summer
+Nepal,tokyo-2020,0,0,0,2,0,30,68,2020,summer
+Refugee Olympic Team,tokyo-2020,0,0,0,11,0,30,68,2020,summer
+Ireland,tokyo-2020,2,0,2,20,4,26,38,2020,summer
+Portugal,tokyo-2020,1,1,2,19,4,26,51,2020,summer
+Qatar,tokyo-2020,2,0,1,6,3,27,39,2020,summer
+Kuwait,tokyo-2020,0,0,1,3,1,29,67,2020,summer
+Cyprus,tokyo-2020,0,0,0,3,0,30,68,2020,summer
+Morocco,tokyo-2020,1,0,0,16,1,29,54,2020,summer
+Bahrain,tokyo-2020,0,1,0,4,1,29,63,2020,summer
+Senegal,tokyo-2020,0,0,0,6,0,30,68,2020,summer
+New Zealand,tokyo-2020,7,6,7,25,20,12,12,2020,summer
+Chile,tokyo-2020,0,0,0,20,0,30,68,2020,summer
+Guatemala,tokyo-2020,0,0,0,10,0,30,68,2020,summer
+Lebanon,tokyo-2020,0,0,0,3,0,30,68,2020,summer
+Finland,tokyo-2020,0,0,2,11,2,28,66,2020,summer
+Bulgaria,tokyo-2020,3,1,2,12,6,24,30,2020,summer
+Iraq,tokyo-2020,0,0,0,2,0,30,68,2020,summer
+Ecuador,tokyo-2020,2,1,0,16,3,27,37,2020,summer
+Greece,tokyo-2020,2,1,1,20,4,26,36,2020,summer
+Albania,tokyo-2020,0,0,0,4,0,30,68,2020,summer
+Latvia,tokyo-2020,1,0,1,14,2,28,53,2020,summer
+Jordan,tokyo-2020,0,1,1,6,2,28,62,2020,summer
+Yemen,tokyo-2020,0,0,0,2,0,30,68,2020,summer
+Tunisia,tokyo-2020,1,1,0,16,2,28,52,2020,summer
+Georgia,tokyo-2020,2,5,1,8,8,22,33,2020,summer
+Montenegro,tokyo-2020,0,0,0,6,0,30,68,2020,summer
+Armenia,tokyo-2020,0,2,2,6,4,26,58,2020,summer
+Malta,tokyo-2020,0,0,0,3,0,30,68,2020,summer
+Canada,tokyo-2020,7,6,11,40,24,11,11,2020,summer
+Republic of Moldova,tokyo-2020,0,0,1,7,1,29,67,2020,summer
+Brazil,tokyo-2020,6,6,8,32,20,12,15,2020,summer
+North Macedonia,tokyo-2020,0,1,0,5,1,29,63,2020,summer
+Aruba,tokyo-2020,0,0,0,1,0,30,68,2020,summer
+Myanmar,tokyo-2020,0,0,0,2,0,30,68,2020,summer
+Vietnam,tokyo-2020,0,0,0,8,0,30,68,2020,summer
+Nicaragua,tokyo-2020,0,0,0,4,0,30,68,2020,summer
+Iceland,tokyo-2020,0,0,0,1,0,30,68,2020,summer
+Saudi Arabia,tokyo-2020,0,1,0,7,1,29,63,2020,summer
+Sweden,tokyo-2020,3,6,0,22,9,21,23,2020,summer
+United Arab Emirates,tokyo-2020,0,0,0,2,0,30,68,2020,summer
+Jamaica,tokyo-2020,4,1,4,4,9,21,21,2020,summer
+Dominican Republic,tokyo-2020,0,3,2,10,5,25,57,2020,summer
+Netherlands,tokyo-2020,10,12,14,31,36,9,7,2020,summer
+South Africa,tokyo-2020,1,2,0,22,3,27,47,2020,summer
+Nigeria,tokyo-2020,0,1,1,8,2,28,62,2020,summer
+Sao Tome and Principe,tokyo-2020,0,0,0,1,0,30,68,2020,summer
+Samoa,tokyo-2020,0,0,0,4,0,30,68,2020,summer
+Cook Islands,tokyo-2020,0,0,0,2,0,30,68,2020,summer
+Mozambique,tokyo-2020,0,0,0,4,0,30,68,2020,summer
+Belize,tokyo-2020,0,0,0,1,0,30,68,2020,summer
+Ethiopia,tokyo-2020,1,1,2,3,4,26,51,2020,summer
+Eritrea,tokyo-2020,0,0,0,2,0,30,68,2020,summer
+Trinidad and Tobago,tokyo-2020,0,0,0,7,0,30,68,2020,summer
+Luxembourg,tokyo-2020,0,0,0,6,0,30,68,2020,summer
+Costa Rica,tokyo-2020,0,0,0,6,0,30,68,2020,summer
+Paraguay,tokyo-2020,0,0,0,5,0,30,68,2020,summer
+Namibia,tokyo-2020,0,1,0,6,1,29,63,2020,summer
+"Hong Kong, China",tokyo-2020,1,2,3,14,6,24,45,2020,summer
+Rwanda,tokyo-2020,0,0,0,2,0,30,68,2020,summer
+Burkina Faso,tokyo-2020,0,0,1,4,1,29,67,2020,summer
+Panama,tokyo-2020,0,0,0,4,0,30,68,2020,summer
+Zambia,tokyo-2020,0,0,0,3,0,30,68,2020,summer
+Côte d'Ivoire,tokyo-2020,0,0,1,5,1,29,67,2020,summer
+Honduras,tokyo-2020,0,0,0,4,0,30,68,2020,summer
+Mauritius,tokyo-2020,0,0,0,4,0,30,68,2020,summer
+Eswatini,tokyo-2020,0,0,0,1,0,30,68,2020,summer
+Uganda,tokyo-2020,2,1,1,3,4,26,36,2020,summer
+Cameroon,tokyo-2020,0,0,0,5,0,30,68,2020,summer
+Haiti,tokyo-2020,0,0,0,3,0,30,68,2020,summer
+Democratic Republic of the Congo,tokyo-2020,0,0,0,3,0,30,68,2020,summer
+Tajikistan,tokyo-2020,0,0,0,2,0,30,68,2020,summer
+Ghana,tokyo-2020,0,0,1,4,1,29,67,2020,summer
+Kenya,tokyo-2020,4,4,2,6,10,20,19,2020,summer
+Guyana,tokyo-2020,0,0,0,2,0,30,68,2020,summer
+Burundi,tokyo-2020,0,0,0,2,0,30,68,2020,summer
+Botswana,tokyo-2020,0,0,1,2,1,29,67,2020,summer
+Cape Verde,tokyo-2020,0,0,0,2,0,30,68,2020,summer
+Somalia,tokyo-2020,0,0,0,1,0,30,68,2020,summer
+El Salvador,tokyo-2020,0,0,0,2,0,30,68,2020,summer
+Antigua and Barbuda,tokyo-2020,0,0,0,2,0,30,68,2020,summer
+Papua New Guinea,tokyo-2020,0,0,0,3,0,30,68,2020,summer
+Liechtenstein,tokyo-2020,0,0,0,2,0,30,68,2020,summer
+Angola,tokyo-2020,0,0,0,3,0,30,68,2020,summer
+Fiji,tokyo-2020,1,0,1,4,2,28,53,2020,summer
+Bermuda,tokyo-2020,1,0,0,2,1,29,54,2020,summer
+Syrian Arab Republic,tokyo-2020,0,0,1,4,1,29,67,2020,summer
+Vanuatu,tokyo-2020,0,0,0,3,0,30,68,2020,summer
+Togo,tokyo-2020,0,0,0,2,0,30,68,2020,summer
+Monaco,tokyo-2020,0,0,0,3,0,30,68,2020,summer
+Andorra,tokyo-2020,0,0,0,1,0,30,68,2020,summer
+Mali,tokyo-2020,0,0,0,1,0,30,68,2020,summer
+Gabon,tokyo-2020,0,0,0,2,0,30,68,2020,summer
+Niger,tokyo-2020,0,0,0,2,0,30,68,2020,summer
+Tonga,tokyo-2020,0,0,0,2,0,30,68,2020,summer
+Suriname,tokyo-2020,0,0,0,2,0,30,68,2020,summer
+Maldives,tokyo-2020,0,0,0,1,0,30,68,2020,summer
+Guinea-Bissau,tokyo-2020,0,0,0,2,0,30,68,2020,summer
+Guam,tokyo-2020,0,0,0,2,0,30,68,2020,summer
+Guinea,tokyo-2020,0,0,0,2,0,30,68,2020,summer
+Bolivia,tokyo-2020,0,0,0,2,0,30,68,2020,summer
+Zimbabwe,tokyo-2020,0,0,0,2,0,30,68,2020,summer
+Chad,tokyo-2020,0,0,0,2,0,30,68,2020,summer
+Kiribati,tokyo-2020,0,0,0,2,0,30,68,2020,summer
+Comoros,tokyo-2020,0,0,0,1,0,30,68,2020,summer
+Uruguay,tokyo-2020,0,0,0,3,0,30,68,2020,summer
+Sierra Leone,tokyo-2020,0,0,0,1,0,30,68,2020,summer
+Palestine,tokyo-2020,0,0,0,2,0,30,68,2020,summer
+Sudan,tokyo-2020,0,0,0,2,0,30,68,2020,summer
+Djibouti,tokyo-2020,0,0,0,1,0,30,68,2020,summer
+Gambia,tokyo-2020,0,0,0,1,0,30,68,2020,summer
+Malawi,tokyo-2020,0,0,0,2,0,30,68,2020,summer
+Libya,tokyo-2020,0,0,0,2,0,30,68,2020,summer
+Benin,tokyo-2020,0,0,0,3,0,30,68,2020,summer
+Seychelles,tokyo-2020,0,0,0,2,0,30,68,2020,summer
+Lao People's Democratic Republic,tokyo-2020,0,0,0,1,0,30,68,2020,summer
+Madagascar,tokyo-2020,0,0,0,2,0,30,68,2020,summer
+Turkmenistan,tokyo-2020,0,1,0,2,1,29,63,2020,summer
+"Virgin Islands, US",tokyo-2020,0,0,0,1,0,30,68,2020,summer
+Solomon Islands,tokyo-2020,0,0,0,2,0,30,68,2020,summer
+Nauru,tokyo-2020,0,0,0,1,0,30,68,2020,summer
+American Samoa,tokyo-2020,0,0,0,2,0,30,68,2020,summer
+"Virgin Islands, British",tokyo-2020,0,0,0,1,0,30,68,2020,summer
+Lesotho,tokyo-2020,0,0,0,1,0,30,68,2020,summer
+United Republic of Tanzania,tokyo-2020,0,0,0,1,0,30,68,2020,summer
+Liberia,tokyo-2020,0,0,0,1,0,30,68,2020,summer
+Bahamas,tokyo-2020,2,0,0,1,2,28,40,2020,summer
+Dominica,tokyo-2020,0,0,0,1,0,30,68,2020,summer
+Grenada,tokyo-2020,0,0,1,1,1,29,67,2020,summer
+Saint Lucia,tokyo-2020,0,0,0,1,0,30,68,2020,summer
+Great Britain,pyeongchang-2018,1,0,4,11,5,14,19,2018,winter
+Germany,pyeongchang-2018,14,10,7,14,31,2,2,2018,winter
+Austria,pyeongchang-2018,5,3,6,11,14,8,10,2018,winter
+Latvia,pyeongchang-2018,0,0,1,9,1,17,26,2018,winter
+Netherlands,pyeongchang-2018,8,6,6,4,20,5,5,2018,winter
+Canada,pyeongchang-2018,11,8,10,14,29,3,3,2018,winter
+Switzerland,pyeongchang-2018,5,6,4,14,15,7,8,2018,winter
+United States of America,pyeongchang-2018,9,8,6,15,23,4,4,2018,winter
+Belgium,pyeongchang-2018,0,1,0,9,1,17,24,2018,winter
+Republic of Korea,pyeongchang-2018,5,8,4,15,17,6,7,2018,winter
+Australia,pyeongchang-2018,0,2,1,10,3,15,22,2018,winter
+Romania,pyeongchang-2018,0,0,0,8,0,18,27,2018,winter
+Japan,pyeongchang-2018,4,5,4,13,13,9,11,2018,winter
+Nigeria,pyeongchang-2018,0,0,0,2,0,18,27,2018,winter
+Olympic Athletes from Russia,pyeongchang-2018,2,6,9,15,17,6,13,2018,winter
+Ukraine,pyeongchang-2018,1,0,0,8,1,17,21,2018,winter
+People's Republic of China,pyeongchang-2018,1,6,2,12,9,11,16,2018,winter
+New Zealand,pyeongchang-2018,0,0,2,5,2,16,25,2018,winter
+Norway,pyeongchang-2018,14,14,11,11,39,1,1,2018,winter
+Spain,pyeongchang-2018,0,0,2,5,2,16,25,2018,winter
+Italy,pyeongchang-2018,3,2,5,14,10,10,12,2018,winter
+Israel,pyeongchang-2018,0,0,0,4,0,18,27,2018,winter
+Jamaica,pyeongchang-2018,0,0,0,2,0,18,27,2018,winter
+Ghana,pyeongchang-2018,0,0,0,1,0,18,27,2018,winter
+France,pyeongchang-2018,5,4,6,11,15,7,9,2018,winter
+Sweden,pyeongchang-2018,7,6,1,8,14,8,6,2018,winter
+Poland,pyeongchang-2018,1,0,1,11,2,16,20,2018,winter
+Estonia,pyeongchang-2018,0,0,0,6,0,18,27,2018,winter
+Belarus,pyeongchang-2018,2,1,0,6,3,15,15,2018,winter
+Czech Republic,pyeongchang-2018,2,2,3,13,7,12,14,2018,winter
+Finland,pyeongchang-2018,1,1,4,11,6,13,18,2018,winter
+Colombia,pyeongchang-2018,0,0,0,3,0,18,27,2018,winter
+Kazakhstan,pyeongchang-2018,0,0,1,9,1,17,26,2018,winter
+Chinese Taipei,pyeongchang-2018,0,0,0,2,0,18,27,2018,winter
+Hungary,pyeongchang-2018,1,0,0,6,1,17,21,2018,winter
+Denmark,pyeongchang-2018,0,0,0,5,0,18,27,2018,winter
+Slovenia,pyeongchang-2018,0,1,1,9,2,16,23,2018,winter
+Bulgaria,pyeongchang-2018,0,0,0,6,0,18,27,2018,winter
+Lithuania,pyeongchang-2018,0,0,0,3,0,18,27,2018,winter
+Slovakia,pyeongchang-2018,1,2,0,7,3,15,17,2018,winter
+Argentina,pyeongchang-2018,0,0,0,4,0,18,27,2018,winter
+Andorra,pyeongchang-2018,0,0,0,3,0,18,27,2018,winter
+Brazil,pyeongchang-2018,0,0,0,5,0,18,27,2018,winter
+Ireland,pyeongchang-2018,0,0,0,4,0,18,27,2018,winter
+Chile,pyeongchang-2018,0,0,0,3,0,18,27,2018,winter
+Mexico,pyeongchang-2018,0,0,0,3,0,18,27,2018,winter
+Turkey,pyeongchang-2018,0,0,0,4,0,18,27,2018,winter
+Democratic People's Republic of Korea,pyeongchang-2018,0,0,0,4,0,18,27,2018,winter
+Uzbekistan,pyeongchang-2018,0,0,0,2,0,18,27,2018,winter
+Georgia,pyeongchang-2018,0,0,0,3,0,18,27,2018,winter
+Singapore,pyeongchang-2018,0,0,0,1,0,18,27,2018,winter
+Serbia,pyeongchang-2018,0,0,0,2,0,18,27,2018,winter
+Bosnia and Herzegovina,pyeongchang-2018,0,0,0,2,0,18,27,2018,winter
+Monaco,pyeongchang-2018,0,0,0,2,0,18,27,2018,winter
+Croatia,pyeongchang-2018,0,0,0,4,0,18,27,2018,winter
+Kosovo,pyeongchang-2018,0,0,0,1,0,18,27,2018,winter
+Liechtenstein,pyeongchang-2018,0,0,1,2,1,17,26,2018,winter
+Bolivia,pyeongchang-2018,0,0,0,2,0,18,27,2018,winter
+Republic of Moldova,pyeongchang-2018,0,0,0,2,0,18,27,2018,winter
+Greece,pyeongchang-2018,0,0,0,2,0,18,27,2018,winter
+Albania,pyeongchang-2018,0,0,0,1,0,18,27,2018,winter
+Morocco,pyeongchang-2018,0,0,0,2,0,18,27,2018,winter
+Islamic Republic of Iran,pyeongchang-2018,0,0,0,2,0,18,27,2018,winter
+Eritrea,pyeongchang-2018,0,0,0,1,0,18,27,2018,winter
+Luxembourg,pyeongchang-2018,0,0,0,1,0,18,27,2018,winter
+Kyrgyzstan,pyeongchang-2018,0,0,0,2,0,18,27,2018,winter
+Montenegro,pyeongchang-2018,0,0,0,2,0,18,27,2018,winter
+San Marino,pyeongchang-2018,0,0,0,1,0,18,27,2018,winter
+Portugal,pyeongchang-2018,0,0,0,2,0,18,27,2018,winter
+Malaysia,pyeongchang-2018,0,0,0,1,0,18,27,2018,winter
+Philippines,pyeongchang-2018,0,0,0,1,0,18,27,2018,winter
+Lebanon,pyeongchang-2018,0,0,0,2,0,18,27,2018,winter
+Pakistan,pyeongchang-2018,0,0,0,2,0,18,27,2018,winter
+Puerto Rico,pyeongchang-2018,0,0,0,1,0,18,27,2018,winter
+Iceland,pyeongchang-2018,0,0,0,2,0,18,27,2018,winter
+The Former Yugoslav Republic of Macedonia,pyeongchang-2018,0,0,0,2,0,18,27,2018,winter
+Thailand,pyeongchang-2018,0,0,0,2,0,18,27,2018,winter
+Cyprus,pyeongchang-2018,0,0,0,1,0,18,27,2018,winter
+South Africa,pyeongchang-2018,0,0,0,1,0,18,27,2018,winter
+Armenia,pyeongchang-2018,0,0,0,2,0,18,27,2018,winter
+Azerbaijan,pyeongchang-2018,0,0,0,1,0,18,27,2018,winter
+Democratic Republic of Timor-Leste,pyeongchang-2018,0,0,0,1,0,18,27,2018,winter
+Madagascar,pyeongchang-2018,0,0,0,1,0,18,27,2018,winter
+Malta,pyeongchang-2018,0,0,0,1,0,18,27,2018,winter
+"Hong Kong, China",pyeongchang-2018,0,0,0,1,0,18,27,2018,winter
+Kenya,pyeongchang-2018,0,0,0,1,0,18,27,2018,winter
+India,pyeongchang-2018,0,0,0,2,0,18,27,2018,winter
+Korea Team,pyeongchang-2018,0,0,0,1,0,18,27,2018,winter
+Mongolia,pyeongchang-2018,0,0,0,1,0,18,27,2018,winter
+Bermuda,pyeongchang-2018,0,0,0,1,0,18,27,2018,winter
+Ecuador,pyeongchang-2018,0,0,0,1,0,18,27,2018,winter
+Tonga,pyeongchang-2018,0,0,0,1,0,18,27,2018,winter
+Togo,pyeongchang-2018,0,0,0,1,0,18,27,2018,winter
+Colombia,rio-2016,3,2,3,24,8,19,23,2016,summer
+United States of America,rio-2016,46,37,38,39,121,1,1,2016,summer
+Venezuela,rio-2016,0,2,1,22,3,24,53,2016,summer
+Russian Federation,rio-2016,19,17,20,35,56,4,4,2016,summer
+Belgium,rio-2016,2,2,2,24,6,21,35,2016,summer
+Netherlands,rio-2016,8,7,4,29,19,11,11,2016,summer
+France,rio-2016,10,18,14,38,42,5,7,2016,summer
+Australia,rio-2016,8,11,10,36,29,7,10,2016,summer
+Argentina,rio-2016,3,1,0,28,4,23,27,2016,summer
+Thailand,rio-2016,2,2,2,16,6,21,35,2016,summer
+Denmark,rio-2016,2,6,7,19,15,14,28,2016,summer
+Germany,rio-2016,17,10,15,35,42,5,5,2016,summer
+Brazil,rio-2016,7,6,6,40,19,11,13,2016,summer
+Canada,rio-2016,4,3,15,38,22,9,20,2016,summer
+New Zealand,rio-2016,4,9,5,25,18,12,19,2016,summer
+Switzerland,rio-2016,3,2,2,23,7,20,24,2016,summer
+Latvia,rio-2016,0,0,0,13,0,27,63,2016,summer
+South Africa,rio-2016,2,6,2,17,10,17,30,2016,summer
+Norway,rio-2016,0,0,4,14,4,23,59,2016,summer
+Great Britain,rio-2016,27,23,17,33,67,3,2,2016,summer
+Indonesia,rio-2016,1,2,0,6,3,24,45,2016,summer
+Japan,rio-2016,12,8,21,38,41,6,6,2016,summer
+Ecuador,rio-2016,0,0,0,14,0,27,63,2016,summer
+Sweden,rio-2016,2,6,3,25,11,16,29,2016,summer
+Spain,rio-2016,7,4,6,33,17,13,14,2016,summer
+Austria,rio-2016,0,0,1,23,1,26,62,2016,summer
+Republic of Korea,rio-2016,9,3,9,26,21,10,8,2016,summer
+Ireland,rio-2016,0,2,0,16,2,25,54,2016,summer
+Paraguay,rio-2016,0,0,0,7,0,27,63,2016,summer
+Finland,rio-2016,0,0,1,16,1,26,62,2016,summer
+Italy,rio-2016,8,12,8,32,28,8,9,2016,summer
+People's Republic of China,rio-2016,26,18,26,35,70,2,3,2016,summer
+Chinese Taipei,rio-2016,1,0,2,18,3,24,48,2016,summer
+Mexico,rio-2016,0,3,2,28,5,22,52,2016,summer
+Chile,rio-2016,0,0,0,16,0,27,63,2016,summer
+Malaysia,rio-2016,0,4,1,10,5,22,51,2016,summer
+Portugal,rio-2016,0,0,1,18,1,26,62,2016,summer
+India,rio-2016,0,1,1,15,2,25,57,2016,summer
+Philippines,rio-2016,0,1,0,8,1,26,58,2016,summer
+Bangladesh,rio-2016,0,0,0,4,0,27,63,2016,summer
+Israel,rio-2016,0,0,2,16,2,25,61,2016,summer
+"Hong Kong, China",rio-2016,0,0,0,11,0,27,63,2016,summer
+Czech Republic,rio-2016,1,2,7,23,10,17,42,2016,summer
+Morocco,rio-2016,0,0,1,13,1,26,62,2016,summer
+Serbia,rio-2016,2,4,2,15,8,19,32,2016,summer
+Croatia,rio-2016,5,3,2,18,10,17,17,2016,summer
+Lithuania,rio-2016,0,1,3,15,4,23,55,2016,summer
+Nigeria,rio-2016,0,0,1,10,1,26,62,2016,summer
+Turkey,rio-2016,1,3,4,20,8,19,40,2016,summer
+Belarus,rio-2016,1,4,4,22,9,18,39,2016,summer
+Senegal,rio-2016,0,0,0,7,0,27,63,2016,summer
+Fiji,rio-2016,1,0,0,9,1,26,50,2016,summer
+Kenya,rio-2016,6,6,1,7,13,15,15,2016,summer
+Bulgaria,rio-2016,0,1,2,15,3,24,56,2016,summer
+Ukraine,rio-2016,2,5,4,27,11,16,31,2016,summer
+Uzbekistan,rio-2016,4,2,7,14,13,15,21,2016,summer
+Greece,rio-2016,3,1,2,19,6,21,26,2016,summer
+Azerbaijan,rio-2016,1,7,10,17,18,12,38,2016,summer
+Kazakhstan,rio-2016,3,5,10,21,18,12,22,2016,summer
+Georgia,rio-2016,2,1,4,12,7,20,37,2016,summer
+Romania,rio-2016,1,1,2,15,4,23,46,2016,summer
+Cape Verde,rio-2016,0,0,0,3,0,27,63,2016,summer
+Hungary,rio-2016,8,3,4,19,15,14,12,2016,summer
+Tunisia,rio-2016,0,0,3,18,3,24,60,2016,summer
+Estonia,rio-2016,0,0,1,13,1,26,62,2016,summer
+Ivory Coast,rio-2016,1,0,1,6,2,25,49,2016,summer
+Vietnam,rio-2016,1,1,0,9,2,25,47,2016,summer
+Egypt,rio-2016,0,0,3,22,3,24,60,2016,summer
+Algeria,rio-2016,0,2,0,12,2,25,54,2016,summer
+Poland,rio-2016,2,3,6,27,11,16,33,2016,summer
+Panama,rio-2016,0,0,0,6,0,27,63,2016,summer
+Lebanon,rio-2016,0,0,0,7,0,27,63,2016,summer
+Saudi Arabia,rio-2016,0,0,0,5,0,27,63,2016,summer
+Islamic Republic of Iran,rio-2016,3,1,4,15,8,19,25,2016,summer
+Benin,rio-2016,0,0,0,3,0,27,63,2016,summer
+Cuba,rio-2016,5,2,4,20,11,16,18,2016,summer
+Independent Olympic Athletes,rio-2016,1,0,1,3,2,25,49,2016,summer
+Zimbabwe,rio-2016,0,0,0,7,0,27,63,2016,summer
+Honduras,rio-2016,0,0,0,6,0,27,63,2016,summer
+Iraq,rio-2016,0,0,0,5,0,27,63,2016,summer
+Guatemala,rio-2016,0,0,0,9,0,27,63,2016,summer
+Qatar,rio-2016,0,1,0,10,1,26,58,2016,summer
+Uruguay,rio-2016,0,0,0,8,0,27,63,2016,summer
+Peru,rio-2016,0,0,0,10,0,27,63,2016,summer
+Democratic People's Republic of Korea,rio-2016,2,3,2,9,7,20,34,2016,summer
+Mongolia,rio-2016,0,1,1,9,2,25,57,2016,summer
+Singapore,rio-2016,1,0,0,7,1,26,50,2016,summer
+Malta,rio-2016,0,0,0,3,0,27,63,2016,summer
+Pakistan,rio-2016,0,0,0,3,0,27,63,2016,summer
+Slovakia,rio-2016,2,2,0,14,4,23,36,2016,summer
+Myanmar,rio-2016,0,0,0,4,0,27,63,2016,summer
+Bolivia,rio-2016,0,0,0,5,0,27,63,2016,summer
+Oman,rio-2016,0,0,0,1,0,27,63,2016,summer
+United Arab Emirates,rio-2016,0,0,1,6,1,26,62,2016,summer
+El Salvador,rio-2016,0,0,0,6,0,27,63,2016,summer
+Namibia,rio-2016,0,0,0,5,0,27,63,2016,summer
+San Marino,rio-2016,0,0,0,1,0,27,63,2016,summer
+Slovenia,rio-2016,1,2,1,14,4,23,44,2016,summer
+Bosnia and Herzegovina,rio-2016,0,0,0,5,0,27,63,2016,summer
+The Former Yugoslav Republic of Macedonia,rio-2016,0,0,0,3,0,27,63,2016,summer
+Puerto Rico,rio-2016,1,0,0,15,1,26,50,2016,summer
+Bhutan,rio-2016,0,0,0,2,0,27,63,2016,summer
+Kosovo,rio-2016,1,0,0,4,1,26,50,2016,summer
+Andorra,rio-2016,0,0,0,3,0,27,63,2016,summer
+Cyprus,rio-2016,0,0,0,6,0,27,63,2016,summer
+Barbados,rio-2016,0,0,0,5,0,27,63,2016,summer
+Nicaragua,rio-2016,0,0,0,3,0,27,63,2016,summer
+Armenia,rio-2016,1,3,0,7,4,23,41,2016,summer
+Sri Lanka,rio-2016,0,0,0,6,0,27,63,2016,summer
+Dominican Republic,rio-2016,0,0,1,10,1,26,62,2016,summer
+Angola,rio-2016,0,0,0,6,0,27,63,2016,summer
+Bahrain,rio-2016,1,1,0,4,2,25,47,2016,summer
+Trinidad and Tobago,rio-2016,0,0,1,7,1,26,62,2016,summer
+Tajikistan,rio-2016,1,0,0,4,1,26,50,2016,summer
+Republic of Moldova,rio-2016,0,0,0,9,0,27,63,2016,summer
+Ethiopia,rio-2016,1,2,5,3,8,19,43,2016,summer
+Syrian Arab Republic,rio-2016,0,0,0,5,0,27,63,2016,summer
+Bahamas,rio-2016,1,0,1,3,2,25,49,2016,summer
+Jamaica,rio-2016,6,3,2,2,11,16,16,2016,summer
+Kyrgyzstan,rio-2016,0,0,0,6,0,27,63,2016,summer
+Palestine,rio-2016,0,0,0,4,0,27,63,2016,summer
+Uganda,rio-2016,0,0,0,3,0,27,63,2016,summer
+Eritrea,rio-2016,0,0,0,2,0,27,63,2016,summer
+Malawi,rio-2016,0,0,0,3,0,27,63,2016,summer
+United Republic of Tanzania,rio-2016,0,0,0,3,0,27,63,2016,summer
+Rwanda,rio-2016,0,0,0,4,0,27,63,2016,summer
+Cambodia,rio-2016,0,0,0,4,0,27,63,2016,summer
+Montenegro,rio-2016,0,0,0,7,0,27,63,2016,summer
+Grenada,rio-2016,0,1,0,2,1,26,58,2016,summer
+Equatorial Guinea,rio-2016,0,0,0,1,0,27,63,2016,summer
+Djibouti,rio-2016,0,0,0,3,0,27,63,2016,summer
+Burundi,rio-2016,0,1,0,3,1,26,58,2016,summer
+Cameroon,rio-2016,0,0,0,6,0,27,63,2016,summer
+Antigua and Barbuda,rio-2016,0,0,0,2,0,27,63,2016,summer
+Congo,rio-2016,0,0,0,5,0,27,63,2016,summer
+Libya,rio-2016,0,0,0,6,0,27,63,2016,summer
+South Sudan,rio-2016,0,0,0,1,0,27,63,2016,summer
+Refugee Olympic Athletes,rio-2016,0,0,0,3,0,27,63,2016,summer
+Zambia,rio-2016,0,0,0,4,0,27,63,2016,summer
+Lesotho,rio-2016,0,0,0,3,0,27,63,2016,summer
+Mauritius,rio-2016,0,0,0,7,0,27,63,2016,summer
+Democratic Republic of the Congo,rio-2016,0,0,0,3,0,27,63,2016,summer
+Jordan,rio-2016,1,0,0,6,1,26,50,2016,summer
+Botswana,rio-2016,0,0,0,3,0,27,63,2016,summer
+Guyana,rio-2016,0,0,0,2,0,27,63,2016,summer
+Saint Lucia,rio-2016,0,0,0,3,0,27,63,2016,summer
+Costa Rica,rio-2016,0,0,0,6,0,27,63,2016,summer
+Samoa,rio-2016,0,0,0,4,0,27,63,2016,summer
+Madagascar,rio-2016,0,0,0,3,0,27,63,2016,summer
+Kiribati,rio-2016,0,0,0,1,0,27,63,2016,summer
+Nauru,rio-2016,0,0,0,2,0,27,63,2016,summer
+Albania,rio-2016,0,0,0,2,0,27,63,2016,summer
+Ghana,rio-2016,0,0,0,4,0,27,63,2016,summer
+Papua New Guinea,rio-2016,0,0,0,5,0,27,63,2016,summer
+Seychelles,rio-2016,0,0,0,5,0,27,63,2016,summer
+Haiti,rio-2016,0,0,0,6,0,27,63,2016,summer
+Turkmenistan,rio-2016,0,0,0,4,0,27,63,2016,summer
+American Samoa,rio-2016,0,0,0,2,0,27,63,2016,summer
+Cook Islands,rio-2016,0,0,0,4,0,27,63,2016,summer
+Marshall Islands,rio-2016,0,0,0,2,0,27,63,2016,summer
+Solomon Islands,rio-2016,0,0,0,1,0,27,63,2016,summer
+Palau,rio-2016,0,0,0,3,0,27,63,2016,summer
+Mozambique,rio-2016,0,0,0,3,0,27,63,2016,summer
+Sao Tome and Principe,rio-2016,0,0,0,1,0,27,63,2016,summer
+Vanuatu,rio-2016,0,0,0,4,0,27,63,2016,summer
+Bermuda,rio-2016,0,0,0,4,0,27,63,2016,summer
+Togo,rio-2016,0,0,0,2,0,27,63,2016,summer
+Democratic Republic of Timor-Leste,rio-2016,0,0,0,1,0,27,63,2016,summer
+Guam,rio-2016,0,0,0,2,0,27,63,2016,summer
+Nepal,rio-2016,0,0,0,4,0,27,63,2016,summer
+Tonga,rio-2016,0,0,0,3,0,27,63,2016,summer
+US Virgin Islands,rio-2016,0,0,0,3,0,27,63,2016,summer
+Federated States of Micronesia,rio-2016,0,0,0,2,0,27,63,2016,summer
+Central African Republic,rio-2016,0,0,0,3,0,27,63,2016,summer
+Guinea-Bissau,rio-2016,0,0,0,2,0,27,63,2016,summer
+Aruba,rio-2016,0,0,0,4,0,27,63,2016,summer
+Cayman Islands,rio-2016,0,0,0,2,0,27,63,2016,summer
+Luxembourg,rio-2016,0,0,0,4,0,27,63,2016,summer
+Lao People's Democratic Republic,rio-2016,0,0,0,3,0,27,63,2016,summer
+Suriname,rio-2016,0,0,0,3,0,27,63,2016,summer
+Brunei,rio-2016,0,0,0,1,0,27,63,2016,summer
+Gabon,rio-2016,0,0,0,3,0,27,63,2016,summer
+Sudan,rio-2016,0,0,0,2,0,27,63,2016,summer
+Belize,rio-2016,0,0,0,1,0,27,63,2016,summer
+Iceland,rio-2016,0,0,0,2,0,27,63,2016,summer
+Burkina Faso,rio-2016,0,0,0,2,0,27,63,2016,summer
+Mali,rio-2016,0,0,0,3,0,27,63,2016,summer
+Afghanistan,rio-2016,0,0,0,1,0,27,63,2016,summer
+Monaco,rio-2016,0,0,0,1,0,27,63,2016,summer
+Guinea,rio-2016,0,0,0,2,0,27,63,2016,summer
+Yemen,rio-2016,0,0,0,2,0,27,63,2016,summer
+Niger,rio-2016,0,1,0,3,1,26,58,2016,summer
+Gambia,rio-2016,0,0,0,2,0,27,63,2016,summer
+Saint Vincent and the Grenadines,rio-2016,0,0,0,1,0,27,63,2016,summer
+Liechtenstein,rio-2016,0,0,0,2,0,27,63,2016,summer
+Maldives,rio-2016,0,0,0,1,0,27,63,2016,summer
+Sierra Leone,rio-2016,0,0,0,1,0,27,63,2016,summer
+Comoros,rio-2016,0,0,0,1,0,27,63,2016,summer
+British Virgin Islands,rio-2016,0,0,0,1,0,27,63,2016,summer
+Switzerland,sochi-2014,7,2,2,12,11,9,7,2014,winter
+United States of America,sochi-2014,9,9,10,15,28,2,4,2014,winter
+Latvia,sochi-2014,1,1,3,9,5,13,19,2014,winter
+Canada,sochi-2014,10,10,5,14,25,4,3,2014,winter
+Germany,sochi-2014,8,6,5,15,19,6,6,2014,winter
+Italy,sochi-2014,0,2,6,13,8,11,22,2014,winter
+Romania,sochi-2014,0,0,0,8,0,17,26,2014,winter
+Republic of Korea,sochi-2014,3,3,2,13,8,11,13,2014,winter
+Netherlands,sochi-2014,8,7,9,4,24,5,5,2014,winter
+France,sochi-2014,4,4,7,12,15,8,10,2014,winter
+Monaco,sochi-2014,0,0,0,2,0,17,26,2014,winter
+Austria,sochi-2014,4,8,5,13,17,7,9,2014,winter
+Great Britain,sochi-2014,1,1,3,10,5,13,19,2014,winter
+Czech Republic,sochi-2014,2,4,2,13,8,11,15,2014,winter
+Australia,sochi-2014,0,2,1,11,3,14,23,2014,winter
+Poland,sochi-2014,4,1,1,11,6,12,11,2014,winter
+Japan,sochi-2014,1,4,3,15,8,11,17,2014,winter
+Jamaica,sochi-2014,0,0,0,1,0,17,26,2014,winter
+Serbia,sochi-2014,0,0,0,5,0,17,26,2014,winter
+Russian Federation,sochi-2014,11,9,9,15,29,1,1,2014,winter
+Belgium,sochi-2014,0,0,0,5,0,17,26,2014,winter
+Brazil,sochi-2014,0,0,0,6,0,17,26,2014,winter
+Slovakia,sochi-2014,1,0,0,9,1,16,21,2014,winter
+Norway,sochi-2014,11,5,10,12,26,3,2,2014,winter
+Sweden,sochi-2014,2,7,6,9,15,8,14,2014,winter
+Slovenia,sochi-2014,2,2,4,8,8,11,16,2014,winter
+Kazakhstan,sochi-2014,0,0,1,10,1,16,25,2014,winter
+Ukraine,sochi-2014,1,0,1,9,2,15,20,2014,winter
+Lithuania,sochi-2014,0,0,0,5,0,17,26,2014,winter
+Belarus,sochi-2014,5,0,1,5,6,12,8,2014,winter
+Estonia,sochi-2014,0,0,0,6,0,17,26,2014,winter
+Bulgaria,sochi-2014,0,0,0,6,0,17,26,2014,winter
+People's Republic of China,sochi-2014,3,4,2,9,9,10,12,2014,winter
+Finland,sochi-2014,1,3,1,9,5,13,18,2014,winter
+Spain,sochi-2014,0,0,0,7,0,17,26,2014,winter
+Andorra,sochi-2014,0,0,0,3,0,17,26,2014,winter
+Hungary,sochi-2014,0,0,0,5,0,17,26,2014,winter
+Bosnia and Herzegovina,sochi-2014,0,0,0,3,0,17,26,2014,winter
+Republic of Moldova,sochi-2014,0,0,0,4,0,17,26,2014,winter
+Argentina,sochi-2014,0,0,0,2,0,17,26,2014,winter
+Iceland,sochi-2014,0,0,0,2,0,17,26,2014,winter
+Liechtenstein,sochi-2014,0,0,0,2,0,17,26,2014,winter
+Croatia,sochi-2014,0,1,0,3,1,16,24,2014,winter
+Chile,sochi-2014,0,0,0,3,0,17,26,2014,winter
+Denmark,sochi-2014,0,0,0,3,0,17,26,2014,winter
+Greece,sochi-2014,0,0,0,4,0,17,26,2014,winter
+Georgia,sochi-2014,0,0,0,2,0,17,26,2014,winter
+Togo,sochi-2014,0,0,0,2,0,17,26,2014,winter
+US Virgin Islands,sochi-2014,0,0,0,1,0,17,26,2014,winter
+Peru,sochi-2014,0,0,0,2,0,17,26,2014,winter
+Portugal,sochi-2014,0,0,0,1,0,17,26,2014,winter
+Albania,sochi-2014,0,0,0,1,0,17,26,2014,winter
+Morocco,sochi-2014,0,0,0,1,0,17,26,2014,winter
+Turkey,sochi-2014,0,0,0,2,0,17,26,2014,winter
+Uzbekistan,sochi-2014,0,0,0,2,0,17,26,2014,winter
+Malta,sochi-2014,0,0,0,1,0,17,26,2014,winter
+Thailand,sochi-2014,0,0,0,1,0,17,26,2014,winter
+Ireland,sochi-2014,0,0,0,4,0,17,26,2014,winter
+San Marino,sochi-2014,0,0,0,1,0,17,26,2014,winter
+New Zealand,sochi-2014,0,0,0,5,0,17,26,2014,winter
+Armenia,sochi-2014,0,0,0,2,0,17,26,2014,winter
+Islamic Republic of Iran,sochi-2014,0,0,0,2,0,17,26,2014,winter
+Azerbaijan,sochi-2014,0,0,0,2,0,17,26,2014,winter
+Zimbabwe,sochi-2014,0,0,0,1,0,17,26,2014,winter
+Kyrgyzstan,sochi-2014,0,0,0,1,0,17,26,2014,winter
+Montenegro,sochi-2014,0,0,0,1,0,17,26,2014,winter
+Cyprus,sochi-2014,0,0,0,1,0,17,26,2014,winter
+Lebanon,sochi-2014,0,0,0,1,0,17,26,2014,winter
+Pakistan,sochi-2014,0,0,0,1,0,17,26,2014,winter
+India,sochi-2014,0,0,0,2,0,17,26,2014,winter
+The Former Yugoslav Republic of Macedonia,sochi-2014,0,0,0,2,0,17,26,2014,winter
+Cayman Islands,sochi-2014,0,0,0,1,0,17,26,2014,winter
+Venezuela,sochi-2014,0,0,0,1,0,17,26,2014,winter
+Israel,sochi-2014,0,0,0,3,0,17,26,2014,winter
+Democratic Republic of Timor-Leste,sochi-2014,0,0,0,1,0,17,26,2014,winter
+Mexico,sochi-2014,0,0,0,1,0,17,26,2014,winter
+Tajikistan,sochi-2014,0,0,0,1,0,17,26,2014,winter
+"Hong Kong, China",sochi-2014,0,0,0,1,0,17,26,2014,winter
+Chinese Taipei,sochi-2014,0,0,0,3,0,17,26,2014,winter
+Luxembourg,sochi-2014,0,0,0,1,0,17,26,2014,winter
+Mongolia,sochi-2014,0,0,0,1,0,17,26,2014,winter
+Bermuda,sochi-2014,0,0,0,1,0,17,26,2014,winter
+Nepal,sochi-2014,0,0,0,1,0,17,26,2014,winter
+Dominica,sochi-2014,0,0,0,1,0,17,26,2014,winter
+Philippines,sochi-2014,0,0,0,1,0,17,26,2014,winter
+Tonga,sochi-2014,0,0,0,1,0,17,26,2014,winter
+Independent Olympic Athletes,sochi-2014,0,0,0,1,0,17,26,2014,winter
+British Virgin Islands,sochi-2014,0,0,0,1,0,17,26,2014,winter
+Paraguay,sochi-2014,0,0,0,1,0,17,26,2014,winter
+United States of America,london-2012,46,28,30,38,104,1,1,2012,summer
+Australia,london-2012,8,15,12,35,35,7,8,2012,summer
+Japan,london-2012,7,14,17,35,38,6,11,2012,summer
+Russian Federation,london-2012,20,19,28,35,67,3,4,2012,summer
+Great Britain,london-2012,29,17,19,38,65,4,3,2012,summer
+People's Republic of China,london-2012,38,31,22,33,91,2,2,2012,summer
+Canada,london-2012,2,5,11,35,18,12,26,2012,summer
+Czech Republic,london-2012,4,3,4,24,11,17,19,2012,summer
+France,london-2012,11,11,13,35,35,7,7,2012,summer
+Italy,london-2012,8,9,11,33,28,9,9,2012,summer
+Zimbabwe,london-2012,0,0,0,4,0,28,56,2012,summer
+Denmark,london-2012,2,4,3,18,9,19,30,2012,summer
+Ukraine,london-2012,5,4,10,28,19,11,15,2012,summer
+Spain,london-2012,4,10,4,31,18,12,17,2012,summer
+Netherlands,london-2012,6,6,8,23,20,10,12,2012,summer
+Germany,london-2012,11,20,13,33,44,5,6,2012,summer
+Mexico,london-2012,1,3,4,24,8,20,37,2012,summer
+Brazil,london-2012,3,5,9,33,17,13,22,2012,summer
+Poland,london-2012,3,1,7,29,11,17,24,2012,summer
+Singapore,london-2012,0,0,2,7,2,26,54,2012,summer
+Colombia,london-2012,1,3,4,21,8,20,37,2012,summer
+Belgium,london-2012,0,1,2,23,3,25,51,2012,summer
+New Zealand,london-2012,6,2,5,21,13,15,14,2012,summer
+Bulgaria,london-2012,0,2,1,18,3,25,49,2012,summer
+Iceland,london-2012,0,0,0,6,0,28,56,2012,summer
+Ireland,london-2012,1,1,4,17,6,22,39,2012,summer
+Slovenia,london-2012,1,1,2,16,4,24,40,2012,summer
+Sweden,london-2012,1,4,3,23,8,20,36,2012,summer
+Croatia,london-2012,3,1,2,18,6,22,25,2012,summer
+Hungary,london-2012,8,4,6,23,18,12,10,2012,summer
+Kazakhstan,london-2012,3,1,7,20,11,17,24,2012,summer
+"Hong Kong, China",london-2012,0,0,1,15,1,27,55,2012,summer
+Turkey,london-2012,1,1,1,15,3,25,41,2012,summer
+Honduras,london-2012,0,0,0,7,0,28,56,2012,summer
+Andorra,london-2012,0,0,0,4,0,28,56,2012,summer
+Uruguay,london-2012,0,0,0,7,0,28,56,2012,summer
+Armenia,london-2012,0,1,1,8,2,26,52,2012,summer
+Monaco,london-2012,0,0,0,6,0,28,56,2012,summer
+South Africa,london-2012,4,1,1,21,6,22,20,2012,summer
+Serbia,london-2012,1,1,2,15,4,24,40,2012,summer
+Austria,london-2012,0,0,0,21,0,28,56,2012,summer
+Kenya,london-2012,2,4,6,4,12,16,29,2012,summer
+Papua New Guinea,london-2012,0,0,0,4,0,28,56,2012,summer
+Republic of Korea,london-2012,13,9,8,26,30,8,5,2012,summer
+Venezuela,london-2012,1,0,0,18,1,27,44,2012,summer
+Portugal,london-2012,0,1,0,16,1,27,53,2012,summer
+Switzerland,london-2012,2,2,0,22,4,24,32,2012,summer
+Belarus,london-2012,2,5,3,24,10,18,27,2012,summer
+Paraguay,london-2012,0,0,0,6,0,28,56,2012,summer
+Azerbaijan,london-2012,2,2,6,14,10,18,31,2012,summer
+Lithuania,london-2012,2,0,3,16,5,23,34,2012,summer
+Greece,london-2012,0,0,2,23,2,26,54,2012,summer
+Libya,london-2012,0,0,0,3,0,28,56,2012,summer
+Iraq,london-2012,0,0,0,6,0,28,56,2012,summer
+Bahrain,london-2012,1,0,0,3,1,27,44,2012,summer
+Israel,london-2012,0,0,0,10,0,28,56,2012,summer
+Uzbekistan,london-2012,0,0,2,13,2,26,54,2012,summer
+Slovakia,london-2012,0,1,3,12,4,24,50,2012,summer
+Chinese Taipei,london-2012,1,0,1,15,2,26,43,2012,summer
+Finland,london-2012,0,2,1,13,3,25,49,2012,summer
+Cuba,london-2012,5,3,7,15,15,14,16,2012,summer
+Jamaica,london-2012,4,5,3,4,12,16,18,2012,summer
+Morocco,london-2012,0,0,1,12,1,27,55,2012,summer
+Saint Lucia,london-2012,0,0,0,3,0,28,56,2012,summer
+Republic of Moldova,london-2012,0,0,0,9,0,28,56,2012,summer
+Bosnia and Herzegovina,london-2012,0,0,0,4,0,28,56,2012,summer
+Guam,london-2012,0,0,0,5,0,28,56,2012,summer
+Fiji,london-2012,0,0,0,5,0,28,56,2012,summer
+Mongolia,london-2012,0,2,3,7,5,23,47,2012,summer
+Guinea,london-2012,0,0,0,2,0,28,56,2012,summer
+Luxembourg,london-2012,0,0,0,7,0,28,56,2012,summer
+Georgia,london-2012,1,2,3,11,6,22,38,2012,summer
+Thailand,london-2012,0,2,2,14,4,24,48,2012,summer
+Kyrgyzstan,london-2012,0,0,0,8,0,28,56,2012,summer
+Madagascar,london-2012,0,0,0,5,0,28,56,2012,summer
+Estonia,london-2012,0,1,1,11,2,26,52,2012,summer
+Panama,london-2012,0,0,0,5,0,28,56,2012,summer
+Romania,london-2012,2,5,2,15,9,19,28,2012,summer
+Senegal,london-2012,0,0,0,8,0,28,56,2012,summer
+Syrian Arab Republic,london-2012,0,0,0,7,0,28,56,2012,summer
+Tonga,london-2012,0,0,0,2,0,28,56,2012,summer
+United Arab Emirates,london-2012,0,0,0,5,0,28,56,2012,summer
+Suriname,london-2012,0,0,0,2,0,28,56,2012,summer
+Lebanon,london-2012,0,0,0,6,0,28,56,2012,summer
+Norway,london-2012,2,1,1,16,4,24,33,2012,summer
+Trinidad and Tobago,london-2012,1,1,2,6,4,24,40,2012,summer
+Indonesia,london-2012,0,2,1,8,3,25,49,2012,summer
+Barbados,london-2012,0,0,0,3,0,28,56,2012,summer
+Argentina,london-2012,1,1,2,28,4,24,40,2012,summer
+Sri Lanka,london-2012,0,0,0,4,0,28,56,2012,summer
+Zambia,london-2012,0,0,0,3,0,28,56,2012,summer
+Bermuda,london-2012,0,0,0,5,0,28,56,2012,summer
+Cayman Islands,london-2012,0,0,0,2,0,28,56,2012,summer
+Egypt,london-2012,0,3,1,21,4,24,45,2012,summer
+Swaziland,london-2012,0,0,0,1,0,28,56,2012,summer
+Jordan,london-2012,0,0,0,5,0,28,56,2012,summer
+Mozambique,london-2012,0,0,0,3,0,28,56,2012,summer
+Bangladesh,london-2012,0,0,0,3,0,28,56,2012,summer
+Federated States of Micronesia,london-2012,0,0,0,3,0,28,56,2012,summer
+Cook Islands,london-2012,0,0,0,5,0,28,56,2012,summer
+Burkina Faso,london-2012,0,0,0,2,0,28,56,2012,summer
+Congo,london-2012,0,0,0,2,0,28,56,2012,summer
+Ivory Coast,london-2012,0,0,0,6,0,28,56,2012,summer
+Saint Vincent and the Grenadines,london-2012,0,0,0,1,0,28,56,2012,summer
+Marshall Islands,london-2012,0,0,0,1,0,28,56,2012,summer
+Nepal,london-2012,0,0,0,2,0,28,56,2012,summer
+Cambodia,london-2012,0,0,0,3,0,28,56,2012,summer
+Djibouti,london-2012,0,0,0,4,0,28,56,2012,summer
+Sudan,london-2012,0,0,0,2,0,28,56,2012,summer
+American Samoa,london-2012,0,0,0,3,0,28,56,2012,summer
+Rwanda,london-2012,0,0,0,4,0,28,56,2012,summer
+Uganda,london-2012,1,0,0,4,1,27,44,2012,summer
+Cameroon,london-2012,0,0,1,9,1,27,55,2012,summer
+Central African Republic,london-2012,0,0,0,3,0,28,56,2012,summer
+Lao People's Democratic Republic,london-2012,0,0,0,1,0,28,56,2012,summer
+Ethiopia,london-2012,3,2,2,2,7,21,23,2012,summer
+Benin,london-2012,0,0,0,4,0,28,56,2012,summer
+Ecuador,london-2012,0,0,0,13,0,28,56,2012,summer
+Angola,london-2012,0,0,0,6,0,28,56,2012,summer
+The Former Yugoslav Republic of Macedonia,london-2012,0,0,0,1,0,28,56,2012,summer
+El Salvador,london-2012,0,0,0,7,0,28,56,2012,summer
+Qatar,london-2012,0,0,2,4,2,26,54,2012,summer
+Tunisia,london-2012,2,0,1,17,3,25,35,2012,summer
+Cyprus,london-2012,0,1,0,7,1,27,53,2012,summer
+Mauritius,london-2012,0,0,0,6,0,28,56,2012,summer
+Seychelles,london-2012,0,0,0,3,0,28,56,2012,summer
+Nicaragua,london-2012,0,0,0,3,0,28,56,2012,summer
+Albania,london-2012,0,0,0,4,0,28,56,2012,summer
+Dominican Republic,london-2012,1,1,0,10,2,26,42,2012,summer
+Costa Rica,london-2012,0,0,0,7,0,28,56,2012,summer
+Peru,london-2012,0,0,0,9,0,28,56,2012,summer
+Philippines,london-2012,0,0,0,7,0,28,56,2012,summer
+Puerto Rico,london-2012,0,1,1,8,2,26,52,2012,summer
+Brunei,london-2012,0,0,0,1,0,28,56,2012,summer
+Chile,london-2012,0,0,0,18,0,28,56,2012,summer
+Liechtenstein,london-2012,0,0,0,3,0,28,56,2012,summer
+Malaysia,london-2012,0,1,1,10,2,26,52,2012,summer
+Aruba,london-2012,0,0,0,3,0,28,56,2012,summer
+Bahamas,london-2012,1,0,0,2,1,27,44,2012,summer
+Latvia,london-2012,1,0,1,12,2,26,43,2012,summer
+Malta,london-2012,0,0,0,2,0,28,56,2012,summer
+Malawi,london-2012,0,0,0,2,0,28,56,2012,summer
+Kuwait,london-2012,0,0,1,4,1,27,55,2012,summer
+Palau,london-2012,0,0,0,3,0,28,56,2012,summer
+Palestine,london-2012,0,0,0,2,0,28,56,2012,summer
+Antigua and Barbuda,london-2012,0,0,0,1,0,28,56,2012,summer
+Tajikistan,london-2012,0,0,1,7,1,27,55,2012,summer
+Mali,london-2012,0,0,0,4,0,28,56,2012,summer
+Maldives,london-2012,0,0,0,2,0,28,56,2012,summer
+Burundi,london-2012,0,0,0,3,0,28,56,2012,summer
+Niger,london-2012,0,0,0,4,0,28,56,2012,summer
+Togo,london-2012,0,0,0,5,0,28,56,2012,summer
+Lesotho,london-2012,0,0,0,2,0,28,56,2012,summer
+Turkmenistan,london-2012,0,0,0,4,0,28,56,2012,summer
+India,london-2012,0,2,4,13,6,22,46,2012,summer
+Algeria,london-2012,1,0,0,12,1,27,44,2012,summer
+US Virgin Islands,london-2012,0,0,0,2,0,28,56,2012,summer
+Guatemala,london-2012,0,1,0,11,1,27,53,2012,summer
+Bolivia,london-2012,0,0,0,3,0,28,56,2012,summer
+Islamic Republic of Iran,london-2012,6,6,1,14,13,15,13,2012,summer
+Grenada,london-2012,1,0,0,3,1,27,44,2012,summer
+Guyana,london-2012,0,0,0,2,0,28,56,2012,summer
+Pakistan,london-2012,0,0,0,3,0,28,56,2012,summer
+United Republic of Tanzania,london-2012,0,0,0,3,0,28,56,2012,summer
+San Marino,london-2012,0,0,0,3,0,28,56,2012,summer
+Comoros,london-2012,0,0,0,1,0,28,56,2012,summer
+Vietnam,london-2012,0,0,0,11,0,28,56,2012,summer
+Democratic People's Republic of Korea,london-2012,4,0,2,11,6,22,21,2012,summer
+Saudi Arabia,london-2012,0,0,1,5,1,27,55,2012,summer
+Nigeria,london-2012,0,0,0,8,0,28,56,2012,summer
+Namibia,london-2012,0,0,0,6,0,28,56,2012,summer
+Gabon,london-2012,0,1,0,4,1,27,53,2012,summer
+Montenegro,london-2012,0,1,0,7,1,27,53,2012,summer
+Independent Olympic Athletes,london-2012,0,0,0,3,0,28,56,2012,summer
+Botswana,london-2012,0,1,0,2,1,27,53,2012,summer
+Eritrea,london-2012,0,0,0,2,0,28,56,2012,summer
+Haiti,london-2012,0,0,0,2,0,28,56,2012,summer
+Saint Kitts and Nevis,london-2012,0,0,0,1,0,28,56,2012,summer
+Oman,london-2012,0,0,0,2,0,28,56,2012,summer
+Myanmar,london-2012,0,0,0,5,0,28,56,2012,summer
+Democratic Republic of Timor-Leste,london-2012,0,0,0,1,0,28,56,2012,summer
+Ghana,london-2012,0,0,0,4,0,28,56,2012,summer
+Liberia,london-2012,0,0,0,2,0,28,56,2012,summer
+Democratic Republic of the Congo,london-2012,0,0,0,3,0,28,56,2012,summer
+Samoa,london-2012,0,0,0,5,0,28,56,2012,summer
+Bhutan,london-2012,0,0,0,2,0,28,56,2012,summer
+Guinea-Bissau,london-2012,0,0,0,1,0,28,56,2012,summer
+Afghanistan,london-2012,0,0,1,3,1,27,55,2012,summer
+Vanuatu,london-2012,0,0,0,2,0,28,56,2012,summer
+Nauru,london-2012,0,0,0,2,0,28,56,2012,summer
+Tuvalu,london-2012,0,0,0,1,0,28,56,2012,summer
+Kiribati,london-2012,0,0,0,1,0,28,56,2012,summer
+Solomon Islands,london-2012,0,0,0,2,0,28,56,2012,summer
+Chad,london-2012,0,0,0,1,0,28,56,2012,summer
+Belize,london-2012,0,0,0,1,0,28,56,2012,summer
+Cape Verde,london-2012,0,0,0,1,0,28,56,2012,summer
+Yemen,london-2012,0,0,0,2,0,28,56,2012,summer
+Canada,vancouver-2010,14,7,5,15,26,3,1,2010,winter
+United States of America,vancouver-2010,9,15,13,15,37,1,3,2010,winter
+Russian Federation,vancouver-2010,3,5,7,15,15,6,10,2010,winter
+Italy,vancouver-2010,1,1,3,13,5,12,15,2010,winter
+France,vancouver-2010,2,3,6,13,11,8,11,2010,winter
+Great Britain,vancouver-2010,1,0,0,11,1,15,17,2010,winter
+Israel,vancouver-2010,0,0,0,2,0,16,23,2010,winter
+Hungary,vancouver-2010,0,0,0,5,0,16,23,2010,winter
+Ukraine,vancouver-2010,0,0,0,9,0,16,23,2010,winter
+Japan,vancouver-2010,0,3,2,14,5,12,18,2010,winter
+Germany,vancouver-2010,10,13,7,15,30,2,2,2010,winter
+People's Republic of China,vancouver-2010,5,2,4,10,11,8,7,2010,winter
+Czech Republic,vancouver-2010,2,0,4,13,6,11,13,2010,winter
+Georgia,vancouver-2010,0,0,0,3,0,16,23,2010,winter
+Estonia,vancouver-2010,0,1,0,4,1,15,22,2010,winter
+Switzerland,vancouver-2010,6,0,3,14,9,9,6,2010,winter
+Kazakhstan,vancouver-2010,0,1,0,8,1,15,22,2010,winter
+Spain,vancouver-2010,0,0,0,7,0,16,23,2010,winter
+Sweden,vancouver-2010,5,2,4,9,11,8,7,2010,winter
+Belgium,vancouver-2010,0,0,0,4,0,16,23,2010,winter
+Austria,vancouver-2010,4,6,6,13,16,5,8,2010,winter
+Poland,vancouver-2010,1,3,2,11,6,11,14,2010,winter
+Republic of Korea,vancouver-2010,6,6,2,12,14,7,5,2010,winter
+Finland,vancouver-2010,0,1,4,10,5,12,21,2010,winter
+Australia,vancouver-2010,2,1,0,11,3,13,12,2010,winter
+Uzbekistan,vancouver-2010,0,0,0,2,0,16,23,2010,winter
+Turkey,vancouver-2010,0,0,0,3,0,16,23,2010,winter
+Belarus,vancouver-2010,1,1,1,6,3,13,16,2010,winter
+Norway,vancouver-2010,9,8,6,11,23,4,4,2010,winter
+Slovenia,vancouver-2010,0,2,1,9,3,13,19,2010,winter
+Jamaica,vancouver-2010,0,0,0,1,0,16,23,2010,winter
+Denmark,vancouver-2010,0,0,0,7,0,16,23,2010,winter
+New Zealand,vancouver-2010,0,0,0,8,0,16,23,2010,winter
+Romania,vancouver-2010,0,0,0,8,0,16,23,2010,winter
+Netherlands,vancouver-2010,4,1,3,4,8,10,9,2010,winter
+Democratic People's Republic of Korea,vancouver-2010,0,0,0,1,0,16,23,2010,winter
+Latvia,vancouver-2010,0,2,0,9,2,14,20,2010,winter
+Monaco,vancouver-2010,0,0,0,2,0,16,23,2010,winter
+Slovakia,vancouver-2010,1,1,1,7,3,13,16,2010,winter
+Liechtenstein,vancouver-2010,0,0,0,2,0,16,23,2010,winter
+Serbia,vancouver-2010,0,0,0,4,0,16,23,2010,winter
+Croatia,vancouver-2010,0,2,1,4,3,13,19,2010,winter
+Ireland,vancouver-2010,0,0,0,4,0,16,23,2010,winter
+Andorra,vancouver-2010,0,0,0,3,0,16,23,2010,winter
+Bulgaria,vancouver-2010,0,0,0,6,0,16,23,2010,winter
+Argentina,vancouver-2010,0,0,0,3,0,16,23,2010,winter
+Chile,vancouver-2010,0,0,0,1,0,16,23,2010,winter
+Tajikistan,vancouver-2010,0,0,0,1,0,16,23,2010,winter
+Iceland,vancouver-2010,0,0,0,1,0,16,23,2010,winter
+Lebanon,vancouver-2010,0,0,0,1,0,16,23,2010,winter
+Bosnia and Herzegovina,vancouver-2010,0,0,0,3,0,16,23,2010,winter
+Greece,vancouver-2010,0,0,0,3,0,16,23,2010,winter
+Cyprus,vancouver-2010,0,0,0,1,0,16,23,2010,winter
+Azerbaijan,vancouver-2010,0,0,0,1,0,16,23,2010,winter
+Islamic Republic of Iran,vancouver-2010,0,0,0,2,0,16,23,2010,winter
+Peru,vancouver-2010,0,0,0,2,0,16,23,2010,winter
+Brazil,vancouver-2010,0,0,0,3,0,16,23,2010,winter
+Armenia,vancouver-2010,0,0,0,2,0,16,23,2010,winter
+Colombia,vancouver-2010,0,0,0,1,0,16,23,2010,winter
+Republic of Moldova,vancouver-2010,0,0,0,4,0,16,23,2010,winter
+The Former Yugoslav Republic of Macedonia,vancouver-2010,0,0,0,2,0,16,23,2010,winter
+Lithuania,vancouver-2010,0,0,0,3,0,16,23,2010,winter
+Montenegro,vancouver-2010,0,0,0,1,0,16,23,2010,winter
+Albania,vancouver-2010,0,0,0,1,0,16,23,2010,winter
+Cayman Islands,vancouver-2010,0,0,0,1,0,16,23,2010,winter
+Senegal,vancouver-2010,0,0,0,1,0,16,23,2010,winter
+Morocco,vancouver-2010,0,0,0,1,0,16,23,2010,winter
+Kyrgyzstan,vancouver-2010,0,0,0,2,0,16,23,2010,winter
+Mexico,vancouver-2010,0,0,0,1,0,16,23,2010,winter
+Pakistan,vancouver-2010,0,0,0,1,0,16,23,2010,winter
+San Marino,vancouver-2010,0,0,0,1,0,16,23,2010,winter
+India,vancouver-2010,0,0,0,3,0,16,23,2010,winter
+South Africa,vancouver-2010,0,0,0,2,0,16,23,2010,winter
+Ghana,vancouver-2010,0,0,0,1,0,16,23,2010,winter
+Chinese Taipei,vancouver-2010,0,0,0,1,0,16,23,2010,winter
+"Hong Kong, China",vancouver-2010,0,0,0,1,0,16,23,2010,winter
+Algeria,vancouver-2010,0,0,0,1,0,16,23,2010,winter
+Mongolia,vancouver-2010,0,0,0,1,0,16,23,2010,winter
+Bermuda,vancouver-2010,0,0,0,1,0,16,23,2010,winter
+Nepal,vancouver-2010,0,0,0,1,0,16,23,2010,winter
+Ethiopia,vancouver-2010,0,0,0,1,0,16,23,2010,winter
+Portugal,vancouver-2010,0,0,0,1,0,16,23,2010,winter
+France,beijing-2008,6,15,20,30,41,6,12,2008,summer
+United States of America,beijing-2008,36,39,37,37,112,1,2,2008,summer
+New Zealand,beijing-2008,3,2,4,22,9,19,27,2008,summer
+Argentina,beijing-2008,2,0,4,21,6,21,34,2008,summer
+Australia,beijing-2008,14,15,17,36,46,5,6,2008,summer
+Latvia,beijing-2008,1,1,1,12,3,24,42,2008,summer
+Colombia,beijing-2008,0,2,1,17,3,24,50,2008,summer
+Netherlands,beijing-2008,7,5,4,26,16,15,10,2008,summer
+Italy,beijing-2008,8,9,10,33,27,9,9,2008,summer
+Republic of Korea,beijing-2008,13,11,8,26,32,7,7,2008,summer
+Hungary,beijing-2008,3,5,2,20,10,18,21,2008,summer
+Russian Federation,beijing-2008,24,13,23,35,60,3,3,2008,summer
+Japan,beijing-2008,9,8,8,35,25,10,8,2008,summer
+Germany,beijing-2008,16,11,14,36,41,6,5,2008,summer
+People's Republic of China,beijing-2008,48,22,30,40,100,2,1,2008,summer
+Romania,beijing-2008,4,1,4,16,9,19,18,2008,summer
+Israel,beijing-2008,0,0,1,11,1,26,57,2008,summer
+Poland,beijing-2008,4,5,2,26,11,17,16,2008,summer
+Venezuela,beijing-2008,0,0,1,21,1,26,57,2008,summer
+Cuba,beijing-2008,3,10,17,19,30,8,19,2008,summer
+Egypt,beijing-2008,0,0,2,18,2,25,56,2008,summer
+Canada,beijing-2008,3,9,8,34,20,12,20,2008,summer
+Tunisia,beijing-2008,1,0,0,10,1,26,46,2008,summer
+Ukraine,beijing-2008,7,4,11,26,22,11,11,2008,summer
+Algeria,beijing-2008,0,1,1,12,2,25,54,2008,summer
+Great Britain,beijing-2008,19,13,19,27,51,4,4,2008,summer
+Portugal,beijing-2008,1,1,0,15,2,25,43,2008,summer
+Peru,beijing-2008,0,0,0,10,0,27,58,2008,summer
+Belarus,beijing-2008,3,4,7,26,14,16,24,2008,summer
+South Africa,beijing-2008,0,1,0,22,1,26,55,2008,summer
+"Hong Kong, China",beijing-2008,0,0,0,11,0,27,58,2008,summer
+Spain,beijing-2008,5,11,3,33,19,13,14,2008,summer
+Mexico,beijing-2008,2,0,2,23,4,23,35,2008,summer
+Senegal,beijing-2008,0,0,0,6,0,27,58,2008,summer
+Ireland,beijing-2008,0,1,2,14,3,24,53,2008,summer
+Thailand,beijing-2008,2,2,2,12,6,21,31,2008,summer
+Brazil,beijing-2008,3,4,10,31,17,14,23,2008,summer
+Burkina Faso,beijing-2008,0,0,0,3,0,27,58,2008,summer
+Austria,beijing-2008,0,1,2,18,3,24,53,2008,summer
+Morocco,beijing-2008,0,1,1,7,2,25,54,2008,summer
+Qatar,beijing-2008,0,0,0,6,0,27,58,2008,summer
+Sweden,beijing-2008,0,4,1,23,5,22,47,2008,summer
+Switzerland,beijing-2008,2,1,3,24,6,21,33,2008,summer
+Panama,beijing-2008,1,0,0,3,1,26,46,2008,summer
+Estonia,beijing-2008,1,1,0,13,2,25,43,2008,summer
+Chile,beijing-2008,0,1,0,17,1,26,55,2008,summer
+Norway,beijing-2008,3,5,1,16,9,19,22,2008,summer
+Kyrgyzstan,beijing-2008,0,1,2,9,3,24,53,2008,summer
+Denmark,beijing-2008,2,2,3,16,7,20,30,2008,summer
+Belgium,beijing-2008,2,0,0,18,2,25,36,2008,summer
+Czech Republic,beijing-2008,3,3,1,24,7,20,25,2008,summer
+Kazakhstan,beijing-2008,2,3,4,19,9,19,29,2008,summer
+Luxembourg,beijing-2008,0,0,0,6,0,27,58,2008,summer
+Zimbabwe,beijing-2008,1,3,0,5,4,23,37,2008,summer
+Syrian Arab Republic,beijing-2008,0,0,0,5,0,27,58,2008,summer
+Slovakia,beijing-2008,3,3,0,15,6,21,26,2008,summer
+Greece,beijing-2008,0,2,1,22,3,24,50,2008,summer
+Bermuda,beijing-2008,0,0,0,3,0,27,58,2008,summer
+India,beijing-2008,1,0,2,12,3,24,44,2008,summer
+Chinese Taipei,beijing-2008,1,1,2,15,4,23,41,2008,summer
+Malaysia,beijing-2008,0,1,0,10,1,26,55,2008,summer
+Turkey,beijing-2008,1,1,3,11,5,22,40,2008,summer
+Finland,beijing-2008,1,1,2,14,4,23,41,2008,summer
+Myanmar,beijing-2008,0,0,0,3,0,27,58,2008,summer
+Philippines,beijing-2008,0,0,0,7,0,27,58,2008,summer
+Bulgaria,beijing-2008,1,1,3,16,5,22,40,2008,summer
+Bhutan,beijing-2008,0,0,0,1,0,27,58,2008,summer
+Islamic Republic of Iran,beijing-2008,1,0,1,13,2,25,45,2008,summer
+Samoa,beijing-2008,0,1,0,3,1,26,55,2008,summer
+Democratic People's Republic of Korea,beijing-2008,2,2,2,12,6,21,31,2008,summer
+Georgia,beijing-2008,3,2,2,9,7,20,28,2008,summer
+Indonesia,beijing-2008,1,1,4,6,6,21,39,2008,summer
+Cyprus,beijing-2008,0,0,0,6,0,27,58,2008,summer
+Tajikistan,beijing-2008,0,1,1,8,2,25,54,2008,summer
+Mauritius,beijing-2008,0,0,1,7,1,26,57,2008,summer
+Pakistan,beijing-2008,0,0,0,3,0,27,58,2008,summer
+Lithuania,beijing-2008,0,3,2,15,5,22,48,2008,summer
+Slovenia,beijing-2008,1,2,2,14,5,22,38,2008,summer
+Namibia,beijing-2008,0,0,0,4,0,27,58,2008,summer
+Croatia,beijing-2008,0,2,3,16,5,22,49,2008,summer
+Uzbekistan,beijing-2008,0,1,3,14,4,23,52,2008,summer
+Serbia,beijing-2008,0,1,2,11,3,24,53,2008,summer
+Republic of Moldova,beijing-2008,0,0,1,9,1,26,57,2008,summer
+Costa Rica,beijing-2008,0,0,0,4,0,27,58,2008,summer
+El Salvador,beijing-2008,0,0,0,10,0,27,58,2008,summer
+Libya,beijing-2008,0,0,0,5,0,27,58,2008,summer
+Bolivia,beijing-2008,0,0,0,5,0,27,58,2008,summer
+Montenegro,beijing-2008,0,0,0,6,0,27,58,2008,summer
+Kenya,beijing-2008,6,4,6,5,16,15,13,2008,summer
+Vietnam,beijing-2008,0,1,0,7,1,26,55,2008,summer
+Papua New Guinea,beijing-2008,0,0,0,4,0,27,58,2008,summer
+Afghanistan,beijing-2008,0,0,1,1,1,26,57,2008,summer
+Nigeria,beijing-2008,0,2,3,10,5,22,49,2008,summer
+Dominican Republic,beijing-2008,1,1,0,8,2,25,43,2008,summer
+Belize,beijing-2008,0,0,0,1,0,27,58,2008,summer
+Benin,beijing-2008,0,0,0,2,0,27,58,2008,summer
+Puerto Rico,beijing-2008,0,0,0,7,0,27,58,2008,summer
+United Arab Emirates,beijing-2008,0,0,0,6,0,27,58,2008,summer
+Guinea,beijing-2008,0,0,0,2,0,27,58,2008,summer
+Azerbaijan,beijing-2008,1,1,4,9,6,21,39,2008,summer
+Nepal,beijing-2008,0,0,0,6,0,27,58,2008,summer
+Ivory Coast,beijing-2008,0,0,0,3,0,27,58,2008,summer
+Gabon,beijing-2008,0,0,0,2,0,27,58,2008,summer
+Honduras,beijing-2008,0,0,0,4,0,27,58,2008,summer
+Marshall Islands,beijing-2008,0,0,0,2,0,27,58,2008,summer
+Mali,beijing-2008,0,0,0,3,0,27,58,2008,summer
+Niger,beijing-2008,0,0,0,2,0,27,58,2008,summer
+Ecuador,beijing-2008,0,1,0,8,1,26,55,2008,summer
+Jordan,beijing-2008,0,0,0,4,0,27,58,2008,summer
+Uruguay,beijing-2008,0,0,0,5,0,27,58,2008,summer
+Monaco,beijing-2008,0,0,0,4,0,27,58,2008,summer
+Cameroon,beijing-2008,1,0,0,9,1,26,46,2008,summer
+Iraq,beijing-2008,0,0,0,1,0,27,58,2008,summer
+Zambia,beijing-2008,0,0,0,3,0,27,58,2008,summer
+Guatemala,beijing-2008,0,0,0,9,0,27,58,2008,summer
+Sri Lanka,beijing-2008,0,0,0,5,0,27,58,2008,summer
+Ethiopia,beijing-2008,4,2,1,2,7,20,17,2008,summer
+Armenia,beijing-2008,0,1,4,6,5,22,51,2008,summer
+Madagascar,beijing-2008,0,0,0,3,0,27,58,2008,summer
+Mongolia,beijing-2008,2,2,0,7,4,23,32,2008,summer
+Ghana,beijing-2008,0,0,0,2,0,27,58,2008,summer
+Sierra Leone,beijing-2008,0,0,0,1,0,27,58,2008,summer
+Uganda,beijing-2008,0,0,0,4,0,27,58,2008,summer
+Botswana,beijing-2008,0,0,0,3,0,27,58,2008,summer
+Bahamas,beijing-2008,0,1,1,4,2,25,54,2008,summer
+US Virgin Islands,beijing-2008,0,0,0,4,0,27,58,2008,summer
+Grenada,beijing-2008,0,0,0,1,0,27,58,2008,summer
+Central African Republic,beijing-2008,0,0,0,1,0,27,58,2008,summer
+Turkmenistan,beijing-2008,0,0,0,5,0,27,58,2008,summer
+Lesotho,beijing-2008,0,0,0,2,0,27,58,2008,summer
+Haiti,beijing-2008,0,0,0,2,0,27,58,2008,summer
+Democratic Republic of the Congo,beijing-2008,0,0,0,3,0,27,58,2008,summer
+Gambia,beijing-2008,0,0,0,1,0,27,58,2008,summer
+Palau,beijing-2008,0,0,0,2,0,27,58,2008,summer
+Guam,beijing-2008,0,0,0,3,0,27,58,2008,summer
+The Former Yugoslav Republic of Macedonia,beijing-2008,0,0,0,4,0,27,58,2008,summer
+Albania,beijing-2008,0,0,0,5,0,27,58,2008,summer
+Guinea-Bissau,beijing-2008,0,0,0,1,0,27,58,2008,summer
+Iceland,beijing-2008,0,1,0,4,1,26,55,2008,summer
+Angola,beijing-2008,0,0,0,5,0,27,58,2008,summer
+Jamaica,beijing-2008,5,4,1,4,10,18,15,2008,summer
+Bahrain,beijing-2008,0,0,0,3,0,27,58,2008,summer
+Eritrea,beijing-2008,0,0,0,1,0,27,58,2008,summer
+Cape Verde,beijing-2008,0,0,0,1,0,27,58,2008,summer
+United Republic of Tanzania,beijing-2008,0,0,0,2,0,27,58,2008,summer
+Andorra,beijing-2008,0,0,0,4,0,27,58,2008,summer
+Burundi,beijing-2008,0,0,0,2,0,27,58,2008,summer
+Cambodia,beijing-2008,0,0,0,2,0,27,58,2008,summer
+Liechtenstein,beijing-2008,0,0,0,2,0,27,58,2008,summer
+Democratic Republic of Timor-Leste,beijing-2008,0,0,0,1,0,27,58,2008,summer
+Liberia,beijing-2008,0,0,0,1,0,27,58,2008,summer
+Sudan,beijing-2008,0,1,0,2,1,26,55,2008,summer
+Rwanda,beijing-2008,0,0,0,2,0,27,58,2008,summer
+Saudi Arabia,beijing-2008,0,0,0,4,0,27,58,2008,summer
+Saint Kitts and Nevis,beijing-2008,0,0,0,1,0,27,58,2008,summer
+Trinidad and Tobago,beijing-2008,1,1,0,4,2,25,43,2008,summer
+Netherlands Antilles,beijing-2008,0,0,0,3,0,27,58,2008,summer
+Cayman Islands,beijing-2008,0,0,0,2,0,27,58,2008,summer
+Bosnia and Herzegovina,beijing-2008,0,0,0,4,0,27,58,2008,summer
+Mozambique,beijing-2008,0,0,0,3,0,27,58,2008,summer
+Yemen,beijing-2008,0,0,0,2,0,27,58,2008,summer
+Togo,beijing-2008,0,0,1,3,1,26,57,2008,summer
+Equatorial Guinea,beijing-2008,0,0,0,1,0,27,58,2008,summer
+Aruba,beijing-2008,0,0,0,2,0,27,58,2008,summer
+Fiji,beijing-2008,0,0,0,4,0,27,58,2008,summer
+Kuwait,beijing-2008,0,0,0,4,0,27,58,2008,summer
+Lebanon,beijing-2008,0,0,0,3,0,27,58,2008,summer
+American Samoa,beijing-2008,0,0,0,2,0,27,58,2008,summer
+Malta,beijing-2008,0,0,0,3,0,27,58,2008,summer
+Kiribati,beijing-2008,0,0,0,1,0,27,58,2008,summer
+Seychelles,beijing-2008,0,0,0,4,0,27,58,2008,summer
+Nicaragua,beijing-2008,0,0,0,3,0,27,58,2008,summer
+Nauru,beijing-2008,0,0,0,1,0,27,58,2008,summer
+Cook Islands,beijing-2008,0,0,0,2,0,27,58,2008,summer
+Tonga,beijing-2008,0,0,0,1,0,27,58,2008,summer
+Tuvalu,beijing-2008,0,0,0,1,0,27,58,2008,summer
+Federated States of Micronesia,beijing-2008,0,0,0,2,0,27,58,2008,summer
+Solomon Islands,beijing-2008,0,0,0,1,0,27,58,2008,summer
+Singapore,beijing-2008,0,1,0,5,1,26,55,2008,summer
+Barbados,beijing-2008,0,0,0,2,0,27,58,2008,summer
+Paraguay,beijing-2008,0,0,0,4,0,27,58,2008,summer
+Bangladesh,beijing-2008,0,0,0,2,0,27,58,2008,summer
+San Marino,beijing-2008,0,0,0,2,0,27,58,2008,summer
+Oman,beijing-2008,0,0,0,2,0,27,58,2008,summer
+Congo,beijing-2008,0,0,0,2,0,27,58,2008,summer
+Vanuatu,beijing-2008,0,0,0,1,0,27,58,2008,summer
+Swaziland,beijing-2008,0,0,0,1,0,27,58,2008,summer
+Guyana,beijing-2008,0,0,0,1,0,27,58,2008,summer
+Palestine,beijing-2008,0,0,0,1,0,27,58,2008,summer
+Malawi,beijing-2008,0,0,0,1,0,27,58,2008,summer
+Maldives,beijing-2008,0,0,0,1,0,27,58,2008,summer
+Lao People's Democratic Republic,beijing-2008,0,0,0,1,0,27,58,2008,summer
+Comoros,beijing-2008,0,0,0,1,0,27,58,2008,summer
+Antigua and Barbuda,beijing-2008,0,0,0,1,0,27,58,2008,summer
+Suriname,beijing-2008,0,0,0,1,0,27,58,2008,summer
+Saint Lucia,beijing-2008,0,0,0,1,0,27,58,2008,summer
+Germany,turin-2006,11,12,6,15,29,1,1,2006,winter
+Poland,turin-2006,0,1,1,11,2,12,19,2006,winter
+Norway,turin-2006,2,8,9,10,19,6,12,2006,winter
+Finland,turin-2006,0,6,3,11,9,9,18,2006,winter
+Russian Federation,turin-2006,8,6,8,15,22,5,4,2006,winter
+Austria,turin-2006,9,7,7,12,23,4,3,2006,winter
+France,turin-2006,3,2,4,10,9,9,10,2006,winter
+United States of America,turin-2006,9,9,7,15,25,2,2,2006,winter
+Sweden,turin-2006,7,2,5,9,14,7,6,2006,winter
+Czech Republic,turin-2006,1,2,1,13,4,10,14,2006,winter
+Italy,turin-2006,5,0,6,15,11,8,9,2006,winter
+Slovakia,turin-2006,0,1,0,8,1,13,20,2006,winter
+Latvia,turin-2006,0,0,1,8,1,13,22,2006,winter
+Japan,turin-2006,1,0,0,14,1,13,17,2006,winter
+Belarus,turin-2006,0,1,0,7,1,13,20,2006,winter
+People's Republic of China,turin-2006,2,4,5,9,11,8,13,2006,winter
+Bulgaria,turin-2006,0,1,0,7,1,13,20,2006,winter
+Ukraine,turin-2006,0,0,2,8,2,12,21,2006,winter
+Slovenia,turin-2006,0,0,0,8,0,14,23,2006,winter
+Republic of Moldova,turin-2006,0,0,0,3,0,14,23,2006,winter
+Romania,turin-2006,0,0,0,8,0,14,23,2006,winter
+Canada,turin-2006,7,10,7,15,24,3,5,2006,winter
+Kazakhstan,turin-2006,0,0,0,7,0,14,23,2006,winter
+Lithuania,turin-2006,0,0,0,4,0,14,23,2006,winter
+Estonia,turin-2006,3,0,0,6,3,11,11,2006,winter
+Bosnia and Herzegovina,turin-2006,0,0,0,3,0,14,23,2006,winter
+Great Britain,turin-2006,0,1,0,9,1,13,20,2006,winter
+Croatia,turin-2006,1,2,0,6,3,11,15,2006,winter
+Hungary,turin-2006,0,0,0,6,0,14,23,2006,winter
+Chile,turin-2006,0,0,0,2,0,14,23,2006,winter
+Switzerland,turin-2006,5,4,5,13,14,7,8,2006,winter
+Republic of Korea,turin-2006,6,3,2,9,11,8,7,2006,winter
+Australia,turin-2006,1,0,1,9,2,12,16,2006,winter
+Spain,turin-2006,0,0,0,5,0,14,23,2006,winter
+Greece,turin-2006,0,0,0,3,0,14,23,2006,winter
+Serbia and Montenegro,turin-2006,0,0,0,3,0,14,23,2006,winter
+Argentina,turin-2006,0,0,0,5,0,14,23,2006,winter
+Turkey,turin-2006,0,0,0,3,0,14,23,2006,winter
+Brazil,turin-2006,0,0,0,4,0,14,23,2006,winter
+Mongolia,turin-2006,0,0,0,1,0,14,23,2006,winter
+Liechtenstein,turin-2006,0,0,0,2,0,14,23,2006,winter
+Andorra,turin-2006,0,0,0,2,0,14,23,2006,winter
+South Africa,turin-2006,0,0,0,3,0,14,23,2006,winter
+Algeria,turin-2006,0,0,0,2,0,14,23,2006,winter
+Armenia,turin-2006,0,0,0,3,0,14,23,2006,winter
+India,turin-2006,0,0,0,3,0,14,23,2006,winter
+Ethiopia,turin-2006,0,0,0,1,0,14,23,2006,winter
+The Former Yugoslav Republic of Macedonia,turin-2006,0,0,0,2,0,14,23,2006,winter
+Ireland,turin-2006,0,0,0,3,0,14,23,2006,winter
+Islamic Republic of Iran,turin-2006,0,0,0,2,0,14,23,2006,winter
+Kenya,turin-2006,0,0,0,1,0,14,23,2006,winter
+Portugal,turin-2006,0,0,0,1,0,14,23,2006,winter
+Nepal,turin-2006,0,0,0,1,0,14,23,2006,winter
+Costa Rica,turin-2006,0,0,0,1,0,14,23,2006,winter
+Thailand,turin-2006,0,0,0,1,0,14,23,2006,winter
+Iceland,turin-2006,0,0,0,1,0,14,23,2006,winter
+Monaco,turin-2006,0,0,0,2,0,14,23,2006,winter
+Lebanon,turin-2006,0,0,0,2,0,14,23,2006,winter
+New Zealand,turin-2006,0,0,0,5,0,14,23,2006,winter
+Georgia,turin-2006,0,0,0,2,0,14,23,2006,winter
+Israel,turin-2006,0,0,0,2,0,14,23,2006,winter
+Cyprus,turin-2006,0,0,0,1,0,14,23,2006,winter
+Uzbekistan,turin-2006,0,0,0,2,0,14,23,2006,winter
+Senegal,turin-2006,0,0,0,1,0,14,23,2006,winter
+Madagascar,turin-2006,0,0,0,1,0,14,23,2006,winter
+Albania,turin-2006,0,0,0,1,0,14,23,2006,winter
+Kyrgyzstan,turin-2006,0,0,0,1,0,14,23,2006,winter
+Tajikistan,turin-2006,0,0,0,1,0,14,23,2006,winter
+San Marino,turin-2006,0,0,0,1,0,14,23,2006,winter
+Chinese Taipei,turin-2006,0,0,0,1,0,14,23,2006,winter
+Venezuela,turin-2006,0,0,0,1,0,14,23,2006,winter
+Netherlands,turin-2006,3,2,4,4,9,9,10,2006,winter
+Belgium,turin-2006,0,0,0,3,0,14,23,2006,winter
+Luxembourg,turin-2006,0,0,0,1,0,14,23,2006,winter
+Democratic People's Republic of Korea,turin-2006,0,0,0,2,0,14,23,2006,winter
+Azerbaijan,turin-2006,0,0,0,1,0,14,23,2006,winter
+Bermuda,turin-2006,0,0,0,1,0,14,23,2006,winter
+"Hong Kong, China",turin-2006,0,0,0,1,0,14,23,2006,winter
+Denmark,turin-2006,0,0,0,1,0,14,23,2006,winter
+Denmark,athens-2004,2,1,5,16,8,20,33,2004,summer
+Australia,athens-2004,17,16,17,36,50,4,4,2004,summer
+Italy,athens-2004,10,11,11,33,32,8,8,2004,summer
+Netherlands,athens-2004,4,9,9,24,22,11,18,2004,summer
+Canada,athens-2004,3,6,3,33,12,17,21,2004,summer
+Ireland,athens-2004,0,0,0,12,0,28,61,2004,summer
+Serbia and Montenegro,athens-2004,0,2,0,12,2,26,55,2004,summer
+Russian Federation,athens-2004,28,26,36,32,90,2,3,2004,summer
+United States of America,athens-2004,36,39,26,33,101,1,1,2004,summer
+Austria,athens-2004,2,4,1,21,7,21,27,2004,summer
+Germany,athens-2004,13,16,20,33,49,5,6,2004,summer
+Spain,athens-2004,3,11,6,30,20,12,20,2004,summer
+Great Britain,athens-2004,9,9,12,28,30,9,10,2004,summer
+Croatia,athens-2004,1,2,2,14,5,23,42,2004,summer
+South Africa,athens-2004,1,3,2,16,6,22,41,2004,summer
+New Zealand,athens-2004,3,2,0,21,5,23,24,2004,summer
+Slovenia,athens-2004,0,1,3,10,4,24,56,2004,summer
+Argentina,athens-2004,2,0,4,22,6,22,36,2004,summer
+Belarus,athens-2004,2,5,6,23,13,16,26,2004,summer
+Bulgaria,athens-2004,2,1,9,20,12,17,32,2004,summer
+Czech Republic,athens-2004,1,3,5,20,9,19,40,2004,summer
+Sweden,athens-2004,4,2,1,21,7,21,19,2004,summer
+Chile,athens-2004,2,0,1,11,3,25,37,2004,summer
+Mexico,athens-2004,0,3,1,19,4,24,53,2004,summer
+People's Republic of China,athens-2004,32,17,14,34,63,3,2,2004,summer
+Brazil,athens-2004,5,2,3,27,10,18,16,2004,summer
+Switzerland,athens-2004,1,1,3,21,5,23,44,2004,summer
+Indonesia,athens-2004,1,1,2,11,4,24,45,2004,summer
+Chinese Taipei,athens-2004,2,2,1,13,5,23,30,2004,summer
+Tunisia,athens-2004,0,0,0,14,0,28,61,2004,summer
+Republic of Korea,athens-2004,9,12,9,26,30,9,9,2004,summer
+Paraguay,athens-2004,0,1,0,3,1,27,58,2004,summer
+Thailand,athens-2004,3,1,4,13,8,20,25,2004,summer
+Uzbekistan,athens-2004,2,1,2,10,5,23,34,2004,summer
+Egypt,athens-2004,1,1,3,15,5,23,44,2004,summer
+Poland,athens-2004,3,2,5,24,10,18,23,2004,summer
+Romania,athens-2004,8,5,6,16,19,13,14,2004,summer
+France,athens-2004,11,9,13,32,33,7,7,2004,summer
+Estonia,athens-2004,0,1,2,11,3,25,57,2004,summer
+Norway,athens-2004,5,0,1,13,6,22,17,2004,summer
+Cuba,athens-2004,9,7,11,18,27,10,11,2004,summer
+Hungary,athens-2004,8,6,3,20,17,14,12,2004,summer
+Greece,athens-2004,6,6,4,35,16,15,15,2004,summer
+Japan,athens-2004,16,9,12,32,37,6,5,2004,summer
+Slovakia,athens-2004,2,2,2,15,6,22,29,2004,summer
+Belgium,athens-2004,1,0,2,17,3,25,48,2004,summer
+Uruguay,athens-2004,0,0,0,4,0,28,61,2004,summer
+"Hong Kong, China",athens-2004,0,1,0,10,1,27,58,2004,summer
+Peru,athens-2004,0,0,0,9,0,28,61,2004,summer
+Algeria,athens-2004,0,0,0,10,0,28,61,2004,summer
+Kenya,athens-2004,1,4,2,4,7,21,39,2004,summer
+India,athens-2004,0,1,0,13,1,27,58,2004,summer
+Ukraine,athens-2004,8,5,9,25,22,11,13,2004,summer
+Vietnam,athens-2004,0,0,0,6,0,28,61,2004,summer
+Nigeria,athens-2004,0,0,2,9,2,26,59,2004,summer
+Lithuania,athens-2004,1,2,0,12,3,25,43,2004,summer
+Puerto Rico,athens-2004,0,0,0,14,0,28,61,2004,summer
+Angola,athens-2004,0,0,0,4,0,28,61,2004,summer
+Turkey,athens-2004,3,3,4,10,10,18,22,2004,summer
+Dominican Republic,athens-2004,1,0,0,8,1,27,50,2004,summer
+Jamaica,athens-2004,2,1,2,4,5,23,34,2004,summer
+Panama,athens-2004,0,0,0,2,0,28,61,2004,summer
+Qatar,athens-2004,0,0,0,4,0,28,61,2004,summer
+Morocco,athens-2004,2,1,0,8,3,25,35,2004,summer
+Equatorial Guinea,athens-2004,0,0,0,1,0,28,61,2004,summer
+Kazakhstan,athens-2004,1,4,3,17,8,20,38,2004,summer
+Portugal,athens-2004,0,2,1,16,3,25,54,2004,summer
+Ethiopia,athens-2004,2,3,2,2,7,21,28,2004,summer
+Israel,athens-2004,1,0,1,13,2,26,49,2004,summer
+Finland,athens-2004,0,2,0,11,2,26,55,2004,summer
+Botswana,athens-2004,0,0,0,2,0,28,61,2004,summer
+Sri Lanka,athens-2004,0,0,0,3,0,28,61,2004,summer
+Burundi,athens-2004,0,0,0,2,0,28,61,2004,summer
+Democratic People's Republic of Korea,athens-2004,0,4,1,9,5,23,51,2004,summer
+Libya,athens-2004,0,0,0,4,0,28,61,2004,summer
+United Republic of Tanzania,athens-2004,0,0,0,1,0,28,61,2004,summer
+Colombia,athens-2004,0,0,2,15,2,26,59,2004,summer
+Central African Republic,athens-2004,0,0,0,2,0,28,61,2004,summer
+Zimbabwe,athens-2004,1,1,1,4,3,25,46,2004,summer
+Andorra,athens-2004,0,0,0,3,0,28,61,2004,summer
+Ecuador,athens-2004,0,0,0,6,0,28,61,2004,summer
+Rwanda,athens-2004,0,0,0,2,0,28,61,2004,summer
+Guatemala,athens-2004,0,0,0,8,0,28,61,2004,summer
+Philippines,athens-2004,0,0,0,6,0,28,61,2004,summer
+Lesotho,athens-2004,0,0,0,2,0,28,61,2004,summer
+Mongolia,athens-2004,0,0,1,7,1,27,60,2004,summer
+Cape Verde,athens-2004,0,0,0,2,0,28,61,2004,summer
+Kyrgyzstan,athens-2004,0,0,0,8,0,28,61,2004,summer
+Saint Lucia,athens-2004,0,0,0,2,0,28,61,2004,summer
+Bahrain,athens-2004,0,0,0,4,0,28,61,2004,summer
+Venezuela,athens-2004,0,0,2,16,2,26,59,2004,summer
+Democratic Republic of Timor-Leste,athens-2004,0,0,0,1,0,28,61,2004,summer
+Bahamas,athens-2004,1,0,1,3,2,26,49,2004,summer
+Sudan,athens-2004,0,0,0,1,0,28,61,2004,summer
+Cameroon,athens-2004,1,0,0,4,1,27,50,2004,summer
+Senegal,athens-2004,0,0,0,5,0,28,61,2004,summer
+Latvia,athens-2004,0,4,0,10,4,24,52,2004,summer
+Republic of Moldova,athens-2004,0,0,0,8,0,28,61,2004,summer
+Trinidad and Tobago,athens-2004,0,0,1,4,1,27,60,2004,summer
+Grenada,athens-2004,0,0,0,2,0,28,61,2004,summer
+Malaysia,athens-2004,0,0,0,11,0,28,61,2004,summer
+Bolivia,athens-2004,0,0,0,3,0,28,61,2004,summer
+Mauritius,athens-2004,0,0,0,5,0,28,61,2004,summer
+Sao Tome and Principe,athens-2004,0,0,0,1,0,28,61,2004,summer
+Madagascar,athens-2004,0,0,0,4,0,28,61,2004,summer
+Tajikistan,athens-2004,0,0,0,5,0,28,61,2004,summer
+Azerbaijan,athens-2004,1,0,4,9,5,23,47,2004,summer
+Ghana,athens-2004,0,0,0,2,0,28,61,2004,summer
+Eritrea,athens-2004,0,0,1,1,1,27,60,2004,summer
+Uganda,athens-2004,0,0,0,4,0,28,61,2004,summer
+Iceland,athens-2004,0,0,0,5,0,28,61,2004,summer
+Mozambique,athens-2004,0,0,0,2,0,28,61,2004,summer
+Saint Kitts and Nevis,athens-2004,0,0,0,1,0,28,61,2004,summer
+Barbados,athens-2004,0,0,0,4,0,28,61,2004,summer
+Chad,athens-2004,0,0,0,1,0,28,61,2004,summer
+Namibia,athens-2004,0,0,0,5,0,28,61,2004,summer
+Saudi Arabia,athens-2004,0,0,0,6,0,28,61,2004,summer
+Luxembourg,athens-2004,0,0,0,5,0,28,61,2004,summer
+Islamic Republic of Iran,athens-2004,2,2,2,10,6,22,29,2004,summer
+El Salvador,athens-2004,0,0,0,6,0,28,61,2004,summer
+Bermuda,athens-2004,0,0,0,5,0,28,61,2004,summer
+Netherlands Antilles,athens-2004,0,0,0,1,0,28,61,2004,summer
+Singapore,athens-2004,0,0,0,5,0,28,61,2004,summer
+Jordan,athens-2004,0,0,0,4,0,28,61,2004,summer
+Honduras,athens-2004,0,0,0,2,0,28,61,2004,summer
+Bosnia and Herzegovina,athens-2004,0,0,0,6,0,28,61,2004,summer
+Democratic Republic of the Congo,athens-2004,0,0,0,1,0,28,61,2004,summer
+Georgia,athens-2004,2,2,0,8,4,24,31,2004,summer
+Albania,athens-2004,0,0,0,3,0,28,61,2004,summer
+Palau,athens-2004,0,0,0,2,0,28,61,2004,summer
+Guinea-Bissau,athens-2004,0,0,0,1,0,28,61,2004,summer
+Armenia,athens-2004,0,0,0,6,0,28,61,2004,summer
+The Former Yugoslav Republic of Macedonia,athens-2004,0,0,0,4,0,28,61,2004,summer
+Guam,athens-2004,0,0,0,2,0,28,61,2004,summer
+Afghanistan,athens-2004,0,0,0,2,0,28,61,2004,summer
+Yemen,athens-2004,0,0,0,2,0,28,61,2004,summer
+Nepal,athens-2004,0,0,0,3,0,28,61,2004,summer
+Iraq,athens-2004,0,0,0,5,0,28,61,2004,summer
+Ivory Coast,athens-2004,0,0,0,2,0,28,61,2004,summer
+Costa Rica,athens-2004,0,0,0,5,0,28,61,2004,summer
+Haiti,athens-2004,0,0,0,2,0,28,61,2004,summer
+Seychelles,athens-2004,0,0,0,4,0,28,61,2004,summer
+Papua New Guinea,athens-2004,0,0,0,2,0,28,61,2004,summer
+Suriname,athens-2004,0,0,0,1,0,28,61,2004,summer
+Aruba,athens-2004,0,0,0,2,0,28,61,2004,summer
+Nicaragua,athens-2004,0,0,0,2,0,28,61,2004,summer
+Palestine,athens-2004,0,0,0,1,0,28,61,2004,summer
+Syrian Arab Republic,athens-2004,0,0,1,3,1,27,60,2004,summer
+Fiji,athens-2004,0,0,0,4,0,28,61,2004,summer
+US Virgin Islands,athens-2004,0,0,0,3,0,28,61,2004,summer
+Cyprus,athens-2004,0,0,0,5,0,28,61,2004,summer
+Lebanon,athens-2004,0,0,0,2,0,28,61,2004,summer
+Benin,athens-2004,0,0,0,1,0,28,61,2004,summer
+Congo,athens-2004,0,0,0,2,0,28,61,2004,summer
+Bangladesh,athens-2004,0,0,0,2,0,28,61,2004,summer
+Federated States of Micronesia,athens-2004,0,0,0,2,0,28,61,2004,summer
+Niger,athens-2004,0,0,0,1,0,28,61,2004,summer
+Cambodia,athens-2004,0,0,0,1,0,28,61,2004,summer
+Turkmenistan,athens-2004,0,0,0,4,0,28,61,2004,summer
+Maldives,athens-2004,0,0,0,1,0,28,61,2004,summer
+Saint Vincent and the Grenadines,athens-2004,0,0,0,1,0,28,61,2004,summer
+Guinea,athens-2004,0,0,0,1,0,28,61,2004,summer
+Lao People's Democratic Republic,athens-2004,0,0,0,2,0,28,61,2004,summer
+Mali,athens-2004,0,0,0,2,0,28,61,2004,summer
+Burkina Faso,athens-2004,0,0,0,1,0,28,61,2004,summer
+Antigua and Barbuda,athens-2004,0,0,0,1,0,28,61,2004,summer
+Malawi,athens-2004,0,0,0,1,0,28,61,2004,summer
+Cayman Islands,athens-2004,0,0,0,1,0,28,61,2004,summer
+San Marino,athens-2004,0,0,0,2,0,28,61,2004,summer
+Malta,athens-2004,0,0,0,3,0,28,61,2004,summer
+Swaziland,athens-2004,0,0,0,1,0,28,61,2004,summer
+Zambia,athens-2004,0,0,0,2,0,28,61,2004,summer
+United Arab Emirates,athens-2004,1,0,0,2,1,27,50,2004,summer
+Guyana,athens-2004,0,0,0,2,0,28,61,2004,summer
+Monaco,athens-2004,0,0,0,2,0,28,61,2004,summer
+Pakistan,athens-2004,0,0,0,4,0,28,61,2004,summer
+Nauru,athens-2004,0,0,0,1,0,28,61,2004,summer
+Myanmar,athens-2004,0,0,0,2,0,28,61,2004,summer
+Kiribati,athens-2004,0,0,0,1,0,28,61,2004,summer
+Comoros,athens-2004,0,0,0,1,0,28,61,2004,summer
+Samoa,athens-2004,0,0,0,1,0,28,61,2004,summer
+Cook Islands,athens-2004,0,0,0,1,0,28,61,2004,summer
+American Samoa,athens-2004,0,0,0,1,0,28,61,2004,summer
+Bhutan,athens-2004,0,0,0,1,0,28,61,2004,summer
+Tonga,athens-2004,0,0,0,2,0,28,61,2004,summer
+Liechtenstein,athens-2004,0,0,0,1,0,28,61,2004,summer
+Kuwait,athens-2004,0,0,0,1,0,28,61,2004,summer
+Oman,athens-2004,0,0,0,1,0,28,61,2004,summer
+Togo,athens-2004,0,0,0,1,0,28,61,2004,summer
+Gabon,athens-2004,0,0,0,1,0,28,61,2004,summer
+Switzerland,salt-lake-city-2002,3,2,6,13,11,6,11,2002,winter
+Poland,salt-lake-city-2002,0,1,1,9,2,11,21,2002,winter
+Finland,salt-lake-city-2002,4,2,1,11,7,8,8,2002,winter
+Germany,salt-lake-city-2002,12,16,8,14,36,1,2,2002,winter
+Austria,salt-lake-city-2002,3,4,10,12,17,4,10,2002,winter
+Japan,salt-lake-city-2002,0,1,1,14,2,11,21,2002,winter
+Slovenia,salt-lake-city-2002,0,0,1,8,1,12,22,2002,winter
+Russian Federation,salt-lake-city-2002,5,4,4,15,13,5,5,2002,winter
+Italy,salt-lake-city-2002,4,4,5,12,13,5,7,2002,winter
+France,salt-lake-city-2002,4,5,2,15,11,6,6,2002,winter
+Norway,salt-lake-city-2002,13,5,7,11,25,3,1,2002,winter
+Kazakhstan,salt-lake-city-2002,0,0,0,7,0,13,23,2002,winter
+Republic of Korea,salt-lake-city-2002,2,2,0,9,4,9,14,2002,winter
+United States of America,salt-lake-city-2002,10,13,11,15,34,2,3,2002,winter
+Czech Republic,salt-lake-city-2002,1,2,0,13,3,10,16,2002,winter
+Kyrgyzstan,salt-lake-city-2002,0,0,0,2,0,13,23,2002,winter
+Estonia,salt-lake-city-2002,1,1,1,4,3,10,17,2002,winter
+Belarus,salt-lake-city-2002,0,0,1,9,1,12,22,2002,winter
+Australia,salt-lake-city-2002,2,0,0,5,2,11,15,2002,winter
+Canada,salt-lake-city-2002,7,3,7,13,17,4,4,2002,winter
+People's Republic of China,salt-lake-city-2002,2,2,4,7,8,7,13,2002,winter
+Ukraine,salt-lake-city-2002,0,0,0,10,0,13,23,2002,winter
+Sweden,salt-lake-city-2002,0,2,5,11,7,8,19,2002,winter
+Denmark,salt-lake-city-2002,0,0,0,2,0,13,23,2002,winter
+Great Britain,salt-lake-city-2002,1,0,1,10,2,11,18,2002,winter
+Argentina,salt-lake-city-2002,0,0,0,5,0,13,23,2002,winter
+Bulgaria,salt-lake-city-2002,0,1,2,6,3,10,20,2002,winter
+Slovakia,salt-lake-city-2002,0,0,0,10,0,13,23,2002,winter
+Romania,salt-lake-city-2002,0,0,0,8,0,13,23,2002,winter
+Hungary,salt-lake-city-2002,0,0,0,7,0,13,23,2002,winter
+Republic of Moldova,salt-lake-city-2002,0,0,0,3,0,13,23,2002,winter
+Latvia,salt-lake-city-2002,0,0,0,8,0,13,23,2002,winter
+Chile,salt-lake-city-2002,0,0,0,2,0,13,23,2002,winter
+Greece,salt-lake-city-2002,0,0,0,5,0,13,23,2002,winter
+Lithuania,salt-lake-city-2002,0,0,0,3,0,13,23,2002,winter
+Croatia,salt-lake-city-2002,3,1,0,5,4,9,12,2002,winter
+Venezuela,salt-lake-city-2002,0,0,0,1,0,13,23,2002,winter
+India,salt-lake-city-2002,0,0,0,1,0,13,23,2002,winter
+Bermuda,salt-lake-city-2002,0,0,0,1,0,13,23,2002,winter
+Brazil,salt-lake-city-2002,0,0,0,4,0,13,23,2002,winter
+Chinese Taipei,salt-lake-city-2002,0,0,0,2,0,13,23,2002,winter
+New Zealand,salt-lake-city-2002,0,0,0,5,0,13,23,2002,winter
+US Virgin Islands,salt-lake-city-2002,0,0,0,2,0,13,23,2002,winter
+Belgium,salt-lake-city-2002,0,0,0,3,0,13,23,2002,winter
+Georgia,salt-lake-city-2002,0,0,0,2,0,13,23,2002,winter
+Uzbekistan,salt-lake-city-2002,0,0,0,2,0,13,23,2002,winter
+Azerbaijan,salt-lake-city-2002,0,0,0,2,0,13,23,2002,winter
+Israel,salt-lake-city-2002,0,0,0,2,0,13,23,2002,winter
+Armenia,salt-lake-city-2002,0,0,0,4,0,13,23,2002,winter
+Democratic People's Republic of Korea,salt-lake-city-2002,0,0,0,1,0,13,23,2002,winter
+Liechtenstein,salt-lake-city-2002,0,0,0,2,0,13,23,2002,winter
+Ireland,salt-lake-city-2002,0,0,0,4,0,13,23,2002,winter
+Tajikistan,salt-lake-city-2002,0,0,0,1,0,13,23,2002,winter
+Spain,salt-lake-city-2002,0,0,0,3,0,13,23,2002,winter
+Iceland,salt-lake-city-2002,0,0,0,1,0,13,23,2002,winter
+South Africa,salt-lake-city-2002,0,0,0,1,0,13,23,2002,winter
+Andorra,salt-lake-city-2002,0,0,0,1,0,13,23,2002,winter
+Serbia and Montenegro,salt-lake-city-2002,0,0,0,2,0,13,23,2002,winter
+Bosnia and Herzegovina,salt-lake-city-2002,0,0,0,1,0,13,23,2002,winter
+The Former Yugoslav Republic of Macedonia,salt-lake-city-2002,0,0,0,2,0,13,23,2002,winter
+Cyprus,salt-lake-city-2002,0,0,0,1,0,13,23,2002,winter
+Fiji,salt-lake-city-2002,0,0,0,1,0,13,23,2002,winter
+San Marino,salt-lake-city-2002,0,0,0,1,0,13,23,2002,winter
+Lebanon,salt-lake-city-2002,0,0,0,1,0,13,23,2002,winter
+Turkey,salt-lake-city-2002,0,0,0,2,0,13,23,2002,winter
+Islamic Republic of Iran,salt-lake-city-2002,0,0,0,1,0,13,23,2002,winter
+Mexico,salt-lake-city-2002,0,0,0,2,0,13,23,2002,winter
+Mongolia,salt-lake-city-2002,0,0,0,2,0,13,23,2002,winter
+Kenya,salt-lake-city-2002,0,0,0,1,0,13,23,2002,winter
+Cameroon,salt-lake-city-2002,0,0,0,1,0,13,23,2002,winter
+Thailand,salt-lake-city-2002,0,0,0,1,0,13,23,2002,winter
+Costa Rica,salt-lake-city-2002,0,0,0,1,0,13,23,2002,winter
+Nepal,salt-lake-city-2002,0,0,0,1,0,13,23,2002,winter
+Netherlands,salt-lake-city-2002,3,5,0,4,8,7,9,2002,winter
+Monaco,salt-lake-city-2002,0,0,0,1,0,13,23,2002,winter
+Jamaica,salt-lake-city-2002,0,0,0,1,0,13,23,2002,winter
+Trinidad and Tobago,salt-lake-city-2002,0,0,0,1,0,13,23,2002,winter
+Puerto Rico,salt-lake-city-2002,0,0,0,1,0,13,23,2002,winter
+"Hong Kong, China",salt-lake-city-2002,0,0,0,1,0,13,23,2002,winter
+Japan,sydney-2000,5,8,5,31,18,12,15,2000,summer
+Republic of Korea,sydney-2000,8,10,10,26,28,8,12,2000,summer
+Kyrgyzstan,sydney-2000,0,0,1,9,1,27,58,2000,summer
+Cuba,sydney-2000,11,11,7,25,29,7,9,2000,summer
+Uzbekistan,sydney-2000,1,1,2,10,4,24,42,2000,summer
+Kazakhstan,sydney-2000,3,4,0,18,7,21,22,2000,summer
+United States of America,sydney-2000,37,24,32,35,93,1,1,2000,summer
+Azerbaijan,sydney-2000,2,0,1,8,3,25,34,2000,summer
+Republic of Moldova,sydney-2000,0,1,1,7,2,26,54,2000,summer
+Slovakia,sydney-2000,1,3,1,17,5,23,38,2000,summer
+Georgia,sydney-2000,0,0,6,10,6,22,56,2000,summer
+Algeria,sydney-2000,1,1,3,9,5,23,41,2000,summer
+Mongolia,sydney-2000,0,0,0,5,0,28,59,2000,summer
+Seychelles,sydney-2000,0,0,0,4,0,28,59,2000,summer
+People's Republic of China,sydney-2000,28,16,14,28,58,3,3,2000,summer
+Russian Federation,sydney-2000,32,28,29,32,89,2,2,2000,summer
+Italy,sydney-2000,13,8,13,34,34,6,7,2000,summer
+Brazil,sydney-2000,0,6,6,27,12,16,48,2000,summer
+Belarus,sydney-2000,3,3,11,20,17,13,23,2000,summer
+Latvia,sydney-2000,1,1,1,14,3,25,43,2000,summer
+France,sydney-2000,13,14,11,32,38,5,6,2000,summer
+Portugal,sydney-2000,0,0,2,13,2,26,57,2000,summer
+Ukraine,sydney-2000,3,10,10,25,23,11,21,2000,summer
+Tunisia,sydney-2000,0,0,0,10,0,28,59,2000,summer
+Peru,sydney-2000,0,0,0,7,0,28,59,2000,summer
+Israel,sydney-2000,0,0,1,8,1,27,58,2000,summer
+Argentina,sydney-2000,0,2,2,21,4,24,51,2000,summer
+Samoa,sydney-2000,0,0,0,5,0,28,59,2000,summer
+Turkey,sydney-2000,3,0,2,10,5,23,26,2000,summer
+Islamic Republic of Iran,sydney-2000,3,0,1,10,4,24,27,2000,summer
+Netherlands,sydney-2000,12,9,4,24,25,10,8,2000,summer
+Spain,sydney-2000,3,3,5,32,11,17,25,2000,summer
+Great Britain,sydney-2000,11,10,7,28,28,8,10,2000,summer
+Bulgaria,sydney-2000,5,6,2,16,13,15,16,2000,summer
+Puerto Rico,sydney-2000,0,0,0,8,0,28,59,2000,summer
+Guatemala,sydney-2000,0,0,0,7,0,28,59,2000,summer
+Estonia,sydney-2000,1,0,2,10,3,25,45,2000,summer
+Uruguay,sydney-2000,0,1,0,8,1,27,55,2000,summer
+Democratic People's Republic of Korea,sydney-2000,0,1,3,10,4,24,53,2000,summer
+Australia,sydney-2000,16,25,17,38,58,3,4,2000,summer
+Germany,sydney-2000,13,17,26,34,56,4,5,2000,summer
+Monaco,sydney-2000,0,0,0,4,0,28,59,2000,summer
+Belgium,sydney-2000,0,2,3,17,5,23,50,2000,summer
+Gabon,sydney-2000,0,0,0,2,0,28,59,2000,summer
+Turkmenistan,sydney-2000,0,0,0,5,0,28,59,2000,summer
+Czech Republic,sydney-2000,2,3,3,22,8,20,28,2000,summer
+Romania,sydney-2000,11,6,9,16,26,9,11,2000,summer
+Ivory Coast,sydney-2000,0,0,0,4,0,28,59,2000,summer
+Canada,sydney-2000,3,3,8,32,14,14,24,2000,summer
+New Zealand,sydney-2000,1,0,3,21,4,24,44,2000,summer
+Egypt,sydney-2000,0,0,0,18,0,28,59,2000,summer
+India,sydney-2000,0,0,1,12,1,27,58,2000,summer
+Mauritius,sydney-2000,0,0,0,7,0,28,59,2000,summer
+Indonesia,sydney-2000,1,3,2,11,6,22,37,2000,summer
+Sweden,sydney-2000,4,5,3,24,12,16,18,2000,summer
+Cameroon,sydney-2000,1,0,0,4,1,27,47,2000,summer
+Austria,sydney-2000,2,1,0,19,3,25,32,2000,summer
+Switzerland,sydney-2000,1,6,2,20,9,19,36,2000,summer
+Slovenia,sydney-2000,2,0,0,13,2,26,35,2000,summer
+Croatia,sydney-2000,1,0,1,12,2,26,46,2000,summer
+Ireland,sydney-2000,0,1,0,12,1,27,55,2000,summer
+The Former Yugoslav Republic of Macedonia,sydney-2000,0,0,1,4,1,27,58,2000,summer
+Morocco,sydney-2000,0,1,4,8,5,23,52,2000,summer
+Poland,sydney-2000,6,5,3,21,14,14,14,2000,summer
+South Africa,sydney-2000,0,2,3,19,5,23,50,2000,summer
+Pakistan,sydney-2000,0,0,0,5,0,28,59,2000,summer
+Malaysia,sydney-2000,0,0,0,8,0,28,59,2000,summer
+Hungary,sydney-2000,8,6,3,21,17,13,13,2000,summer
+Norway,sydney-2000,4,3,3,15,10,18,19,2000,summer
+Serbia and Montenegro,sydney-2000,1,1,1,13,3,25,43,2000,summer
+Colombia,sydney-2000,1,0,0,15,1,27,47,2000,summer
+Chile,sydney-2000,0,0,1,13,1,27,58,2000,summer
+Venezuela,sydney-2000,0,0,0,16,0,28,59,2000,summer
+Kuwait,sydney-2000,0,0,1,5,1,27,58,2000,summer
+Denmark,sydney-2000,2,3,1,20,6,22,30,2000,summer
+Mexico,sydney-2000,1,2,3,20,6,22,39,2000,summer
+Namibia,sydney-2000,0,0,0,5,0,28,59,2000,summer
+Costa Rica,sydney-2000,0,0,2,5,2,26,57,2000,summer
+Kenya,sydney-2000,2,3,2,6,7,21,29,2000,summer
+Guam,sydney-2000,0,0,0,6,0,28,59,2000,summer
+"Hong Kong, China",sydney-2000,0,0,0,9,0,28,59,2000,summer
+Finland,sydney-2000,2,1,1,15,4,24,31,2000,summer
+Greece,sydney-2000,4,6,3,22,13,15,17,2000,summer
+Lithuania,sydney-2000,2,0,3,14,5,23,33,2000,summer
+Chinese Taipei,sydney-2000,0,1,4,12,5,23,52,2000,summer
+El Salvador,sydney-2000,0,0,0,6,0,28,59,2000,summer
+Nigeria,sydney-2000,1,2,0,7,3,25,40,2000,summer
+Singapore,sydney-2000,0,0,0,4,0,28,59,2000,summer
+Luxembourg,sydney-2000,0,0,0,4,0,28,59,2000,summer
+Uganda,sydney-2000,0,0,0,5,0,28,59,2000,summer
+Thailand,sydney-2000,1,0,2,9,3,25,45,2000,summer
+Jordan,sydney-2000,0,0,0,5,0,28,59,2000,summer
+Qatar,sydney-2000,0,0,1,5,1,27,58,2000,summer
+Saudi Arabia,sydney-2000,0,1,1,5,2,26,54,2000,summer
+Philippines,sydney-2000,0,0,0,8,0,28,59,2000,summer
+US Virgin Islands,sydney-2000,0,0,0,5,0,28,59,2000,summer
+Senegal,sydney-2000,0,0,0,4,0,28,59,2000,summer
+Armenia,sydney-2000,0,0,1,7,1,27,58,2000,summer
+Guinea-Bissau,sydney-2000,0,0,0,1,0,28,59,2000,summer
+Honduras,sydney-2000,0,0,0,3,0,28,59,2000,summer
+Nauru,sydney-2000,0,0,0,2,0,28,59,2000,summer
+Palau,sydney-2000,0,0,0,2,0,28,59,2000,summer
+Myanmar,sydney-2000,0,0,0,3,0,28,59,2000,summer
+Papua New Guinea,sydney-2000,0,0,0,2,0,28,59,2000,summer
+Albania,sydney-2000,0,0,0,2,0,28,59,2000,summer
+Sierra Leone,sydney-2000,0,0,0,1,0,28,59,2000,summer
+Dominican Republic,sydney-2000,0,0,0,3,0,28,59,2000,summer
+Ecuador,sydney-2000,0,0,0,4,0,28,59,2000,summer
+Tonga,sydney-2000,0,0,0,1,0,28,59,2000,summer
+American Samoa,sydney-2000,0,0,0,2,0,28,59,2000,summer
+Fiji,sydney-2000,0,0,0,3,0,28,59,2000,summer
+Lebanon,sydney-2000,0,0,0,3,0,28,59,2000,summer
+Nicaragua,sydney-2000,0,0,0,4,0,28,59,2000,summer
+Independent Olympic Athletes,sydney-2000,0,0,0,3,0,28,59,2000,summer
+Federated States of Micronesia,sydney-2000,0,0,0,3,0,28,59,2000,summer
+Panama,sydney-2000,0,0,0,3,0,28,59,2000,summer
+Zimbabwe,sydney-2000,0,0,0,5,0,28,59,2000,summer
+Bangladesh,sydney-2000,0,0,0,2,0,28,59,2000,summer
+Sri Lanka,sydney-2000,0,1,0,4,1,27,55,2000,summer
+Bosnia and Herzegovina,sydney-2000,0,0,0,3,0,28,59,2000,summer
+San Marino,sydney-2000,0,0,0,3,0,28,59,2000,summer
+Vietnam,sydney-2000,0,1,0,3,1,27,55,2000,summer
+Cyprus,sydney-2000,0,0,0,4,0,28,59,2000,summer
+Netherlands Antilles,sydney-2000,0,0,0,5,0,28,59,2000,summer
+United Arab Emirates,sydney-2000,0,0,0,2,0,28,59,2000,summer
+Malta,sydney-2000,0,0,0,3,0,28,59,2000,summer
+Andorra,sydney-2000,0,0,0,3,0,28,59,2000,summer
+Angola,sydney-2000,0,0,0,5,0,28,59,2000,summer
+Nepal,sydney-2000,0,0,0,2,0,28,59,2000,summer
+Liechtenstein,sydney-2000,0,0,0,1,0,28,59,2000,summer
+Oman,sydney-2000,0,0,0,2,0,28,59,2000,summer
+Barbados,sydney-2000,0,0,1,5,1,27,58,2000,summer
+Brunei,sydney-2000,0,0,0,1,0,28,59,2000,summer
+Iceland,sydney-2000,0,0,1,4,1,27,58,2000,summer
+Syrian Arab Republic,sydney-2000,0,0,0,4,0,28,59,2000,summer
+Bermuda,sydney-2000,0,0,0,3,0,28,59,2000,summer
+Bhutan,sydney-2000,0,0,0,1,0,28,59,2000,summer
+Central African Republic,sydney-2000,0,0,0,1,0,28,59,2000,summer
+Vanuatu,sydney-2000,0,0,0,1,0,28,59,2000,summer
+Antigua and Barbuda,sydney-2000,0,0,0,1,0,28,59,2000,summer
+Jamaica,sydney-2000,0,6,3,4,9,19,49,2000,summer
+Cayman Islands,sydney-2000,0,0,0,1,0,28,59,2000,summer
+Cook Islands,sydney-2000,0,0,0,1,0,28,59,2000,summer
+Bahamas,sydney-2000,2,0,1,3,3,25,34,2000,summer
+Ethiopia,sydney-2000,4,1,3,2,8,20,20,2000,summer
+Burundi,sydney-2000,0,0,0,1,0,28,59,2000,summer
+Rwanda,sydney-2000,0,0,0,2,0,28,59,2000,summer
+Lesotho,sydney-2000,0,0,0,3,0,28,59,2000,summer
+Saint Vincent and the Grenadines,sydney-2000,0,0,0,2,0,28,59,2000,summer
+Trinidad and Tobago,sydney-2000,0,1,1,3,2,26,54,2000,summer
+Swaziland,sydney-2000,0,0,0,4,0,28,59,2000,summer
+United Republic of Tanzania,sydney-2000,0,0,0,1,0,28,59,2000,summer
+Cape Verde,sydney-2000,0,0,0,1,0,28,59,2000,summer
+Tajikistan,sydney-2000,0,0,0,2,0,28,59,2000,summer
+Bolivia,sydney-2000,0,0,0,3,0,28,59,2000,summer
+Botswana,sydney-2000,0,0,0,2,0,28,59,2000,summer
+Cambodia,sydney-2000,0,0,0,2,0,28,59,2000,summer
+Libya,sydney-2000,0,0,0,2,0,28,59,2000,summer
+Democratic Republic of the Congo,sydney-2000,0,0,0,1,0,28,59,2000,summer
+Aruba,sydney-2000,0,0,0,2,0,28,59,2000,summer
+Djibouti,sydney-2000,0,0,0,1,0,28,59,2000,summer
+Mozambique,sydney-2000,1,0,0,2,1,27,47,2000,summer
+Haiti,sydney-2000,0,0,0,2,0,28,59,2000,summer
+Sudan,sydney-2000,0,0,0,2,0,28,59,2000,summer
+Saint Kitts and Nevis,sydney-2000,0,0,0,1,0,28,59,2000,summer
+Palestine,sydney-2000,0,0,0,2,0,28,59,2000,summer
+Lao People's Democratic Republic,sydney-2000,0,0,0,2,0,28,59,2000,summer
+Ghana,sydney-2000,0,0,0,1,0,28,59,2000,summer
+Zambia,sydney-2000,0,0,0,2,0,28,59,2000,summer
+Guinea,sydney-2000,0,0,0,2,0,28,59,2000,summer
+Burkina Faso,sydney-2000,0,0,0,1,0,28,59,2000,summer
+Madagascar,sydney-2000,0,0,0,2,0,28,59,2000,summer
+Suriname,sydney-2000,0,0,0,1,0,28,59,2000,summer
+Paraguay,sydney-2000,0,0,0,2,0,28,59,2000,summer
+Congo,sydney-2000,0,0,0,1,0,28,59,2000,summer
+Bahrain,sydney-2000,0,0,0,1,0,28,59,2000,summer
+Equatorial Guinea,sydney-2000,0,0,0,1,0,28,59,2000,summer
+Niger,sydney-2000,0,0,0,1,0,28,59,2000,summer
+Saint Lucia,sydney-2000,0,0,0,1,0,28,59,2000,summer
+Dominica,sydney-2000,0,0,0,1,0,28,59,2000,summer
+Maldives,sydney-2000,0,0,0,1,0,28,59,2000,summer
+Iraq,sydney-2000,0,0,0,1,0,28,59,2000,summer
+Mali,sydney-2000,0,0,0,1,0,28,59,2000,summer
+Grenada,sydney-2000,0,0,0,1,0,28,59,2000,summer
+Benin,sydney-2000,0,0,0,2,0,28,59,2000,summer
+Finland,nagano-1998,2,4,6,10,12,7,11,1998,winter
+Japan,nagano-1998,5,1,4,14,10,9,7,1998,winter
+Austria,nagano-1998,3,5,9,12,17,4,8,1998,winter
+Slovenia,nagano-1998,0,0,0,8,0,16,21,1998,winter
+Norway,nagano-1998,10,10,5,10,25,2,2,1998,winter
+Czech Republic,nagano-1998,1,1,1,9,3,13,14,1998,winter
+Germany,nagano-1998,12,9,8,14,29,1,1,1998,winter
+France,nagano-1998,2,1,5,12,8,10,13,1998,winter
+Switzerland,nagano-1998,2,2,3,12,7,11,12,1998,winter
+Poland,nagano-1998,0,0,0,10,0,16,21,1998,winter
+Russian Federation,nagano-1998,9,6,3,12,18,3,3,1998,winter
+Kazakhstan,nagano-1998,0,0,2,8,2,14,19,1998,winter
+Ukraine,nagano-1998,0,1,0,10,1,15,18,1998,winter
+Italy,nagano-1998,2,6,2,13,10,9,10,1998,winter
+Belarus,nagano-1998,0,0,2,9,2,14,19,1998,winter
+United States of America,nagano-1998,6,3,4,14,13,6,5,1998,winter
+Republic of Korea,nagano-1998,3,1,2,8,6,12,9,1998,winter
+Georgia,nagano-1998,0,0,0,2,0,16,21,1998,winter
+Slovakia,nagano-1998,0,0,0,6,0,16,21,1998,winter
+Estonia,nagano-1998,0,0,0,5,0,16,21,1998,winter
+Sweden,nagano-1998,0,2,1,9,3,13,17,1998,winter
+People's Republic of China,nagano-1998,0,6,2,7,8,10,16,1998,winter
+Romania,nagano-1998,0,0,0,7,0,16,21,1998,winter
+Canada,nagano-1998,6,5,4,12,15,5,4,1998,winter
+Latvia,nagano-1998,0,0,0,6,0,16,21,1998,winter
+Bulgaria,nagano-1998,1,0,0,6,1,15,15,1998,winter
+Lithuania,nagano-1998,0,0,0,4,0,16,21,1998,winter
+Spain,nagano-1998,0,0,0,4,0,16,21,1998,winter
+Liechtenstein,nagano-1998,0,0,0,2,0,16,21,1998,winter
+Denmark,nagano-1998,0,1,0,6,1,15,18,1998,winter
+Australia,nagano-1998,0,0,1,8,1,15,20,1998,winter
+Greece,nagano-1998,0,0,0,6,0,16,21,1998,winter
+Hungary,nagano-1998,0,0,0,6,0,16,21,1998,winter
+Mongolia,nagano-1998,0,0,0,2,0,16,21,1998,winter
+The Former Yugoslav Republic of Macedonia,nagano-1998,0,0,0,2,0,16,21,1998,winter
+Kenya,nagano-1998,0,0,0,1,0,16,21,1998,winter
+Croatia,nagano-1998,0,0,0,2,0,16,21,1998,winter
+Armenia,nagano-1998,0,0,0,4,0,16,21,1998,winter
+Bosnia and Herzegovina,nagano-1998,0,0,0,3,0,16,21,1998,winter
+Bermuda,nagano-1998,0,0,0,1,0,16,21,1998,winter
+India,nagano-1998,0,0,0,1,0,16,21,1998,winter
+Chinese Taipei,nagano-1998,0,0,0,2,0,16,21,1998,winter
+New Zealand,nagano-1998,0,0,0,6,0,16,21,1998,winter
+US Virgin Islands,nagano-1998,0,0,0,2,0,16,21,1998,winter
+Venezuela,nagano-1998,0,0,0,1,0,16,21,1998,winter
+Great Britain,nagano-1998,0,0,1,7,1,15,20,1998,winter
+Azerbaijan,nagano-1998,0,0,0,1,0,16,21,1998,winter
+Israel,nagano-1998,0,0,0,1,0,16,21,1998,winter
+Uzbekistan,nagano-1998,0,0,0,3,0,16,21,1998,winter
+South Africa,nagano-1998,0,0,0,2,0,16,21,1998,winter
+Netherlands,nagano-1998,5,4,2,3,11,8,6,1998,winter
+Democratic People's Republic of Korea,nagano-1998,0,0,0,2,0,16,21,1998,winter
+Belgium,nagano-1998,0,0,1,1,1,15,20,1998,winter
+Portugal,nagano-1998,0,0,0,2,0,16,21,1998,winter
+Serbia and Montenegro,nagano-1998,0,0,0,1,0,16,21,1998,winter
+Andorra,nagano-1998,0,0,0,1,0,16,21,1998,winter
+Iceland,nagano-1998,0,0,0,1,0,16,21,1998,winter
+Uruguay,nagano-1998,0,0,0,1,0,16,21,1998,winter
+Turkey,nagano-1998,0,0,0,1,0,16,21,1998,winter
+Islamic Republic of Iran,nagano-1998,0,0,0,1,0,16,21,1998,winter
+Puerto Rico,nagano-1998,0,0,0,2,0,16,21,1998,winter
+Cyprus,nagano-1998,0,0,0,1,0,16,21,1998,winter
+Argentina,nagano-1998,0,0,0,2,0,16,21,1998,winter
+Brazil,nagano-1998,0,0,0,1,0,16,21,1998,winter
+Chile,nagano-1998,0,0,0,1,0,16,21,1998,winter
+Ireland,nagano-1998,0,0,0,2,0,16,21,1998,winter
+Monaco,nagano-1998,0,0,0,1,0,16,21,1998,winter
+Jamaica,nagano-1998,0,0,0,1,0,16,21,1998,winter
+Trinidad and Tobago,nagano-1998,0,0,0,1,0,16,21,1998,winter
+Republic of Moldova,nagano-1998,0,0,0,1,0,16,21,1998,winter
+Kyrgyzstan,nagano-1998,0,0,0,1,0,16,21,1998,winter
+Japan,atlanta-1996,3,6,5,29,14,17,22,1996,summer
+Republic of Korea,atlanta-1996,7,15,5,24,27,8,10,1996,summer
+United States of America,atlanta-1996,44,32,25,34,101,1,1,1996,summer
+France,atlanta-1996,15,7,15,30,37,6,5,1996,summer
+Mongolia,atlanta-1996,0,0,1,7,1,26,50,1996,summer
+Brazil,atlanta-1996,3,3,9,21,15,16,24,1996,summer
+Germany,atlanta-1996,20,18,27,31,65,2,3,1996,summer
+Uzbekistan,atlanta-1996,0,1,1,11,2,25,47,1996,summer
+Georgia,atlanta-1996,0,0,2,11,2,25,49,1996,summer
+Austria,atlanta-1996,0,1,2,18,3,24,46,1996,summer
+New Zealand,atlanta-1996,3,2,1,18,6,21,25,1996,summer
+Islamic Republic of Iran,atlanta-1996,1,1,1,5,3,24,40,1996,summer
+Argentina,atlanta-1996,0,2,1,21,3,24,44,1996,summer
+Algeria,atlanta-1996,2,0,1,9,3,24,33,1996,summer
+Turkey,atlanta-1996,4,1,1,9,6,21,19,1996,summer
+Ivory Coast,atlanta-1996,0,0,0,2,0,27,51,1996,summer
+Portugal,atlanta-1996,1,0,1,17,2,25,42,1996,summer
+Hungary,atlanta-1996,7,4,10,23,21,12,12,1996,summer
+Republic of Moldova,atlanta-1996,0,1,1,10,2,25,47,1996,summer
+Kuwait,atlanta-1996,0,0,0,8,0,27,51,1996,summer
+Barbados,atlanta-1996,0,0,0,6,0,27,51,1996,summer
+San Marino,atlanta-1996,0,0,0,5,0,27,51,1996,summer
+Great Britain,atlanta-1996,1,8,6,26,15,16,34,1996,summer
+Poland,atlanta-1996,7,5,5,22,17,15,11,1996,summer
+Italy,atlanta-1996,13,10,12,31,35,7,6,1996,summer
+Puerto Rico,atlanta-1996,0,0,1,15,1,26,50,1996,summer
+Kazakhstan,atlanta-1996,3,4,4,14,11,18,23,1996,summer
+Chinese Taipei,atlanta-1996,0,1,0,14,1,26,48,1996,summer
+Paraguay,atlanta-1996,0,0,0,4,0,27,51,1996,summer
+Tunisia,atlanta-1996,0,0,1,9,1,26,50,1996,summer
+El Salvador,atlanta-1996,0,0,0,5,0,27,51,1996,summer
+Costa Rica,atlanta-1996,1,0,0,6,1,26,43,1996,summer
+Russian Federation,atlanta-1996,26,21,16,28,63,3,2,1996,summer
+Bosnia and Herzegovina,atlanta-1996,0,0,0,7,0,27,51,1996,summer
+Guatemala,atlanta-1996,0,0,0,12,0,27,51,1996,summer
+Belgium,atlanta-1996,2,2,2,16,6,21,30,1996,summer
+Cuba,atlanta-1996,9,8,8,16,25,9,8,1996,summer
+Ukraine,atlanta-1996,9,2,12,22,23,10,9,1996,summer
+Romania,atlanta-1996,4,7,9,17,20,13,14,1996,summer
+Spain,atlanta-1996,5,6,6,27,17,15,13,1996,summer
+Venezuela,atlanta-1996,0,0,0,13,0,27,51,1996,summer
+Mauritius,atlanta-1996,0,0,0,6,0,27,51,1996,summer
+Canada,atlanta-1996,3,11,8,29,22,11,20,1996,summer
+People's Republic of China,atlanta-1996,16,22,12,27,50,4,4,1996,summer
+Turkmenistan,atlanta-1996,0,0,0,5,0,27,51,1996,summer
+Netherlands,atlanta-1996,4,5,10,22,19,14,15,1996,summer
+Australia,atlanta-1996,9,9,23,31,41,5,7,1996,summer
+India,atlanta-1996,0,0,1,12,1,26,50,1996,summer
+Switzerland,atlanta-1996,4,3,0,22,7,20,18,1996,summer
+Greece,atlanta-1996,4,4,0,17,8,19,16,1996,summer
+Nicaragua,atlanta-1996,0,0,0,5,0,27,51,1996,summer
+Luxembourg,atlanta-1996,0,0,0,4,0,27,51,1996,summer
+Kyrgyzstan,atlanta-1996,0,0,0,8,0,27,51,1996,summer
+Belarus,atlanta-1996,1,6,8,21,15,16,35,1996,summer
+Tajikistan,atlanta-1996,0,0,0,5,0,27,51,1996,summer
+Serbia and Montenegro,atlanta-1996,1,1,2,12,4,23,39,1996,summer
+Thailand,atlanta-1996,1,0,1,9,2,25,42,1996,summer
+Dominican Republic,atlanta-1996,0,0,0,6,0,27,51,1996,summer
+Senegal,atlanta-1996,0,0,0,3,0,27,51,1996,summer
+Estonia,atlanta-1996,0,0,0,14,0,27,51,1996,summer
+Iceland,atlanta-1996,0,0,0,4,0,27,51,1996,summer
+Fiji,atlanta-1996,0,0,0,4,0,27,51,1996,summer
+Uruguay,atlanta-1996,0,0,0,9,0,27,51,1996,summer
+Mexico,atlanta-1996,0,0,1,20,1,26,50,1996,summer
+Egypt,atlanta-1996,0,0,0,8,0,27,51,1996,summer
+Slovakia,atlanta-1996,1,1,1,15,3,24,40,1996,summer
+Israel,atlanta-1996,0,0,1,9,1,26,50,1996,summer
+Malta,atlanta-1996,0,0,0,5,0,27,51,1996,summer
+Czech Republic,atlanta-1996,4,3,4,17,11,18,17,1996,summer
+"Hong Kong, China",atlanta-1996,1,0,0,9,1,26,43,1996,summer
+Liechtenstein,atlanta-1996,0,0,0,2,0,27,51,1996,summer
+Honduras,atlanta-1996,0,0,0,3,0,27,51,1996,summer
+Morocco,atlanta-1996,0,0,2,6,2,25,49,1996,summer
+Azerbaijan,atlanta-1996,0,1,0,8,1,26,48,1996,summer
+Ireland,atlanta-1996,3,0,1,16,4,23,27,1996,summer
+Lithuania,atlanta-1996,0,0,1,13,1,26,50,1996,summer
+Haiti,atlanta-1996,0,0,0,3,0,27,51,1996,summer
+Cameroon,atlanta-1996,0,0,0,4,0,27,51,1996,summer
+Netherlands Antilles,atlanta-1996,0,0,0,4,0,27,51,1996,summer
+Congo,atlanta-1996,0,0,0,2,0,27,51,1996,summer
+Indonesia,atlanta-1996,1,1,2,11,4,23,39,1996,summer
+Gabon,atlanta-1996,0,0,0,2,0,27,51,1996,summer
+Bulgaria,atlanta-1996,3,7,5,17,15,16,21,1996,summer
+South Africa,atlanta-1996,3,1,1,15,5,22,26,1996,summer
+Finland,atlanta-1996,1,2,1,15,4,23,38,1996,summer
+Andorra,atlanta-1996,0,0,0,5,0,27,51,1996,summer
+Sweden,atlanta-1996,2,4,2,25,8,19,28,1996,summer
+Monaco,atlanta-1996,0,0,0,3,0,27,51,1996,summer
+Nigeria,atlanta-1996,2,1,3,10,6,21,31,1996,summer
+Armenia,atlanta-1996,1,1,0,10,2,25,41,1996,summer
+Democratic People's Republic of Korea,atlanta-1996,2,1,2,8,5,22,32,1996,summer
+Vietnam,atlanta-1996,0,0,0,3,0,27,51,1996,summer
+Peru,atlanta-1996,0,0,0,8,0,27,51,1996,summer
+The Former Yugoslav Republic of Macedonia,atlanta-1996,0,0,0,4,0,27,51,1996,summer
+Guinea-Bissau,atlanta-1996,0,0,0,1,0,27,51,1996,summer
+Pakistan,atlanta-1996,0,0,0,4,0,27,51,1996,summer
+American Samoa,atlanta-1996,0,0,0,4,0,27,51,1996,summer
+Latvia,atlanta-1996,0,1,0,13,1,26,48,1996,summer
+Syrian Arab Republic,atlanta-1996,1,0,0,5,1,26,43,1996,summer
+Norway,atlanta-1996,2,2,3,17,7,20,29,1996,summer
+Albania,atlanta-1996,0,0,0,4,0,27,51,1996,summer
+Cyprus,atlanta-1996,0,0,0,4,0,27,51,1996,summer
+Cambodia,atlanta-1996,0,0,0,3,0,27,51,1996,summer
+Colombia,atlanta-1996,0,0,0,11,0,27,51,1996,summer
+Yemen,atlanta-1996,0,0,0,3,0,27,51,1996,summer
+Croatia,atlanta-1996,1,1,0,13,2,25,41,1996,summer
+Panama,atlanta-1996,0,0,0,6,0,27,51,1996,summer
+Guam,atlanta-1996,0,0,0,4,0,27,51,1996,summer
+Denmark,atlanta-1996,4,1,1,17,6,21,19,1996,summer
+Antigua and Barbuda,atlanta-1996,0,0,0,2,0,27,51,1996,summer
+Slovenia,atlanta-1996,0,2,0,8,2,25,45,1996,summer
+Bhutan,atlanta-1996,0,0,0,1,0,27,51,1996,summer
+Kenya,atlanta-1996,1,4,3,5,8,19,36,1996,summer
+Malaysia,atlanta-1996,0,1,1,8,2,25,47,1996,summer
+Chile,atlanta-1996,0,0,0,11,0,27,51,1996,summer
+Trinidad and Tobago,atlanta-1996,0,0,2,6,2,25,49,1996,summer
+Ghana,atlanta-1996,0,0,0,3,0,27,51,1996,summer
+Saudi Arabia,atlanta-1996,0,0,0,5,0,27,51,1996,summer
+Belize,atlanta-1996,0,0,0,2,0,27,51,1996,summer
+United Arab Emirates,atlanta-1996,0,0,0,3,0,27,51,1996,summer
+Ecuador,atlanta-1996,1,0,0,7,1,26,43,1996,summer
+Zimbabwe,atlanta-1996,0,0,0,6,0,27,51,1996,summer
+Bermuda,atlanta-1996,0,0,0,4,0,27,51,1996,summer
+Aruba,atlanta-1996,0,0,0,2,0,27,51,1996,summer
+Oman,atlanta-1996,0,0,0,3,0,27,51,1996,summer
+Libya,atlanta-1996,0,0,0,2,0,27,51,1996,summer
+Cayman Islands,atlanta-1996,0,0,0,2,0,27,51,1996,summer
+Suriname,atlanta-1996,0,0,0,2,0,27,51,1996,summer
+Singapore,atlanta-1996,0,0,0,6,0,27,51,1996,summer
+Philippines,atlanta-1996,0,1,0,6,1,26,48,1996,summer
+Bolivia,atlanta-1996,0,0,0,4,0,27,51,1996,summer
+British Virgin Islands,atlanta-1996,0,0,0,1,0,27,51,1996,summer
+Seychelles,atlanta-1996,0,0,0,4,0,27,51,1996,summer
+Saint Lucia,atlanta-1996,0,0,0,2,0,27,51,1996,summer
+Bahamas,atlanta-1996,0,1,0,4,1,26,48,1996,summer
+Qatar,atlanta-1996,0,0,0,4,0,27,51,1996,summer
+Bahrain,atlanta-1996,0,0,0,1,0,27,51,1996,summer
+Djibouti,atlanta-1996,0,0,0,2,0,27,51,1996,summer
+US Virgin Islands,atlanta-1996,0,0,0,5,0,27,51,1996,summer
+Cook Islands,atlanta-1996,0,0,0,2,0,27,51,1996,summer
+Jamaica,atlanta-1996,1,3,2,5,6,21,37,1996,summer
+Democratic Republic of the Congo,atlanta-1996,0,0,0,2,0,27,51,1996,summer
+Angola,atlanta-1996,0,0,0,4,0,27,51,1996,summer
+Uganda,atlanta-1996,0,0,1,4,1,26,50,1996,summer
+Lebanon,atlanta-1996,0,0,0,1,0,27,51,1996,summer
+Sudan,atlanta-1996,0,0,0,2,0,27,51,1996,summer
+Iraq,atlanta-1996,0,0,0,2,0,27,51,1996,summer
+Papua New Guinea,atlanta-1996,0,0,0,2,0,27,51,1996,summer
+Samoa,atlanta-1996,0,0,0,2,0,27,51,1996,summer
+Nauru,atlanta-1996,0,0,0,1,0,27,51,1996,summer
+Tonga,atlanta-1996,0,1,0,2,1,26,48,1996,summer
+Solomon Islands,atlanta-1996,0,0,0,1,0,27,51,1996,summer
+Nepal,atlanta-1996,0,0,0,4,0,27,51,1996,summer
+Ethiopia,atlanta-1996,2,0,1,2,3,24,33,1996,summer
+Burundi,atlanta-1996,1,0,0,1,1,26,43,1996,summer
+Rwanda,atlanta-1996,0,0,0,1,0,27,51,1996,summer
+United Republic of Tanzania,atlanta-1996,0,0,0,2,0,27,51,1996,summer
+Somalia,atlanta-1996,0,0,0,1,0,27,51,1996,summer
+Namibia,atlanta-1996,0,2,0,4,2,25,45,1996,summer
+Cape Verde,atlanta-1996,0,0,0,1,0,27,51,1996,summer
+Zambia,atlanta-1996,0,1,0,2,1,26,48,1996,summer
+Sierra Leone,atlanta-1996,0,0,0,3,0,27,51,1996,summer
+Mozambique,atlanta-1996,0,0,1,3,1,26,50,1996,summer
+Lesotho,atlanta-1996,0,0,0,1,0,27,51,1996,summer
+Swaziland,atlanta-1996,0,0,0,3,0,27,51,1996,summer
+Malawi,atlanta-1996,0,0,0,1,0,27,51,1996,summer
+Niger,atlanta-1996,0,0,0,1,0,27,51,1996,summer
+Saint Vincent and the Grenadines,atlanta-1996,0,0,0,1,0,27,51,1996,summer
+Central African Republic,atlanta-1996,0,0,0,1,0,27,51,1996,summer
+Afghanistan,atlanta-1996,0,0,0,1,0,27,51,1996,summer
+Madagascar,atlanta-1996,0,0,0,4,0,27,51,1996,summer
+Botswana,atlanta-1996,0,0,0,2,0,27,51,1996,summer
+Myanmar,atlanta-1996,0,0,0,2,0,27,51,1996,summer
+Lao People's Democratic Republic,atlanta-1996,0,0,0,1,0,27,51,1996,summer
+Jordan,atlanta-1996,0,0,0,2,0,27,51,1996,summer
+Bangladesh,atlanta-1996,0,0,0,2,0,27,51,1996,summer
+Dominica,atlanta-1996,0,0,0,1,0,27,51,1996,summer
+Maldives,atlanta-1996,0,0,0,1,0,27,51,1996,summer
+Brunei,atlanta-1996,0,0,0,1,0,27,51,1996,summer
+Sri Lanka,atlanta-1996,0,0,0,2,0,27,51,1996,summer
+Burkina Faso,atlanta-1996,0,0,0,1,0,27,51,1996,summer
+Guinea,atlanta-1996,0,0,0,1,0,27,51,1996,summer
+Guyana,atlanta-1996,0,0,0,1,0,27,51,1996,summer
+Japan,lillehammer-1994,1,2,2,11,5,8,11,1994,winter
+Norway,lillehammer-1994,10,11,5,10,26,1,2,1994,winter
+Switzerland,lillehammer-1994,3,4,2,10,9,6,8,1994,winter
+Estonia,lillehammer-1994,0,0,0,5,0,13,23,1994,winter
+Czech Republic,lillehammer-1994,0,0,0,7,0,13,23,1994,winter
+France,lillehammer-1994,0,1,4,10,5,8,17,1994,winter
+United States of America,lillehammer-1994,6,5,2,12,13,5,5,1994,winter
+Finland,lillehammer-1994,0,1,5,8,6,7,16,1994,winter
+Austria,lillehammer-1994,2,3,4,10,9,6,9,1994,winter
+Germany,lillehammer-1994,9,7,8,11,24,2,3,1994,winter
+Italy,lillehammer-1994,7,5,8,11,20,4,4,1994,winter
+Russian Federation,lillehammer-1994,11,8,4,12,23,3,1,1994,winter
+Ukraine,lillehammer-1994,1,0,1,10,2,11,13,1994,winter
+Poland,lillehammer-1994,0,0,0,8,0,13,23,1994,winter
+Slovakia,lillehammer-1994,0,0,0,7,0,13,23,1994,winter
+Belarus,lillehammer-1994,0,2,0,7,2,11,15,1994,winter
+Sweden,lillehammer-1994,2,1,0,10,3,10,10,1994,winter
+Latvia,lillehammer-1994,0,0,0,6,0,13,23,1994,winter
+Canada,lillehammer-1994,3,6,4,10,13,5,7,1994,winter
+US Virgin Islands,lillehammer-1994,0,0,0,2,0,13,23,1994,winter
+Greece,lillehammer-1994,0,0,0,5,0,13,23,1994,winter
+Great Britain,lillehammer-1994,0,0,2,8,2,11,21,1994,winter
+Liechtenstein,lillehammer-1994,0,0,0,3,0,13,23,1994,winter
+Bermuda,lillehammer-1994,0,0,0,1,0,13,23,1994,winter
+Bosnia and Herzegovina,lillehammer-1994,0,0,0,4,0,13,23,1994,winter
+Australia,lillehammer-1994,0,0,1,9,1,12,22,1994,winter
+Romania,lillehammer-1994,0,0,0,7,0,13,23,1994,winter
+Georgia,lillehammer-1994,0,0,0,3,0,13,23,1994,winter
+Bulgaria,lillehammer-1994,0,0,0,7,0,13,23,1994,winter
+Slovenia,lillehammer-1994,0,0,3,3,3,10,20,1994,winter
+Kazakhstan,lillehammer-1994,1,2,0,8,3,10,12,1994,winter
+People's Republic of China,lillehammer-1994,0,1,2,5,3,10,19,1994,winter
+Hungary,lillehammer-1994,0,0,0,5,0,13,23,1994,winter
+Lithuania,lillehammer-1994,0,0,0,3,0,13,23,1994,winter
+Argentina,lillehammer-1994,0,0,0,2,0,13,23,1994,winter
+Kyrgyzstan,lillehammer-1994,0,0,0,1,0,13,23,1994,winter
+Republic of Moldova,lillehammer-1994,0,0,0,1,0,13,23,1994,winter
+Netherlands,lillehammer-1994,0,1,3,4,4,9,18,1994,winter
+Uzbekistan,lillehammer-1994,1,0,0,2,1,12,14,1994,winter
+Spain,lillehammer-1994,0,0,0,4,0,13,23,1994,winter
+Republic of Korea,lillehammer-1994,4,1,1,5,6,7,6,1994,winter
+New Zealand,lillehammer-1994,0,0,0,2,0,13,23,1994,winter
+Mongolia,lillehammer-1994,0,0,0,1,0,13,23,1994,winter
+Belgium,lillehammer-1994,0,0,0,2,0,13,23,1994,winter
+South Africa,lillehammer-1994,0,0,0,2,0,13,23,1994,winter
+Denmark,lillehammer-1994,0,0,0,3,0,13,23,1994,winter
+Israel,lillehammer-1994,0,0,0,1,0,13,23,1994,winter
+Andorra,lillehammer-1994,0,0,0,1,0,13,23,1994,winter
+Iceland,lillehammer-1994,0,0,0,2,0,13,23,1994,winter
+Croatia,lillehammer-1994,0,0,0,2,0,13,23,1994,winter
+Luxembourg,lillehammer-1994,0,0,0,1,0,13,23,1994,winter
+Cyprus,lillehammer-1994,0,0,0,1,0,13,23,1994,winter
+Chile,lillehammer-1994,0,0,0,1,0,13,23,1994,winter
+Portugal,lillehammer-1994,0,0,0,1,0,13,23,1994,winter
+Mexico,lillehammer-1994,0,0,0,1,0,13,23,1994,winter
+Brazil,lillehammer-1994,0,0,0,1,0,13,23,1994,winter
+Senegal,lillehammer-1994,0,0,0,1,0,13,23,1994,winter
+Monaco,lillehammer-1994,0,0,0,2,0,13,23,1994,winter
+San Marino,lillehammer-1994,0,0,0,2,0,13,23,1994,winter
+Turkey,lillehammer-1994,0,0,0,1,0,13,23,1994,winter
+Fiji,lillehammer-1994,0,0,0,1,0,13,23,1994,winter
+Jamaica,lillehammer-1994,0,0,0,1,0,13,23,1994,winter
+Puerto Rico,lillehammer-1994,0,0,0,1,0,13,23,1994,winter
+Chinese Taipei,lillehammer-1994,0,0,0,1,0,13,23,1994,winter
+Armenia,lillehammer-1994,0,0,0,1,0,13,23,1994,winter
+Trinidad and Tobago,lillehammer-1994,0,0,0,1,0,13,23,1994,winter
+American Samoa,lillehammer-1994,0,0,0,1,0,13,23,1994,winter
